@@ -1,0 +1,10 @@
+{ 
+"format": "edge_list",
+ "uri": "input.edge",
+ "separator": " ",
+ "node_props":[{
+        "name":"nodeID",
+        "type":"integer"
+    }]
+
+ }

@@ -1,0 +1,140 @@
+/*greenmarl code for edge betweeness*/
+
+procedure label_propagation(G:graph, ID:N_P <int>(G);BC:nodeProp <int>(G)):int
+{
+        bool stop = false;
+        edgeProp <int>(G) weight;                 // weight of each edge (undirected will be 1)
+        edgeProp <bool>(G) removed;               //present or removed from graph
+        nodeProp <int>(G) original_degree;    //summation of all weights of the
+        int modularity = 0;
+	int max_ = -1;
+
+        if( G.numNodes() <= 1 ) return 0;         //if no nodes means no communities
+
+        //let the initial labels be equal to the names of the nodes/vertices
+
+        foreach(e : G.edges)
+        {
+                e.weight = 1;
+                e.removed = false;
+        }
+
+        foreach(e : G.edges)
+        {
+                modularity += e.weight;
+        }
+
+        modularity = modularity / 2;
+
+        foreach(n : G.nodes)
+        {
+                //n.label = n.ID;
+                n.original_degree = n.degree();
+        }
+        return G.numNodes();
+/*
+        
+		//run the girvan newman algo
+	
+		//run GirvanNewman algorithm and find the best community split by maximizing modularity measure
+		//let's find the best split of the graph
+	
+		int BestQ = 0;
+		int Q = 0;
+		nodeProp <float>(G) SCC;
+		//nodeProp <float>(G) BC;
+		
+		int init_comp = 1;
+		int compId = 0;	
+		//while(mainstop == True)
+		{
+			//communityGirvanNewman Step
+		
+			
+			//https://docs.oracle.com/cd/E56133_01/1.2.0/reference/algorithms/kosaraju.html => code to find the connected components
+			// Initialize SCCbership
+			G.SCC = -1;
+
+			N_P<bool> Checked;
+			G.Checked = false;
+
+			// [Phase 1]
+			// Obtain reverse-post-DFS-order of node sequence.
+			// nodeOrder can be also used here but nodeSeq is faster
+			nodeSeq Seq; 
+			for(t:G.nodes) (!t.Checked)
+			{
+				inDFS(n:G.nodes from t)[!n.Checked] 
+				{} // do nothing at pre-visit
+				inPost{ // check at post-visit
+					n.Checked = true;
+					Seq.pushFront(n);
+				}
+			}
+
+			// [Phase 2]
+			// Starting from each node in the sequence
+			//   do BFS on the transposed graph G^.
+			//   and every nodes that are (newly) visited compose one SCC.
+			//
+			for(t:Seq.items)(t.SCC == -1)
+			{
+				inBFS(n:G^.nodes from t)[n.SCC == -1] 
+				{
+					n.SCC = compId;
+				}
+				compId++;
+			}
+			init_comp = compId;
+			
+			//code completes for compId search
+			//start for betweeness centrality
+			
+			G.BC = 0; // Initialize
+
+			foreach (s:G.nodes) 
+			{
+				// temporary values per node
+				nodeProperty<double> sigma;
+				nodeProperty<double> delta;
+				G.sigma = 0;
+				s.sigma = 1;
+
+				// BFS order iteration from s
+				inBFS(v: G.nodes from s) (v != s) 
+				{
+					// Summing over BFS parents
+					v.sigma = sum(w:v.upNbrs) { w.sigma };
+				}
+				inReverse(v!=s) 
+				{ 
+					// Reverse-BFS order iteration to s
+					v.delta =  // Summing over BFS children
+							sum (w:v.downNbrs) { (1+ w.delta) / w.sigma } * v.sigma;
+
+					v.BC += v.delta ; // accumulate BC
+				}
+			}
+			//find the edge with max centrality <find the nodes with max centrality and remove all edges associated with it>
+		//	map<edge, double> 	
+			max_ =  max(n1 : G.nodes){n1.BC}; 
+			
+			foreach (n1 : G.nodes)
+			{
+				if(n1.BC == max_)
+					{
+						
+					}
+			}
+			// code ends 	
+				
+			
+		}
+		return max_;
+		//return compId;
+		//return modularity;
+        //return g.numNodes();
+*/
+
+}
+
