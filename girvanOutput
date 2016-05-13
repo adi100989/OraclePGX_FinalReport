@@ -1,0 +1,8092 @@
+
+ entered Java Program
+05:26:14,429 [main] INFO Ctrl$2 - >>> PGX engine running.
+
+ After Compiling greenmarl Java Program
+
+ graph loaded
+
+ run start
+
+ run ended
+
+ the degree for node0is 2383194
+
+ the degree for node1is 37
+
+ the degree for node2is 0
+
+ the degree for node3is 15
+
+ the degree for node4is 1
+
+ the degree for node5is 29
+
+ the degree for node6is 0
+
+ the degree for node7is 2263
+
+ the degree for node8is 3
+
+ the degree for node9is 239
+
+ the degree for node10is 0
+
+ the degree for node11is 0
+
+ the degree for node12is 0
+
+ the degree for node13is 15
+
+ the degree for node14is 3
+
+ the degree for node15is 0
+
+ the degree for node16is 0
+
+ the degree for node17is 2
+
+ the degree for node18is 0
+
+ the degree for node19is 78
+
+ the degree for node20is 5
+
+ the degree for node21is 14781
+
+ the degree for node22is 6
+
+ the degree for node23is 104
+
+ the degree for node24is 0
+
+ the degree for node25is 842
+
+ the degree for node26is 282
+
+ the degree for node27is 0
+
+ the degree for node28is 2
+
+ the degree for node29is 17
+
+ the degree for node30is 13
+
+ the degree for node31is 69
+
+ the degree for node32is 0
+
+ the degree for node33is 0
+
+ the degree for node34is 58406
+
+ the degree for node35is 0
+
+ the degree for node36is 0
+
+ the degree for node37is 0
+
+ the degree for node38is 7
+
+ the degree for node39is 9
+
+ the degree for node40is 200
+
+ the degree for node41is 65
+
+ the degree for node42is 0
+
+ the degree for node43is 0
+
+ the degree for node44is 0
+
+ the degree for node45is 2
+
+ the degree for node46is 0
+
+ the degree for node47is 0
+
+ the degree for node48is 75
+
+ the degree for node49is 3
+
+ the degree for node50is 4
+
+ the degree for node51is 0
+
+ the degree for node52is 0
+
+ the degree for node53is 165
+
+ the degree for node54is 3
+
+ the degree for node55is 0
+
+ the degree for node56is 17439
+
+ the degree for node57is 18
+
+ the degree for node58is 1372898
+
+ the degree for node59is 5
+
+ the degree for node60is 0
+
+ the degree for node61is 0
+
+ the degree for node62is 35
+
+ the degree for node63is 0
+
+ the degree for node64is 104
+
+ the degree for node65is 5
+
+ the degree for node66is 0
+
+ the degree for node67is 14481
+
+ the degree for node68is 0
+
+ the degree for node69is 0
+
+ the degree for node70is 0
+
+ the degree for node71is 0
+
+ the degree for node72is 19
+
+ the degree for node73is 6
+
+ the degree for node74is 0
+
+ the degree for node75is 0
+
+ the degree for node76is 0
+
+ the degree for node77is 1
+
+ the degree for node78is 0
+
+ the degree for node79is 0
+
+ the degree for node80is 2400
+
+ the degree for node81is 0
+
+ the degree for node82is 102
+
+ the degree for node83is 0
+
+ the degree for node84is 17
+
+ the degree for node85is 3
+
+ the degree for node86is 0
+
+ the degree for node87is 376
+
+ the degree for node88is 65
+
+ the degree for node89is 2
+
+ the degree for node90is 0
+
+ the degree for node91is 3
+
+ the degree for node92is 4
+
+ the degree for node93is 0
+
+ the degree for node94is 25
+
+ the degree for node95is 0
+
+ the degree for node96is 8
+
+ the degree for node97is 0
+
+ the degree for node98is 86
+
+ the degree for node99is 7
+
+ the degree for node100is 3
+
+ the degree for node101is 5
+
+ the degree for node102is 0
+
+ the degree for node103is 1309
+
+ the degree for node104is 33
+
+ the degree for node105is 2
+
+ the degree for node106is 3
+
+ the degree for node107is 7831194
+
+ the degree for node108is 2
+
+ the degree for node109is 76
+
+ the degree for node110is 0
+
+ the degree for node111is 20
+
+ the degree for node112is 0
+
+ the degree for node113is 63
+
+ the degree for node114is 0
+
+ the degree for node115is 44
+
+ the degree for node116is 11
+
+ the degree for node117is 1
+
+ the degree for node118is 75
+
+ the degree for node119is 24293
+
+ the degree for node120is 364
+
+ the degree for node121is 11
+
+ the degree for node122is 11843
+
+ the degree for node123is 1
+
+ the degree for node124is 1
+
+ the degree for node125is 67
+
+ the degree for node126is 1
+
+ the degree for node127is 3
+
+ the degree for node128is 26
+
+ the degree for node129is 0
+
+ the degree for node130is 32
+
+ the degree for node131is 0
+
+ the degree for node132is 26
+
+ the degree for node133is 22
+
+ the degree for node134is 3
+
+ the degree for node135is 0
+
+ the degree for node136is 436789
+
+ the degree for node137is 27
+
+ the degree for node138is 0
+
+ the degree for node139is 0
+
+ the degree for node140is 0
+
+ the degree for node141is 29
+
+ the degree for node142is 65
+
+ the degree for node143is 14
+
+ the degree for node144is 7
+
+ the degree for node145is 0
+
+ the degree for node146is 1904
+
+ the degree for node147is 0
+
+ the degree for node148is 32
+
+ the degree for node149is 1
+
+ the degree for node150is 791
+
+ the degree for node151is 0
+
+ the degree for node152is 1
+
+ the degree for node153is 0
+
+ the degree for node154is 0
+
+ the degree for node155is 0
+
+ the degree for node156is 2217
+
+ the degree for node157is 0
+
+ the degree for node158is 68
+
+ the degree for node159is 12
+
+ the degree for node160is 0
+
+ the degree for node161is 24
+
+ the degree for node162is 0
+
+ the degree for node163is 212
+
+ the degree for node164is 0
+
+ the degree for node165is 1
+
+ the degree for node166is 3
+
+ the degree for node167is 0
+
+ the degree for node168is 0
+
+ the degree for node169is 6126
+
+ the degree for node170is 176
+
+ the degree for node171is 250233
+
+ the degree for node172is 116
+
+ the degree for node173is 58464
+
+ the degree for node174is 0
+
+ the degree for node175is 48
+
+ the degree for node176is 2
+
+ the degree for node177is 1
+
+ the degree for node178is 16
+
+ the degree for node179is 0
+
+ the degree for node180is 7
+
+ the degree for node181is 1
+
+ the degree for node182is 0
+
+ the degree for node183is 0
+
+ the degree for node184is 13
+
+ the degree for node185is 33
+
+ the degree for node186is 112
+
+ the degree for node187is 3
+
+ the degree for node188is 148
+
+ the degree for node189is 104
+
+ the degree for node190is 3
+
+ the degree for node191is 0
+
+ the degree for node192is 4
+
+ the degree for node193is 1
+
+ the degree for node194is 3
+
+ the degree for node195is 0
+
+ the degree for node196is 12
+
+ the degree for node197is 1
+
+ the degree for node198is 26684
+
+ the degree for node199is 131
+
+ the degree for node200is 199
+
+ the degree for node201is 0
+
+ the degree for node202is 62
+
+ the degree for node203is 242
+
+ the degree for node204is 33
+
+ the degree for node205is 0
+
+ the degree for node206is 1
+
+ the degree for node207is 0
+
+ the degree for node208is 0
+
+ the degree for node209is 0
+
+ the degree for node210is 0
+
+ the degree for node211is 24
+
+ the degree for node212is 5
+
+ the degree for node213is 7291
+
+ the degree for node214is 20
+
+ the degree for node215is 0
+
+ the degree for node216is 0
+
+ the degree for node217is 258
+
+ the degree for node218is 0
+
+ the degree for node219is 2
+
+ the degree for node220is 0
+
+ the degree for node221is 0
+
+ the degree for node222is 4
+
+ the degree for node223is 6
+
+ the degree for node224is 33
+
+ the degree for node225is 0
+
+ the degree for node226is 1
+
+ the degree for node227is 22
+
+ the degree for node228is 0
+
+ the degree for node229is 2
+
+ the degree for node230is 22
+
+ the degree for node231is 37
+
+ the degree for node232is 10
+
+ the degree for node233is 0
+
+ the degree for node234is 0
+
+ the degree for node235is 0
+
+ the degree for node236is 114
+
+ the degree for node237is 0
+
+ the degree for node238is 14
+
+ the degree for node239is 276
+
+ the degree for node240is 0
+
+ the degree for node241is 0
+
+ the degree for node242is 45
+
+ the degree for node243is 5
+
+ the degree for node244is 0
+
+ the degree for node245is 1
+
+ the degree for node246is 311
+
+ the degree for node247is 0
+
+ the degree for node248is 24
+
+ the degree for node249is 40
+
+ the degree for node250is 0
+
+ the degree for node251is 1
+
+ the degree for node252is 291
+
+ the degree for node253is 0
+
+ the degree for node254is 0
+
+ the degree for node255is 0
+
+ the degree for node256is 0
+
+ the degree for node257is 17
+
+ the degree for node258is 9
+
+ the degree for node259is 3
+
+ the degree for node260is 9
+
+ the degree for node261is 95
+
+ the degree for node262is 0
+
+ the degree for node263is 0
+
+ the degree for node264is 0
+
+ the degree for node265is 26
+
+ the degree for node266is 0
+
+ the degree for node267is 0
+
+ the degree for node268is 0
+
+ the degree for node269is 832
+
+ the degree for node270is 0
+
+ the degree for node271is 409
+
+ the degree for node272is 287
+
+ the degree for node273is 0
+
+ the degree for node274is 7
+
+ the degree for node275is 1
+
+ the degree for node276is 2
+
+ the degree for node277is 607
+
+ the degree for node278is 1
+
+ the degree for node279is 0
+
+ the degree for node280is 145
+
+ the degree for node281is 3
+
+ the degree for node282is 0
+
+ the degree for node283is 0
+
+ the degree for node284is 4
+
+ the degree for node285is 7707
+
+ the degree for node286is 0
+
+ the degree for node287is 0
+
+ the degree for node288is 0
+
+ the degree for node289is 0
+
+ the degree for node290is 0
+
+ the degree for node291is 133
+
+ the degree for node292is 0
+
+ the degree for node293is 0
+
+ the degree for node294is 0
+
+ the degree for node295is 3
+
+ the degree for node296is 0
+
+ the degree for node297is 6
+
+ the degree for node298is 0
+
+ the degree for node299is 15
+
+ the degree for node300is 0
+
+ the degree for node301is 0
+
+ the degree for node302is 4
+
+ the degree for node303is 16
+
+ the degree for node304is 9221
+
+ the degree for node305is 0
+
+ the degree for node306is 0
+
+ the degree for node307is 1
+
+ the degree for node308is 2491
+
+ the degree for node309is 0
+
+ the degree for node310is 15
+
+ the degree for node311is 2
+
+ the degree for node312is 93
+
+ the degree for node313is 112
+
+ the degree for node314is 11
+
+ the degree for node315is 10386
+
+ the degree for node316is 0
+
+ the degree for node317is 3
+
+ the degree for node318is 0
+
+ the degree for node319is 2
+
+ the degree for node320is 60
+
+ the degree for node321is 0
+
+ the degree for node322is 15139
+
+ the degree for node323is 109
+
+ the degree for node324is 5513
+
+ the degree for node325is 50
+
+ the degree for node326is 8
+
+ the degree for node327is 0
+
+ the degree for node328is 0
+
+ the degree for node329is 209
+
+ the degree for node330is 1
+
+ the degree for node331is 23
+
+ the degree for node332is 172
+
+ the degree for node333is 0
+
+ the degree for node334is 49
+
+ the degree for node335is 0
+
+ the degree for node336is 0
+
+ the degree for node337is 0
+
+ the degree for node338is 0
+
+ the degree for node339is 4981
+
+ the degree for node340is 0
+
+ the degree for node341is 0
+
+ the degree for node342is 42
+
+ the degree for node343is 10
+
+ the degree for node344is 3
+
+ the degree for node345is 7
+
+ the degree for node346is 78
+
+ the degree for node347is 0
+
+ the degree for node348is 616995
+
+ the degree for node349is 0
+
+ the degree for node350is 682
+
+ the degree for node351is 56
+
+ the degree for node352is 3
+
+ the degree for node353is 33020
+
+ the degree for node354is 14
+
+ the degree for node355is 95
+
+ the degree for node356is 0
+
+ the degree for node357is 409
+
+ the degree for node358is 0
+
+ the degree for node359is 103
+
+ the degree for node360is 2538
+
+ the degree for node361is 47
+
+ the degree for node362is 12
+
+ the degree for node363is 22451
+
+ the degree for node364is 1
+
+ the degree for node365is 0
+
+ the degree for node366is 17678
+
+ the degree for node367is 280
+
+ the degree for node368is 94
+
+ the degree for node369is 623
+
+ the degree for node370is 4541
+
+ the degree for node371is 0
+
+ the degree for node372is 62
+
+ the degree for node373is 12771
+
+ the degree for node374is 4080
+
+ the degree for node375is 3
+
+ the degree for node376is 99298
+
+ the degree for node377is 0
+
+ the degree for node378is 1072
+
+ the degree for node379is 0
+
+ the degree for node380is 0
+
+ the degree for node381is 0
+
+ the degree for node382is 0
+
+ the degree for node383is 0
+
+ the degree for node384is 0
+
+ the degree for node385is 1
+
+ the degree for node386is 0
+
+ the degree for node387is 2478
+
+ the degree for node388is 1697
+
+ the degree for node389is 28056
+
+ the degree for node390is 1
+
+ the degree for node391is 5815
+
+ the degree for node392is 647
+
+ the degree for node393is 0
+
+ the degree for node394is 153
+
+ the degree for node395is 8356
+
+ the degree for node396is 60
+
+ the degree for node397is 1545
+
+ the degree for node398is 44
+
+ the degree for node399is 0
+
+ the degree for node400is 4044
+
+ the degree for node401is 0
+
+ the degree for node402is 2708
+
+ the degree for node403is 8
+
+ the degree for node404is 839
+
+ the degree for node405is 675
+
+ the degree for node406is 1
+
+ the degree for node407is 230
+
+ the degree for node408is 852
+
+ the degree for node409is 43
+
+ the degree for node410is 13
+
+ the degree for node411is 0
+
+ the degree for node412is 13001
+
+ the degree for node413is 13
+
+ the degree for node414is 774422
+
+ the degree for node415is 489
+
+ the degree for node416is 636
+
+ the degree for node417is 2019
+
+ the degree for node418is 21
+
+ the degree for node419is 11122
+
+ the degree for node420is 9652
+
+ the degree for node421is 194
+
+ the degree for node422is 6003
+
+ the degree for node423is 2728
+
+ the degree for node424is 1
+
+ the degree for node425is 26
+
+ the degree for node426is 10
+
+ the degree for node427is 618
+
+ the degree for node428is 1046135
+
+ the degree for node429is 0
+
+ the degree for node430is 305
+
+ the degree for node431is 2828
+
+ the degree for node432is 1082
+
+ the degree for node433is 128
+
+ the degree for node434is 999
+
+ the degree for node435is 190
+
+ the degree for node436is 3248
+
+ the degree for node437is 17
+
+ the degree for node438is 1330
+
+ the degree for node439is 1971
+
+ the degree for node440is 14
+
+ the degree for node441is 0
+
+ the degree for node442is 3
+
+ the degree for node443is 0
+
+ the degree for node444is 537
+
+ the degree for node445is 23
+
+ the degree for node446is 39
+
+ the degree for node447is 0
+
+ the degree for node448is 0
+
+ the degree for node449is 76
+
+ the degree for node450is 14
+
+ the degree for node451is 323
+
+ the degree for node452is 1531
+
+ the degree for node453is 4
+
+ the degree for node454is 0
+
+ the degree for node455is 2034
+
+ the degree for node456is 4709
+
+ the degree for node457is 623
+
+ the degree for node458is 55
+
+ the degree for node459is 157
+
+ the degree for node460is 9640
+
+ the degree for node461is 2513
+
+ the degree for node462is 52
+
+ the degree for node463is 2316
+
+ the degree for node464is 149
+
+ the degree for node465is 4654
+
+ the degree for node466is 0
+
+ the degree for node467is 0
+
+ the degree for node468is 0
+
+ the degree for node469is 598
+
+ the degree for node470is 6
+
+ the degree for node471is 366
+
+ the degree for node472is 642
+
+ the degree for node473is 433
+
+ the degree for node474is 17
+
+ the degree for node475is 79738
+
+ the degree for node476is 0
+
+ the degree for node477is 4
+
+ the degree for node478is 3
+
+ the degree for node479is 423
+
+ the degree for node480is 291
+
+ the degree for node481is 122
+
+ the degree for node482is 257
+
+ the degree for node483is 165868
+
+ the degree for node484is 45642
+
+ the degree for node485is 0
+
+ the degree for node486is 1
+
+ the degree for node487is 44
+
+ the degree for node488is 3
+
+ the degree for node489is 28
+
+ the degree for node490is 9
+
+ the degree for node491is 0
+
+ the degree for node492is 2904
+
+ the degree for node493is 327
+
+ the degree for node494is 44
+
+ the degree for node495is 3
+
+ the degree for node496is 472
+
+ the degree for node497is 8157
+
+ the degree for node498is 9
+
+ the degree for node499is 0
+
+ the degree for node500is 5849
+
+ the degree for node501is 0
+
+ the degree for node502is 2
+
+ the degree for node503is 2401
+
+ the degree for node504is 2530
+
+ the degree for node505is 0
+
+ the degree for node506is 1215
+
+ the degree for node507is 2118
+
+ the degree for node508is 519
+
+ the degree for node509is 0
+
+ the degree for node510is 538
+
+ the degree for node511is 152
+
+ the degree for node512is 284
+
+ the degree for node513is 6758
+
+ the degree for node514is 807
+
+ the degree for node515is 1671
+
+ the degree for node516is 612
+
+ the degree for node517is 25556
+
+ the degree for node518is 357
+
+ the degree for node519is 15
+
+ the degree for node520is 2393
+
+ the degree for node521is 4
+
+ the degree for node522is 2
+
+ the degree for node523is 368
+
+ the degree for node524is 2241
+
+ the degree for node525is 5366
+
+ the degree for node526is 27764
+
+ the degree for node527is 652
+
+ the degree for node528is 34
+
+ the degree for node529is 0
+
+ the degree for node530is 0
+
+ the degree for node531is 3389
+
+ the degree for node532is 21
+
+ the degree for node533is 1
+
+ the degree for node534is 182
+
+ the degree for node535is 37
+
+ the degree for node536is 1
+
+ the degree for node537is 503
+
+ the degree for node538is 19677
+
+ the degree for node539is 122
+
+ the degree for node540is 6
+
+ the degree for node541is 114
+
+ the degree for node542is 3373
+
+ the degree for node543is 124
+
+ the degree for node544is 1006
+
+ the degree for node545is 571
+
+ the degree for node546is 785
+
+ the degree for node547is 76
+
+ the degree for node548is 71
+
+ the degree for node549is 310
+
+ the degree for node550is 0
+
+ the degree for node551is 2
+
+ the degree for node552is 0
+
+ the degree for node553is 10074
+
+ the degree for node554is 609
+
+ the degree for node555is 166
+
+ the degree for node556is 862
+
+ the degree for node557is 260
+
+ the degree for node558is 278
+
+ the degree for node559is 3437
+
+ the degree for node560is 93
+
+ the degree for node561is 4526
+
+ the degree for node562is 0
+
+ the degree for node563is 1020856
+
+ the degree for node564is 59
+
+ the degree for node565is 3
+
+ the degree for node566is 26866
+
+ the degree for node567is 1568078
+
+ the degree for node568is 12
+
+ the degree for node569is 18
+
+ the degree for node570is 309
+
+ the degree for node571is 0
+
+ the degree for node572is 0
+
+ the degree for node573is 34
+
+ the degree for node574is 21
+
+ the degree for node575is 0
+
+ the degree for node576is 0
+
+ the degree for node577is 0
+
+ the degree for node578is 0
+
+ the degree for node579is 168
+
+ the degree for node580is 22331
+
+ the degree for node581is 0
+
+ the degree for node582is 0
+
+ the degree for node583is 1
+
+ the degree for node584is 111
+
+ the degree for node585is 0
+
+ the degree for node586is 0
+
+ the degree for node587is 2
+
+ the degree for node588is 1
+
+ the degree for node589is 100
+
+ the degree for node590is 4770
+
+ the degree for node591is 926
+
+ the degree for node592is 171
+
+ the degree for node593is 1
+
+ the degree for node594is 469213
+
+ the degree for node595is 0
+
+ the degree for node596is 30286
+
+ the degree for node597is 10
+
+ the degree for node598is 0
+
+ the degree for node599is 0
+
+ the degree for node600is 1
+
+ the degree for node601is 5045
+
+ the degree for node602is 0
+
+ the degree for node603is 1
+
+ the degree for node604is 1608
+
+ the degree for node605is 1
+
+ the degree for node606is 14749
+
+ the degree for node607is 0
+
+ the degree for node608is 0
+
+ the degree for node609is 8952
+
+ the degree for node610is 16
+
+ the degree for node611is 0
+
+ the degree for node612is 2
+
+ the degree for node613is 0
+
+ the degree for node614is 76
+
+ the degree for node615is 1
+
+ the degree for node616is 91
+
+ the degree for node617is 47
+
+ the degree for node618is 133
+
+ the degree for node619is 24
+
+ the degree for node620is 104
+
+ the degree for node621is 0
+
+ the degree for node622is 5
+
+ the degree for node623is 4
+
+ the degree for node624is 0
+
+ the degree for node625is 4
+
+ the degree for node626is 3
+
+ the degree for node627is 0
+
+ the degree for node628is 0
+
+ the degree for node629is 612
+
+ the degree for node630is 806
+
+ the degree for node631is 5
+
+ the degree for node632is 0
+
+ the degree for node633is 1
+
+ the degree for node634is 487
+
+ the degree for node635is 38
+
+ the degree for node636is 21
+
+ the degree for node637is 23656
+
+ the degree for node638is 0
+
+ the degree for node639is 281
+
+ the degree for node640is 0
+
+ the degree for node641is 6940
+
+ the degree for node642is 0
+
+ the degree for node643is 1
+
+ the degree for node644is 83
+
+ the degree for node645is 1109
+
+ the degree for node646is 331
+
+ the degree for node647is 9
+
+ the degree for node648is 0
+
+ the degree for node649is 455
+
+ the degree for node650is 0
+
+ the degree for node651is 23838
+
+ the degree for node652is 0
+
+ the degree for node653is 169
+
+ the degree for node654is 157
+
+ the degree for node655is 5
+
+ the degree for node656is 0
+
+ the degree for node657is 2
+
+ the degree for node658is 0
+
+ the degree for node659is 0
+
+ the degree for node660is 0
+
+ the degree for node661is 1
+
+ the degree for node662is 1
+
+ the degree for node663is 15
+
+ the degree for node664is 0
+
+ the degree for node665is 0
+
+ the degree for node666is 38
+
+ the degree for node667is 0
+
+ the degree for node668is 0
+
+ the degree for node669is 160
+
+ the degree for node670is 0
+
+ the degree for node671is 1
+
+ the degree for node672is 0
+
+ the degree for node673is 0
+
+ the degree for node674is 0
+
+ the degree for node675is 0
+
+ the degree for node676is 17
+
+ the degree for node677is 106
+
+ the degree for node678is 481
+
+ the degree for node679is 22
+
+ the degree for node680is 119
+
+ the degree for node681is 1
+
+ the degree for node682is 13
+
+ the degree for node683is 865
+
+ the degree for node684is 2
+
+ the degree for node685is 5
+
+ the degree for node686is 482469
+
+ the degree for node687is 39
+
+ the degree for node688is 197
+
+ the degree for node689is 0
+
+ the degree for node690is 0
+
+ the degree for node691is 3
+
+ the degree for node692is 0
+
+ the degree for node693is 1
+
+ the degree for node694is 213
+
+ the degree for node695is 75
+
+ the degree for node696is 19
+
+ the degree for node697is 31579
+
+ the degree for node698is 1878242
+
+ the degree for node699is 0
+
+ the degree for node700is 0
+
+ the degree for node701is 9
+
+ the degree for node702is 0
+
+ the degree for node703is 34089
+
+ the degree for node704is 0
+
+ the degree for node705is 541
+
+ the degree for node706is 0
+
+ the degree for node707is 3
+
+ the degree for node708is 8876
+
+ the degree for node709is 2
+
+ the degree for node710is 1
+
+ the degree for node711is 4
+
+ the degree for node712is 16
+
+ the degree for node713is 79822
+
+ the degree for node714is 12
+
+ the degree for node715is 0
+
+ the degree for node716is 3
+
+ the degree for node717is 0
+
+ the degree for node718is 48
+
+ the degree for node719is 50076
+
+ the degree for node720is 28
+
+ the degree for node721is 0
+
+ the degree for node722is 4
+
+ the degree for node723is 0
+
+ the degree for node724is 167
+
+ the degree for node725is 0
+
+ the degree for node726is 34
+
+ the degree for node727is 39
+
+ the degree for node728is 115
+
+ the degree for node729is 209
+
+ the degree for node730is 3
+
+ the degree for node731is 2
+
+ the degree for node732is 10
+
+ the degree for node733is 3
+
+ the degree for node734is 51
+
+ the degree for node735is 0
+
+ the degree for node736is 24
+
+ the degree for node737is 3
+
+ the degree for node738is 18
+
+ the degree for node739is 75
+
+ the degree for node740is 4
+
+ the degree for node741is 9
+
+ the degree for node742is 15
+
+ the degree for node743is 0
+
+ the degree for node744is 0
+
+ the degree for node745is 56785
+
+ the degree for node746is 1
+
+ the degree for node747is 41604
+
+ the degree for node748is 13
+
+ the degree for node749is 0
+
+ the degree for node750is 0
+
+ the degree for node751is 0
+
+ the degree for node752is 25
+
+ the degree for node753is 59
+
+ the degree for node754is 26
+
+ the degree for node755is 12
+
+ the degree for node756is 0
+
+ the degree for node757is 3
+
+ the degree for node758is 8
+
+ the degree for node759is 2
+
+ the degree for node760is 8
+
+ the degree for node761is 0
+
+ the degree for node762is 1
+
+ the degree for node763is 12
+
+ the degree for node764is 26
+
+ the degree for node765is 1
+
+ the degree for node766is 48
+
+ the degree for node767is 1
+
+ the degree for node768is 27
+
+ the degree for node769is 810
+
+ the degree for node770is 100
+
+ the degree for node771is 35
+
+ the degree for node772is 3850
+
+ the degree for node773is 43
+
+ the degree for node774is 15809
+
+ the degree for node775is 0
+
+ the degree for node776is 445
+
+ the degree for node777is 15
+
+ the degree for node778is 4
+
+ the degree for node779is 4
+
+ the degree for node780is 32
+
+ the degree for node781is 193
+
+ the degree for node782is 49
+
+ the degree for node783is 5
+
+ the degree for node784is 102
+
+ the degree for node785is 0
+
+ the degree for node786is 2
+
+ the degree for node787is 37
+
+ the degree for node788is 0
+
+ the degree for node789is 13
+
+ the degree for node790is 0
+
+ the degree for node791is 0
+
+ the degree for node792is 19
+
+ the degree for node793is 16
+
+ the degree for node794is 1
+
+ the degree for node795is 26
+
+ the degree for node796is 2
+
+ the degree for node797is 34
+
+ the degree for node798is 9907
+
+ the degree for node799is 13
+
+ the degree for node800is 16460
+
+ the degree for node801is 0
+
+ the degree for node802is 0
+
+ the degree for node803is 18062
+
+ the degree for node804is 3082
+
+ the degree for node805is 48215
+
+ the degree for node806is 24
+
+ the degree for node807is 6
+
+ the degree for node808is 0
+
+ the degree for node809is 1
+
+ the degree for node810is 16597
+
+ the degree for node811is 20
+
+ the degree for node812is 0
+
+ the degree for node813is 9
+
+ the degree for node814is 19
+
+ the degree for node815is 90
+
+ the degree for node816is 1
+
+ the degree for node817is 27
+
+ the degree for node818is 44
+
+ the degree for node819is 15973
+
+ the degree for node820is 113
+
+ the degree for node821is 1
+
+ the degree for node822is 29
+
+ the degree for node823is 27028
+
+ the degree for node824is 226
+
+ the degree for node825is 75
+
+ the degree for node826is 1
+
+ the degree for node827is 123
+
+ the degree for node828is 63522
+
+ the degree for node829is 124
+
+ the degree for node830is 34865
+
+ the degree for node831is 7
+
+ the degree for node832is 0
+
+ the degree for node833is 39
+
+ the degree for node834is 42
+
+ the degree for node835is 11
+
+ the degree for node836is 9
+
+ the degree for node837is 4
+
+ the degree for node838is 4
+
+ the degree for node839is 18
+
+ the degree for node840is 9028
+
+ the degree for node841is 0
+
+ the degree for node842is 54
+
+ the degree for node843is 2
+
+ the degree for node844is 0
+
+ the degree for node845is 16
+
+ the degree for node846is 1
+
+ the degree for node847is 9
+
+ the degree for node848is 45
+
+ the degree for node849is 97
+
+ the degree for node850is 16
+
+ the degree for node851is 0
+
+ the degree for node852is 0
+
+ the degree for node853is 75
+
+ the degree for node854is 0
+
+ the degree for node855is 0
+
+ the degree for node856is 4607
+
+ the degree for node857is 4225
+
+ the degree for node858is 0
+
+ the degree for node859is 0
+
+ the degree for node860is 941316
+
+ the degree for node861is 0
+
+ the degree for node862is 188912
+
+ the degree for node863is 0
+
+ the degree for node864is 0
+
+ the degree for node865is 0
+
+ the degree for node866is 0
+
+ the degree for node867is 1
+
+ the degree for node868is 0
+
+ the degree for node869is 0
+
+ the degree for node870is 1
+
+ the degree for node871is 18
+
+ the degree for node872is 0
+
+ the degree for node873is 0
+
+ the degree for node874is 0
+
+ the degree for node875is 0
+
+ the degree for node876is 0
+
+ the degree for node877is 0
+
+ the degree for node878is 0
+
+ the degree for node879is 0
+
+ the degree for node880is 0
+
+ the degree for node881is 0
+
+ the degree for node882is 0
+
+ the degree for node883is 0
+
+ the degree for node884is 0
+
+ the degree for node885is 4
+
+ the degree for node886is 0
+
+ the degree for node887is 0
+
+ the degree for node888is 0
+
+ the degree for node889is 5
+
+ the degree for node890is 0
+
+ the degree for node891is 0
+
+ the degree for node892is 0
+
+ the degree for node893is 0
+
+ the degree for node894is 0
+
+ the degree for node895is 0
+
+ the degree for node896is 1354
+
+ the degree for node897is 244
+
+ the degree for node898is 5
+
+ the degree for node899is 0
+
+ the degree for node900is 21
+
+ the degree for node901is 3
+
+ the degree for node902is 0
+
+ the degree for node903is 8
+
+ the degree for node904is 3
+
+ the degree for node905is 35
+
+ the degree for node906is 122
+
+ the degree for node907is 17
+
+ the degree for node908is 5872
+
+ the degree for node909is 13
+
+ the degree for node910is 0
+
+ the degree for node911is 0
+
+ the degree for node912is 8
+
+ the degree for node913is 371
+
+ the degree for node914is 11
+
+ the degree for node915is 1230
+
+ the degree for node916is 11233
+
+ the degree for node917is 4883
+
+ the degree for node918is 0
+
+ the degree for node919is 14
+
+ the degree for node920is 20
+
+ the degree for node921is 5882
+
+ the degree for node922is 43
+
+ the degree for node923is 6
+
+ the degree for node924is 195
+
+ the degree for node925is 11872
+
+ the degree for node926is 8
+
+ the degree for node927is 331
+
+ the degree for node928is 0
+
+ the degree for node929is 3
+
+ the degree for node930is 1900
+
+ the degree for node931is 17
+
+ the degree for node932is 104
+
+ the degree for node933is 29
+
+ the degree for node934is 91
+
+ the degree for node935is 3
+
+ the degree for node936is 32
+
+ the degree for node937is 0
+
+ the degree for node938is 3
+
+ the degree for node939is 20
+
+ the degree for node940is 12
+
+ the degree for node941is 202
+
+ the degree for node942is 104
+
+ the degree for node943is 9
+
+ the degree for node944is 54
+
+ the degree for node945is 0
+
+ the degree for node946is 1295
+
+ the degree for node947is 249
+
+ the degree for node948is 60
+
+ the degree for node949is 14
+
+ the degree for node950is 3
+
+ the degree for node951is 1295
+
+ the degree for node952is 11
+
+ the degree for node953is 620
+
+ the degree for node954is 147
+
+ the degree for node955is 1
+
+ the degree for node956is 3
+
+ the degree for node957is 112
+
+ the degree for node958is 0
+
+ the degree for node959is 15
+
+ the degree for node960is 273
+
+ the degree for node961is 81
+
+ the degree for node962is 1039
+
+ the degree for node963is 63
+
+ the degree for node964is 60
+
+ the degree for node965is 1
+
+ the degree for node966is 83
+
+ the degree for node967is 582
+
+ the degree for node968is 502
+
+ the degree for node969is 4
+
+ the degree for node970is 3
+
+ the degree for node971is 16
+
+ the degree for node972is 0
+
+ the degree for node973is 132
+
+ the degree for node974is 0
+
+ the degree for node975is 19
+
+ the degree for node976is 9
+
+ the degree for node977is 28
+
+ the degree for node978is 321
+
+ the degree for node979is 0
+
+ the degree for node980is 431
+
+ the degree for node981is 3
+
+ the degree for node982is 190
+
+ the degree for node983is 15
+
+ the degree for node984is 16
+
+ the degree for node985is 0
+
+ the degree for node986is 0
+
+ the degree for node987is 10
+
+ the degree for node988is 4
+
+ the degree for node989is 8
+
+ the degree for node990is 16412
+
+ the degree for node991is 166
+
+ the degree for node992is 4
+
+ the degree for node993is 605
+
+ the degree for node994is 102
+
+ the degree for node995is 568
+
+ the degree for node996is 3
+
+ the degree for node997is 71
+
+ the degree for node998is 1
+
+ the degree for node999is 37
+
+ the degree for node1000is 18
+
+ the degree for node1001is 288
+
+ the degree for node1002is 0
+
+ the degree for node1003is 259
+
+ the degree for node1004is 113
+
+ the degree for node1005is 0
+
+ the degree for node1006is 369
+
+ the degree for node1007is 26
+
+ the degree for node1008is 34
+
+ the degree for node1009is 75
+
+ the degree for node1010is 246
+
+ the degree for node1011is 82
+
+ the degree for node1012is 173
+
+ the degree for node1013is 1395
+
+ the degree for node1014is 769
+
+ the degree for node1015is 3
+
+ the degree for node1016is 0
+
+ the degree for node1017is 442
+
+ the degree for node1018is 75
+
+ the degree for node1019is 118
+
+ the degree for node1020is 100
+
+ the degree for node1021is 117
+
+ the degree for node1022is 0
+
+ the degree for node1023is 14
+
+ the degree for node1024is 170
+
+ the degree for node1025is 933
+
+ the degree for node1026is 155
+
+ the degree for node1027is 0
+
+ the degree for node1028is 3571
+
+ the degree for node1029is 9784
+
+ the degree for node1030is 13
+
+ the degree for node1031is 0
+
+ the degree for node1032is 446
+
+ the degree for node1033is 9
+
+ the degree for node1034is 0
+
+ the degree for node1035is 62
+
+ the degree for node1036is 14
+
+ the degree for node1037is 136
+
+ the degree for node1038is 1
+
+ the degree for node1039is 0
+
+ the degree for node1040is 37
+
+ the degree for node1041is 238
+
+ the degree for node1042is 4
+
+ the degree for node1043is 12
+
+ the degree for node1044is 0
+
+ the degree for node1045is 16
+
+ the degree for node1046is 0
+
+ the degree for node1047is 81
+
+ the degree for node1048is 531
+
+ the degree for node1049is 660
+
+ the degree for node1050is 4
+
+ the degree for node1051is 146
+
+ the degree for node1052is 601
+
+ the degree for node1053is 18
+
+ the degree for node1054is 84
+
+ the degree for node1055is 10
+
+ the degree for node1056is 90
+
+ the degree for node1057is 2
+
+ the degree for node1058is 10
+
+ the degree for node1059is 429
+
+ the degree for node1060is 107
+
+ the degree for node1061is 1
+
+ the degree for node1062is 78
+
+ the degree for node1063is 0
+
+ the degree for node1064is 97
+
+ the degree for node1065is 0
+
+ the degree for node1066is 239
+
+ the degree for node1067is 162
+
+ the degree for node1068is 96
+
+ the degree for node1069is 0
+
+ the degree for node1070is 8223
+
+ the degree for node1071is 0
+
+ the degree for node1072is 16
+
+ the degree for node1073is 16
+
+ the degree for node1074is 11199
+
+ the degree for node1075is 583
+
+ the degree for node1076is 284
+
+ the degree for node1077is 2227
+
+ the degree for node1078is 687
+
+ the degree for node1079is 93
+
+ the degree for node1080is 551
+
+ the degree for node1081is 4
+
+ the degree for node1082is 15
+
+ the degree for node1083is 144
+
+ the degree for node1084is 1
+
+ the degree for node1085is 2427510
+
+ the degree for node1086is 9701
+
+ the degree for node1087is 6
+
+ the degree for node1088is 1810
+
+ the degree for node1089is 6
+
+ the degree for node1090is 7
+
+ the degree for node1091is 33
+
+ the degree for node1092is 41
+
+ the degree for node1093is 4
+
+ the degree for node1094is 6
+
+ the degree for node1095is 88
+
+ the degree for node1096is 0
+
+ the degree for node1097is 8
+
+ the degree for node1098is 8323
+
+ the degree for node1099is 26
+
+ the degree for node1100is 36
+
+ the degree for node1101is 215
+
+ the degree for node1102is 25
+
+ the degree for node1103is 8
+
+ the degree for node1104is 1065
+
+ the degree for node1105is 0
+
+ the degree for node1106is 125
+
+ the degree for node1107is 256
+
+ the degree for node1108is 9
+
+ the degree for node1109is 3012
+
+ the degree for node1110is 539
+
+ the degree for node1111is 0
+
+ the degree for node1112is 11
+
+ the degree for node1113is 90
+
+ the degree for node1114is 994
+
+ the degree for node1115is 0
+
+ the degree for node1116is 1
+
+ the degree for node1117is 239
+
+ the degree for node1118is 5
+
+ the degree for node1119is 0
+
+ the degree for node1120is 92
+
+ the degree for node1121is 31
+
+ the degree for node1122is 193
+
+ the degree for node1123is 201
+
+ the degree for node1124is 611
+
+ the degree for node1125is 114
+
+ the degree for node1126is 14505
+
+ the degree for node1127is 42
+
+ the degree for node1128is 1553
+
+ the degree for node1129is 125
+
+ the degree for node1130is 58
+
+ the degree for node1131is 64
+
+ the degree for node1132is 213
+
+ the degree for node1133is 1
+
+ the degree for node1134is 6
+
+ the degree for node1135is 139
+
+ the degree for node1136is 8034
+
+ the degree for node1137is 2
+
+ the degree for node1138is 29
+
+ the degree for node1139is 13
+
+ the degree for node1140is 6
+
+ the degree for node1141is 3
+
+ the degree for node1142is 28
+
+ the degree for node1143is 25
+
+ the degree for node1144is 5
+
+ the degree for node1145is 0
+
+ the degree for node1146is 882
+
+ the degree for node1147is 1
+
+ the degree for node1148is 426
+
+ the degree for node1149is 120
+
+ the degree for node1150is 21
+
+ the degree for node1151is 6
+
+ the degree for node1152is 8
+
+ the degree for node1153is 186
+
+ the degree for node1154is 10
+
+ the degree for node1155is 534
+
+ the degree for node1156is 117
+
+ the degree for node1157is 0
+
+ the degree for node1158is 278
+
+ the degree for node1159is 304
+
+ the degree for node1160is 400
+
+ the degree for node1161is 61
+
+ the degree for node1162is 2
+
+ the degree for node1163is 46
+
+ the degree for node1164is 0
+
+ the degree for node1165is 50873
+
+ the degree for node1166is 309
+
+ the degree for node1167is 21
+
+ the degree for node1168is 1
+
+ the degree for node1169is 33
+
+ the degree for node1170is 213
+
+ the degree for node1171is 38863
+
+ the degree for node1172is 154
+
+ the degree for node1173is 14936
+
+ the degree for node1174is 4
+
+ the degree for node1175is 794
+
+ the degree for node1176is 0
+
+ the degree for node1177is 46
+
+ the degree for node1178is 4225
+
+ the degree for node1179is 475
+
+ the degree for node1180is 12
+
+ the degree for node1181is 29
+
+ the degree for node1182is 3087
+
+ the degree for node1183is 94
+
+ the degree for node1184is 355
+
+ the degree for node1185is 226
+
+ the degree for node1186is 0
+
+ the degree for node1187is 403
+
+ the degree for node1188is 15
+
+ the degree for node1189is 286
+
+ the degree for node1190is 17
+
+ the degree for node1191is 266
+
+ the degree for node1192is 716
+
+ the degree for node1193is 8441
+
+ the degree for node1194is 1
+
+ the degree for node1195is 22
+
+ the degree for node1196is 454
+
+ the degree for node1197is 2327
+
+ the degree for node1198is 7
+
+ the degree for node1199is 1006
+
+ the degree for node1200is 0
+
+ the degree for node1201is 7
+
+ the degree for node1202is 23
+
+ the degree for node1203is 3
+
+ the degree for node1204is 923
+
+ the degree for node1205is 94
+
+ the degree for node1206is 0
+
+ the degree for node1207is 46
+
+ the degree for node1208is 0
+
+ the degree for node1209is 96
+
+ the degree for node1210is 979
+
+ the degree for node1211is 522
+
+ the degree for node1212is 46
+
+ the degree for node1213is 17
+
+ the degree for node1214is 438
+
+ the degree for node1215is 136
+
+ the degree for node1216is 8
+
+ the degree for node1217is 3582
+
+ the degree for node1218is 5
+
+ the degree for node1219is 27
+
+ the degree for node1220is 1
+
+ the degree for node1221is 802
+
+ the degree for node1222is 663
+
+ the degree for node1223is 113
+
+ the degree for node1224is 0
+
+ the degree for node1225is 24
+
+ the degree for node1226is 2773
+
+ the degree for node1227is 255
+
+ the degree for node1228is 26
+
+ the degree for node1229is 99
+
+ the degree for node1230is 174
+
+ the degree for node1231is 169
+
+ the degree for node1232is 6
+
+ the degree for node1233is 0
+
+ the degree for node1234is 2
+
+ the degree for node1235is 789
+
+ the degree for node1236is 151
+
+ the degree for node1237is 2709
+
+ the degree for node1238is 1247
+
+ the degree for node1239is 0
+
+ the degree for node1240is 39
+
+ the degree for node1241is 24
+
+ the degree for node1242is 137
+
+ the degree for node1243is 218
+
+ the degree for node1244is 11
+
+ the degree for node1245is 79
+
+ the degree for node1246is 197
+
+ the degree for node1247is 81
+
+ the degree for node1248is 11
+
+ the degree for node1249is 0
+
+ the degree for node1250is 379
+
+ the degree for node1251is 0
+
+ the degree for node1252is 0
+
+ the degree for node1253is 0
+
+ the degree for node1254is 3
+
+ the degree for node1255is 577
+
+ the degree for node1256is 294
+
+ the degree for node1257is 17
+
+ the degree for node1258is 148
+
+ the degree for node1259is 214
+
+ the degree for node1260is 27
+
+ the degree for node1261is 186
+
+ the degree for node1262is 0
+
+ the degree for node1263is 5
+
+ the degree for node1264is 1
+
+ the degree for node1265is 31
+
+ the degree for node1266is 15
+
+ the degree for node1267is 69
+
+ the degree for node1268is 46
+
+ the degree for node1269is 174
+
+ the degree for node1270is 0
+
+ the degree for node1271is 50
+
+ the degree for node1272is 364
+
+ the degree for node1273is 394
+
+ the degree for node1274is 3231
+
+ the degree for node1275is 312
+
+ the degree for node1276is 0
+
+ the degree for node1277is 1347
+
+ the degree for node1278is 44
+
+ the degree for node1279is 2
+
+ the degree for node1280is 98
+
+ the degree for node1281is 38
+
+ the degree for node1282is 139
+
+ the degree for node1283is 376
+
+ the degree for node1284is 239
+
+ the degree for node1285is 8
+
+ the degree for node1286is 5
+
+ the degree for node1287is 2
+
+ the degree for node1288is 54
+
+ the degree for node1289is 9220
+
+ the degree for node1290is 169
+
+ the degree for node1291is 89
+
+ the degree for node1292is 19
+
+ the degree for node1293is 1
+
+ the degree for node1294is 34
+
+ the degree for node1295is 1
+
+ the degree for node1296is 82
+
+ the degree for node1297is 0
+
+ the degree for node1298is 57
+
+ the degree for node1299is 19
+
+ the degree for node1300is 288
+
+ the degree for node1301is 0
+
+ the degree for node1302is 69
+
+ the degree for node1303is 92
+
+ the degree for node1304is 142
+
+ the degree for node1305is 669
+
+ the degree for node1306is 34
+
+ the degree for node1307is 1932
+
+ the degree for node1308is 16
+
+ the degree for node1309is 34
+
+ the degree for node1310is 2
+
+ the degree for node1311is 188
+
+ the degree for node1312is 4107
+
+ the degree for node1313is 360
+
+ the degree for node1314is 45
+
+ the degree for node1315is 4
+
+ the degree for node1316is 5
+
+ the degree for node1317is 10601
+
+ the degree for node1318is 46
+
+ the degree for node1319is 0
+
+ the degree for node1320is 1536
+
+ the degree for node1321is 38
+
+ the degree for node1322is 418
+
+ the degree for node1323is 35
+
+ the degree for node1324is 76
+
+ the degree for node1325is 9
+
+ the degree for node1326is 0
+
+ the degree for node1327is 2654
+
+ the degree for node1328is 1389
+
+ the degree for node1329is 944
+
+ the degree for node1330is 316
+
+ the degree for node1331is 358
+
+ the degree for node1332is 197
+
+ the degree for node1333is 2
+
+ the degree for node1334is 8300
+
+ the degree for node1335is 159
+
+ the degree for node1336is 2
+
+ the degree for node1337is 296
+
+ the degree for node1338is 6817
+
+ the degree for node1339is 150
+
+ the degree for node1340is 6
+
+ the degree for node1341is 150
+
+ the degree for node1342is 12
+
+ the degree for node1343is 590
+
+ the degree for node1344is 158
+
+ the degree for node1345is 397
+
+ the degree for node1346is 0
+
+ the degree for node1347is 221
+
+ the degree for node1348is 83
+
+ the degree for node1349is 181
+
+ the degree for node1350is 81
+
+ the degree for node1351is 10
+
+ the degree for node1352is 17681
+
+ the degree for node1353is 0
+
+ the degree for node1354is 1
+
+ the degree for node1355is 23
+
+ the degree for node1356is 22
+
+ the degree for node1357is 340
+
+ the degree for node1358is 2687
+
+ the degree for node1359is 99
+
+ the degree for node1360is 4175
+
+ the degree for node1361is 32145
+
+ the degree for node1362is 0
+
+ the degree for node1363is 0
+
+ the degree for node1364is 5
+
+ the degree for node1365is 2
+
+ the degree for node1366is 456
+
+ the degree for node1367is 704
+
+ the degree for node1368is 1
+
+ the degree for node1369is 4553
+
+ the degree for node1370is 92
+
+ the degree for node1371is 278
+
+ the degree for node1372is 0
+
+ the degree for node1373is 521
+
+ the degree for node1374is 555
+
+ the degree for node1375is 26
+
+ the degree for node1376is 12378
+
+ the degree for node1377is 1112
+
+ the degree for node1378is 1
+
+ the degree for node1379is 4
+
+ the degree for node1380is 27
+
+ the degree for node1381is 1
+
+ the degree for node1382is 7
+
+ the degree for node1383is 0
+
+ the degree for node1384is 88
+
+ the degree for node1385is 42
+
+ the degree for node1386is 0
+
+ the degree for node1387is 18
+
+ the degree for node1388is 40
+
+ the degree for node1389is 1
+
+ the degree for node1390is 722
+
+ the degree for node1391is 582
+
+ the degree for node1392is 52
+
+ the degree for node1393is 247
+
+ the degree for node1394is 0
+
+ the degree for node1395is 0
+
+ the degree for node1396is 20
+
+ the degree for node1397is 18
+
+ the degree for node1398is 17
+
+ the degree for node1399is 682
+
+ the degree for node1400is 9
+
+ the degree for node1401is 5
+
+ the degree for node1402is 25
+
+ the degree for node1403is 0
+
+ the degree for node1404is 51
+
+ the degree for node1405is 64708
+
+ the degree for node1406is 33
+
+ the degree for node1407is 60
+
+ the degree for node1408is 1420
+
+ the degree for node1409is 415
+
+ the degree for node1410is 413
+
+ the degree for node1411is 15
+
+ the degree for node1412is 136
+
+ the degree for node1413is 55
+
+ the degree for node1414is 0
+
+ the degree for node1415is 86
+
+ the degree for node1416is 204
+
+ the degree for node1417is 1
+
+ the degree for node1418is 37
+
+ the degree for node1419is 21394
+
+ the degree for node1420is 98271
+
+ the degree for node1421is 531
+
+ the degree for node1422is 29
+
+ the degree for node1423is 99
+
+ the degree for node1424is 56
+
+ the degree for node1425is 1824
+
+ the degree for node1426is 58
+
+ the degree for node1427is 739
+
+ the degree for node1428is 143
+
+ the degree for node1429is 193
+
+ the degree for node1430is 0
+
+ the degree for node1431is 2399
+
+ the degree for node1432is 32
+
+ the degree for node1433is 7
+
+ the degree for node1434is 24
+
+ the degree for node1435is 1436
+
+ the degree for node1436is 195
+
+ the degree for node1437is 314
+
+ the degree for node1438is 1
+
+ the degree for node1439is 0
+
+ the degree for node1440is 1124
+
+ the degree for node1441is 32
+
+ the degree for node1442is 0
+
+ the degree for node1443is 0
+
+ the degree for node1444is 112
+
+ the degree for node1445is 30
+
+ the degree for node1446is 680
+
+ the degree for node1447is 537
+
+ the degree for node1448is 130
+
+ the degree for node1449is 215
+
+ the degree for node1450is 8204
+
+ the degree for node1451is 50
+
+ the degree for node1452is 12
+
+ the degree for node1453is 146
+
+ the degree for node1454is 40
+
+ the degree for node1455is 0
+
+ the degree for node1456is 203
+
+ the degree for node1457is 9
+
+ the degree for node1458is 1545
+
+ the degree for node1459is 438
+
+ the degree for node1460is 395
+
+ the degree for node1461is 8
+
+ the degree for node1462is 94
+
+ the degree for node1463is 2
+
+ the degree for node1464is 31
+
+ the degree for node1465is 398574
+
+ the degree for node1466is 0
+
+ the degree for node1467is 778
+
+ the degree for node1468is 3
+
+ the degree for node1469is 546
+
+ the degree for node1470is 118
+
+ the degree for node1471is 791
+
+ the degree for node1472is 1220
+
+ the degree for node1473is 988
+
+ the degree for node1474is 0
+
+ the degree for node1475is 664
+
+ the degree for node1476is 3
+
+ the degree for node1477is 34
+
+ the degree for node1478is 3
+
+ the degree for node1479is 208
+
+ the degree for node1480is 1134
+
+ the degree for node1481is 13
+
+ the degree for node1482is 128
+
+ the degree for node1483is 9958
+
+ the degree for node1484is 11
+
+ the degree for node1485is 1922
+
+ the degree for node1486is 0
+
+ the degree for node1487is 1161
+
+ the degree for node1488is 296
+
+ the degree for node1489is 0
+
+ the degree for node1490is 0
+
+ the degree for node1491is 140
+
+ the degree for node1492is 43
+
+ the degree for node1493is 0
+
+ the degree for node1494is 1344
+
+ the degree for node1495is 157
+
+ the degree for node1496is 210
+
+ the degree for node1497is 139
+
+ the degree for node1498is 0
+
+ the degree for node1499is 9
+
+ the degree for node1500is 37
+
+ the degree for node1501is 28
+
+ the degree for node1502is 260
+
+ the degree for node1503is 13
+
+ the degree for node1504is 197
+
+ the degree for node1505is 60173
+
+ the degree for node1506is 0
+
+ the degree for node1507is 108
+
+ the degree for node1508is 19
+
+ the degree for node1509is 7938
+
+ the degree for node1510is 0
+
+ the degree for node1511is 1779
+
+ the degree for node1512is 444
+
+ the degree for node1513is 3152
+
+ the degree for node1514is 64
+
+ the degree for node1515is 349
+
+ the degree for node1516is 191
+
+ the degree for node1517is 0
+
+ the degree for node1518is 4295
+
+ the degree for node1519is 293
+
+ the degree for node1520is 262
+
+ the degree for node1521is 0
+
+ the degree for node1522is 9802
+
+ the degree for node1523is 3947
+
+ the degree for node1524is 4
+
+ the degree for node1525is 231
+
+ the degree for node1526is 31
+
+ the degree for node1527is 39
+
+ the degree for node1528is 831
+
+ the degree for node1529is 527
+
+ the degree for node1530is 36
+
+ the degree for node1531is 122
+
+ the degree for node1532is 2
+
+ the degree for node1533is 79
+
+ the degree for node1534is 94775
+
+ the degree for node1535is 50
+
+ the degree for node1536is 10650
+
+ the degree for node1537is 7304
+
+ the degree for node1538is 91
+
+ the degree for node1539is 23
+
+ the degree for node1540is 6494
+
+ the degree for node1541is 27
+
+ the degree for node1542is 19
+
+ the degree for node1543is 130
+
+ the degree for node1544is 63
+
+ the degree for node1545is 2950
+
+ the degree for node1546is 0
+
+ the degree for node1547is 81
+
+ the degree for node1548is 123
+
+ the degree for node1549is 3549
+
+ the degree for node1550is 2
+
+ the degree for node1551is 455
+
+ the degree for node1552is 20
+
+ the degree for node1553is 11854
+
+ the degree for node1554is 452
+
+ the degree for node1555is 4160
+
+ the degree for node1556is 6
+
+ the degree for node1557is 520
+
+ the degree for node1558is 0
+
+ the degree for node1559is 775
+
+ the degree for node1560is 0
+
+ the degree for node1561is 214
+
+ the degree for node1562is 16
+
+ the degree for node1563is 195
+
+ the degree for node1564is 32
+
+ the degree for node1565is 72
+
+ the degree for node1566is 61
+
+ the degree for node1567is 616
+
+ the degree for node1568is 0
+
+ the degree for node1569is 343
+
+ the degree for node1570is 272
+
+ the degree for node1571is 121
+
+ the degree for node1572is 0
+
+ the degree for node1573is 398
+
+ the degree for node1574is 3938
+
+ the degree for node1575is 47
+
+ the degree for node1576is 132
+
+ the degree for node1577is 646525
+
+ the degree for node1578is 26
+
+ the degree for node1579is 0
+
+ the degree for node1580is 55
+
+ the degree for node1581is 0
+
+ the degree for node1582is 17
+
+ the degree for node1583is 323
+
+ the degree for node1584is 4181
+
+ the degree for node1585is 74
+
+ the degree for node1586is 0
+
+ the degree for node1587is 17
+
+ the degree for node1588is 431
+
+ the degree for node1589is 704
+
+ the degree for node1590is 4926
+
+ the degree for node1591is 916
+
+ the degree for node1592is 0
+
+ the degree for node1593is 8512
+
+ the degree for node1594is 48
+
+ the degree for node1595is 46
+
+ the degree for node1596is 123
+
+ the degree for node1597is 163
+
+ the degree for node1598is 1088
+
+ the degree for node1599is 15
+
+ the degree for node1600is 301
+
+ the degree for node1601is 2
+
+ the degree for node1602is 0
+
+ the degree for node1603is 168
+
+ the degree for node1604is 1475
+
+ the degree for node1605is 85
+
+ the degree for node1606is 6
+
+ the degree for node1607is 1
+
+ the degree for node1608is 161
+
+ the degree for node1609is 183
+
+ the degree for node1610is 527
+
+ the degree for node1611is 418
+
+ the degree for node1612is 1289
+
+ the degree for node1613is 573
+
+ the degree for node1614is 255
+
+ the degree for node1615is 16
+
+ the degree for node1616is 122
+
+ the degree for node1617is 6893
+
+ the degree for node1618is 2258
+
+ the degree for node1619is 113
+
+ the degree for node1620is 1819
+
+ the degree for node1621is 13578
+
+ the degree for node1622is 1313
+
+ the degree for node1623is 58
+
+ the degree for node1624is 61
+
+ the degree for node1625is 2
+
+ the degree for node1626is 1804
+
+ the degree for node1627is 0
+
+ the degree for node1628is 262
+
+ the degree for node1629is 5
+
+ the degree for node1630is 965
+
+ the degree for node1631is 0
+
+ the degree for node1632is 62
+
+ the degree for node1633is 20
+
+ the degree for node1634is 73
+
+ the degree for node1635is 11
+
+ the degree for node1636is 126
+
+ the degree for node1637is 573
+
+ the degree for node1638is 18
+
+ the degree for node1639is 335
+
+ the degree for node1640is 0
+
+ the degree for node1641is 35
+
+ the degree for node1642is 25434
+
+ the degree for node1643is 42
+
+ the degree for node1644is 161
+
+ the degree for node1645is 176
+
+ the degree for node1646is 45
+
+ the degree for node1647is 41
+
+ the degree for node1648is 0
+
+ the degree for node1649is 26
+
+ the degree for node1650is 142
+
+ the degree for node1651is 0
+
+ the degree for node1652is 43
+
+ the degree for node1653is 13
+
+ the degree for node1654is 5
+
+ the degree for node1655is 20
+
+ the degree for node1656is 22838
+
+ the degree for node1657is 0
+
+ the degree for node1658is 46
+
+ the degree for node1659is 23
+
+ the degree for node1660is 77
+
+ the degree for node1661is 336
+
+ the degree for node1662is 245
+
+ the degree for node1663is 17540
+
+ the degree for node1664is 2
+
+ the degree for node1665is 158
+
+ the degree for node1666is 99048
+
+ the degree for node1667is 80
+
+ the degree for node1668is 96
+
+ the degree for node1669is 178
+
+ the degree for node1670is 44
+
+ the degree for node1671is 215
+
+ the degree for node1672is 41
+
+ the degree for node1673is 101
+
+ the degree for node1674is 629
+
+ the degree for node1675is 399
+
+ the degree for node1676is 10
+
+ the degree for node1677is 59
+
+ the degree for node1678is 169
+
+ the degree for node1679is 33
+
+ the degree for node1680is 475
+
+ the degree for node1681is 25
+
+ the degree for node1682is 84
+
+ the degree for node1683is 513
+
+ the degree for node1684is 5504613
+
+ the degree for node1685is 152
+
+ the degree for node1686is 100
+
+ the degree for node1687is 14017
+
+ the degree for node1688is 8639
+
+ the degree for node1689is 127
+
+ the degree for node1690is 0
+
+ the degree for node1691is 31
+
+ the degree for node1692is 1316
+
+ the degree for node1693is 0
+
+ the degree for node1694is 474
+
+ the degree for node1695is 16
+
+ the degree for node1696is 23
+
+ the degree for node1697is 185
+
+ the degree for node1698is 10
+
+ the degree for node1699is 258
+
+ the degree for node1700is 6
+
+ the degree for node1701is 7
+
+ the degree for node1702is 6383
+
+ the degree for node1703is 587
+
+ the degree for node1704is 20
+
+ the degree for node1705is 459
+
+ the degree for node1706is 68
+
+ the degree for node1707is 494
+
+ the degree for node1708is 3
+
+ the degree for node1709is 481
+
+ the degree for node1710is 7
+
+ the degree for node1711is 1
+
+ the degree for node1712is 87
+
+ the degree for node1713is 3
+
+ the degree for node1714is 477
+
+ the degree for node1715is 64
+
+ the degree for node1716is 77
+
+ the degree for node1717is 312
+
+ the degree for node1718is 606918
+
+ the degree for node1719is 108
+
+ the degree for node1720is 322
+
+ the degree for node1721is 101
+
+ the degree for node1722is 125
+
+ the degree for node1723is 4
+
+ the degree for node1724is 135
+
+ the degree for node1725is 483
+
+ the degree for node1726is 12952
+
+ the degree for node1727is 153
+
+ the degree for node1728is 9
+
+ the degree for node1729is 383
+
+ the degree for node1730is 2103
+
+ the degree for node1731is 0
+
+ the degree for node1732is 46
+
+ the degree for node1733is 12
+
+ the degree for node1734is 20
+
+ the degree for node1735is 102
+
+ the degree for node1736is 337
+
+ the degree for node1737is 16
+
+ the degree for node1738is 27
+
+ the degree for node1739is 11
+
+ the degree for node1740is 425
+
+ the degree for node1741is 166
+
+ the degree for node1742is 205
+
+ the degree for node1743is 81
+
+ the degree for node1744is 134
+
+ the degree for node1745is 1035
+
+ the degree for node1746is 1048
+
+ the degree for node1747is 12
+
+ the degree for node1748is 1
+
+ the degree for node1749is 18
+
+ the degree for node1750is 230
+
+ the degree for node1751is 23
+
+ the degree for node1752is 101
+
+ the degree for node1753is 42
+
+ the degree for node1754is 96
+
+ the degree for node1755is 0
+
+ the degree for node1756is 0
+
+ the degree for node1757is 198
+
+ the degree for node1758is 19939
+
+ the degree for node1759is 0
+
+ the degree for node1760is 0
+
+ the degree for node1761is 1222
+
+ the degree for node1762is 0
+
+ the degree for node1763is 15
+
+ the degree for node1764is 2
+
+ the degree for node1765is 239
+
+ the degree for node1766is 29
+
+ the degree for node1767is 155
+
+ the degree for node1768is 1715
+
+ the degree for node1769is 526
+
+ the degree for node1770is 252
+
+ the degree for node1771is 1
+
+ the degree for node1772is 30
+
+ the degree for node1773is 2
+
+ the degree for node1774is 93
+
+ the degree for node1775is 0
+
+ the degree for node1776is 0
+
+ the degree for node1777is 1
+
+ the degree for node1778is 667
+
+ the degree for node1779is 127
+
+ the degree for node1780is 652
+
+ the degree for node1781is 82
+
+ the degree for node1782is 3138
+
+ the degree for node1783is 2987
+
+ the degree for node1784is 2
+
+ the degree for node1785is 138
+
+ the degree for node1786is 586
+
+ the degree for node1787is 152
+
+ the degree for node1788is 1
+
+ the degree for node1789is 109
+
+ the degree for node1790is 389
+
+ the degree for node1791is 490
+
+ the degree for node1792is 6
+
+ the degree for node1793is 224
+
+ the degree for node1794is 821
+
+ the degree for node1795is 44
+
+ the degree for node1796is 18
+
+ the degree for node1797is 1
+
+ the degree for node1798is 5
+
+ the degree for node1799is 282
+
+ the degree for node1800is 2369
+
+ the degree for node1801is 7
+
+ the degree for node1802is 0
+
+ the degree for node1803is 389
+
+ the degree for node1804is 633
+
+ the degree for node1805is 24
+
+ the degree for node1806is 4609
+
+ the degree for node1807is 280
+
+ the degree for node1808is 920
+
+ the degree for node1809is 123
+
+ the degree for node1810is 108
+
+ the degree for node1811is 34
+
+ the degree for node1812is 25
+
+ the degree for node1813is 1553
+
+ the degree for node1814is 6
+
+ the degree for node1815is 7
+
+ the degree for node1816is 141
+
+ the degree for node1817is 218
+
+ the degree for node1818is 87
+
+ the degree for node1819is 103
+
+ the degree for node1820is 123
+
+ the degree for node1821is 0
+
+ the degree for node1822is 3
+
+ the degree for node1823is 206
+
+ the degree for node1824is 68
+
+ the degree for node1825is 2734
+
+ the degree for node1826is 66
+
+ the degree for node1827is 1276
+
+ the degree for node1828is 442
+
+ the degree for node1829is 18
+
+ the degree for node1830is 38
+
+ the degree for node1831is 440
+
+ the degree for node1832is 10
+
+ the degree for node1833is 550
+
+ the degree for node1834is 0
+
+ the degree for node1835is 12948
+
+ the degree for node1836is 415
+
+ the degree for node1837is 90
+
+ the degree for node1838is 1
+
+ the degree for node1839is 419
+
+ the degree for node1840is 6
+
+ the degree for node1841is 14
+
+ the degree for node1842is 140
+
+ the degree for node1843is 134
+
+ the degree for node1844is 672
+
+ the degree for node1845is 439
+
+ the degree for node1846is 1963
+
+ the degree for node1847is 8749
+
+ the degree for node1848is 4
+
+ the degree for node1849is 67
+
+ the degree for node1850is 81
+
+ the degree for node1851is 147
+
+ the degree for node1852is 796
+
+ the degree for node1853is 0
+
+ the degree for node1854is 0
+
+ the degree for node1855is 11
+
+ the degree for node1856is 0
+
+ the degree for node1857is 95
+
+ the degree for node1858is 195
+
+ the degree for node1859is 67
+
+ the degree for node1860is 132
+
+ the degree for node1861is 530
+
+ the degree for node1862is 42
+
+ the degree for node1863is 2495
+
+ the degree for node1864is 310
+
+ the degree for node1865is 0
+
+ the degree for node1866is 1819
+
+ the degree for node1867is 313
+
+ the degree for node1868is 170
+
+ the degree for node1869is 2
+
+ the degree for node1870is 13
+
+ the degree for node1871is 297
+
+ the degree for node1872is 140
+
+ the degree for node1873is 2
+
+ the degree for node1874is 0
+
+ the degree for node1875is 67
+
+ the degree for node1876is 351
+
+ the degree for node1877is 14
+
+ the degree for node1878is 30
+
+ the degree for node1879is 199
+
+ the degree for node1880is 2
+
+ the degree for node1881is 692
+
+ the degree for node1882is 150
+
+ the degree for node1883is 1071
+
+ the degree for node1884is 0
+
+ the degree for node1885is 85
+
+ the degree for node1886is 234
+
+ the degree for node1887is 0
+
+ the degree for node1888is 1805
+
+ the degree for node1889is 39
+
+ the degree for node1890is 6
+
+ the degree for node1891is 52
+
+ the degree for node1892is 0
+
+ the degree for node1893is 415
+
+ the degree for node1894is 312
+
+ the degree for node1895is 29
+
+ the degree for node1896is 13
+
+ the degree for node1897is 409
+
+ the degree for node1898is 79
+
+ the degree for node1899is 436
+
+ the degree for node1900is 12
+
+ the degree for node1901is 46
+
+ the degree for node1902is 260
+
+ the degree for node1903is 13
+
+ the degree for node1904is 34
+
+ the degree for node1905is 0
+
+ the degree for node1906is 6
+
+ the degree for node1907is 11
+
+ the degree for node1908is 43
+
+ the degree for node1909is 2809
+
+ the degree for node1910is 127
+
+ the degree for node1911is 2636
+
+ the degree for node1912is 3736193
+
+ the degree for node1913is 115
+
+ the degree for node1914is 5
+
+ the degree for node1915is 2
+
+ the degree for node1916is 439
+
+ the degree for node1917is 44
+
+ the degree for node1918is 24
+
+ the degree for node1919is 54
+
+ the degree for node1920is 385
+
+ the degree for node1921is 41
+
+ the degree for node1922is 7
+
+ the degree for node1923is 189
+
+ the degree for node1924is 0
+
+ the degree for node1925is 40
+
+ the degree for node1926is 7454
+
+ the degree for node1927is 20
+
+ the degree for node1928is 2
+
+ the degree for node1929is 9
+
+ the degree for node1930is 4
+
+ the degree for node1931is 7
+
+ the degree for node1932is 315
+
+ the degree for node1933is 2
+
+ the degree for node1934is 10
+
+ the degree for node1935is 18
+
+ the degree for node1936is 37
+
+ the degree for node1937is 0
+
+ the degree for node1938is 44
+
+ the degree for node1939is 1525
+
+ the degree for node1940is 121
+
+ the degree for node1941is 27558
+
+ the degree for node1942is 29
+
+ the degree for node1943is 82
+
+ the degree for node1944is 16
+
+ the degree for node1945is 1884
+
+ the degree for node1946is 42
+
+ the degree for node1947is 1242
+
+ the degree for node1948is 563
+
+ the degree for node1949is 1
+
+ the degree for node1950is 0
+
+ the degree for node1951is 983
+
+ the degree for node1952is 17
+
+ the degree for node1953is 2
+
+ the degree for node1954is 10593
+
+ the degree for node1955is 499
+
+ the degree for node1956is 9
+
+ the degree for node1957is 5
+
+ the degree for node1958is 1
+
+ the degree for node1959is 1023
+
+ the degree for node1960is 146
+
+ the degree for node1961is 5
+
+ the degree for node1962is 42
+
+ the degree for node1963is 5
+
+ the degree for node1964is 1715
+
+ the degree for node1965is 25
+
+ the degree for node1966is 263
+
+ the degree for node1967is 0
+
+ the degree for node1968is 7
+
+ the degree for node1969is 0
+
+ the degree for node1970is 254
+
+ the degree for node1971is 43
+
+ the degree for node1972is 1438
+
+ the degree for node1973is 1124
+
+ the degree for node1974is 1
+
+ the degree for node1975is 154
+
+ the degree for node1976is 571
+
+ the degree for node1977is 0
+
+ the degree for node1978is 0
+
+ the degree for node1979is 40
+
+ the degree for node1980is 52
+
+ the degree for node1981is 7
+
+ the degree for node1982is 67
+
+ the degree for node1983is 319
+
+ the degree for node1984is 64
+
+ the degree for node1985is 2041
+
+ the degree for node1986is 41
+
+ the degree for node1987is 17
+
+ the degree for node1988is 48
+
+ the degree for node1989is 7
+
+ the degree for node1990is 19
+
+ the degree for node1991is 794
+
+ the degree for node1992is 0
+
+ the degree for node1993is 177
+
+ the degree for node1994is 39
+
+ the degree for node1995is 1036
+
+ the degree for node1996is 0
+
+ the degree for node1997is 5
+
+ the degree for node1998is 811
+
+ the degree for node1999is 4
+
+ the degree for node2000is 3
+
+ the degree for node2001is 882
+
+ the degree for node2002is 211
+
+ the degree for node2003is 786
+
+ the degree for node2004is 826
+
+ the degree for node2005is 12
+
+ the degree for node2006is 17
+
+ the degree for node2007is 22537
+
+ the degree for node2008is 3
+
+ the degree for node2009is 336
+
+ the degree for node2010is 14
+
+ the degree for node2011is 5
+
+ the degree for node2012is 0
+
+ the degree for node2013is 0
+
+ the degree for node2014is 0
+
+ the degree for node2015is 0
+
+ the degree for node2016is 0
+
+ the degree for node2017is 7
+
+ the degree for node2018is 844
+
+ the degree for node2019is 1
+
+ the degree for node2020is 8
+
+ the degree for node2021is 0
+
+ the degree for node2022is 24
+
+ the degree for node2023is 39
+
+ the degree for node2024is 792
+
+ the degree for node2025is 0
+
+ the degree for node2026is 1884
+
+ the degree for node2027is 311
+
+ the degree for node2028is 123
+
+ the degree for node2029is 97
+
+ the degree for node2030is 39
+
+ the degree for node2031is 3414
+
+ the degree for node2032is 2603
+
+ the degree for node2033is 23
+
+ the degree for node2034is 13
+
+ the degree for node2035is 38
+
+ the degree for node2036is 8
+
+ the degree for node2037is 390
+
+ the degree for node2038is 7850
+
+ the degree for node2039is 821
+
+ the degree for node2040is 187
+
+ the degree for node2041is 9
+
+ the degree for node2042is 1081
+
+ the degree for node2043is 27
+
+ the degree for node2044is 4
+
+ the degree for node2045is 18
+
+ the degree for node2046is 0
+
+ the degree for node2047is 23539
+
+ the degree for node2048is 28
+
+ the degree for node2049is 123
+
+ the degree for node2050is 0
+
+ the degree for node2051is 1
+
+ the degree for node2052is 209
+
+ the degree for node2053is 483
+
+ the degree for node2054is 5260
+
+ the degree for node2055is 10
+
+ the degree for node2056is 266
+
+ the degree for node2057is 24
+
+ the degree for node2058is 68
+
+ the degree for node2059is 26
+
+ the degree for node2060is 349
+
+ the degree for node2061is 21
+
+ the degree for node2062is 924
+
+ the degree for node2063is 50
+
+ the degree for node2064is 50
+
+ the degree for node2065is 324
+
+ the degree for node2066is 0
+
+ the degree for node2067is 21
+
+ the degree for node2068is 2369
+
+ the degree for node2069is 161
+
+ the degree for node2070is 1
+
+ the degree for node2071is 1735
+
+ the degree for node2072is 3251
+
+ the degree for node2073is 54
+
+ the degree for node2074is 7
+
+ the degree for node2075is 22
+
+ the degree for node2076is 10
+
+ the degree for node2077is 3
+
+ the degree for node2078is 119
+
+ the degree for node2079is 0
+
+ the degree for node2080is 1
+
+ the degree for node2081is 6581
+
+ the degree for node2082is 14
+
+ the degree for node2083is 16
+
+ the degree for node2084is 296
+
+ the degree for node2085is 108
+
+ the degree for node2086is 8
+
+ the degree for node2087is 1862
+
+ the degree for node2088is 87
+
+ the degree for node2089is 8
+
+ the degree for node2090is 24
+
+ the degree for node2091is 85
+
+ the degree for node2092is 67
+
+ the degree for node2093is 159
+
+ the degree for node2094is 0
+
+ the degree for node2095is 83
+
+ the degree for node2096is 4
+
+ the degree for node2097is 0
+
+ the degree for node2098is 0
+
+ the degree for node2099is 33
+
+ the degree for node2100is 0
+
+ the degree for node2101is 511
+
+ the degree for node2102is 2469
+
+ the degree for node2103is 80
+
+ the degree for node2104is 19
+
+ the degree for node2105is 3
+
+ the degree for node2106is 0
+
+ the degree for node2107is 207
+
+ the degree for node2108is 4
+
+ the degree for node2109is 1
+
+ the degree for node2110is 11
+
+ the degree for node2111is 5981
+
+ the degree for node2112is 25
+
+ the degree for node2113is 0
+
+ the degree for node2114is 19
+
+ the degree for node2115is 10
+
+ the degree for node2116is 1642
+
+ the degree for node2117is 12381
+
+ the degree for node2118is 38
+
+ the degree for node2119is 11
+
+ the degree for node2120is 48
+
+ the degree for node2121is 41
+
+ the degree for node2122is 6
+
+ the degree for node2123is 75
+
+ the degree for node2124is 20
+
+ the degree for node2125is 463
+
+ the degree for node2126is 481
+
+ the degree for node2127is 1467
+
+ the degree for node2128is 4093
+
+ the degree for node2129is 141
+
+ the degree for node2130is 2
+
+ the degree for node2131is 166
+
+ the degree for node2132is 2923
+
+ the degree for node2133is 15765
+
+ the degree for node2134is 238
+
+ the degree for node2135is 297
+
+ the degree for node2136is 2
+
+ the degree for node2137is 282
+
+ the degree for node2138is 1677
+
+ the degree for node2139is 21
+
+ the degree for node2140is 20
+
+ the degree for node2141is 2
+
+ the degree for node2142is 1357
+
+ the degree for node2143is 8552
+
+ the degree for node2144is 350
+
+ the degree for node2145is 245
+
+ the degree for node2146is 51
+
+ the degree for node2147is 44
+
+ the degree for node2148is 317
+
+ the degree for node2149is 598
+
+ the degree for node2150is 160
+
+ the degree for node2151is 131
+
+ the degree for node2152is 56
+
+ the degree for node2153is 1502
+
+ the degree for node2154is 51
+
+ the degree for node2155is 1028
+
+ the degree for node2156is 124
+
+ the degree for node2157is 207
+
+ the degree for node2158is 0
+
+ the degree for node2159is 13
+
+ the degree for node2160is 45
+
+ the degree for node2161is 82
+
+ the degree for node2162is 9
+
+ the degree for node2163is 213
+
+ the degree for node2164is 9
+
+ the degree for node2165is 19
+
+ the degree for node2166is 2
+
+ the degree for node2167is 0
+
+ the degree for node2168is 0
+
+ the degree for node2169is 257
+
+ the degree for node2170is 5
+
+ the degree for node2171is 1018
+
+ the degree for node2172is 84
+
+ the degree for node2173is 117
+
+ the degree for node2174is 2455
+
+ the degree for node2175is 0
+
+ the degree for node2176is 5372
+
+ the degree for node2177is 0
+
+ the degree for node2178is 0
+
+ the degree for node2179is 6
+
+ the degree for node2180is 843
+
+ the degree for node2181is 22
+
+ the degree for node2182is 0
+
+ the degree for node2183is 1244
+
+ the degree for node2184is 71
+
+ the degree for node2185is 117
+
+ the degree for node2186is 3
+
+ the degree for node2187is 1387
+
+ the degree for node2188is 59
+
+ the degree for node2189is 15596
+
+ the degree for node2190is 12
+
+ the degree for node2191is 143
+
+ the degree for node2192is 5
+
+ the degree for node2193is 18
+
+ the degree for node2194is 376
+
+ the degree for node2195is 0
+
+ the degree for node2196is 87
+
+ the degree for node2197is 28
+
+ the degree for node2198is 82
+
+ the degree for node2199is 8776
+
+ the degree for node2200is 45
+
+ the degree for node2201is 32
+
+ the degree for node2202is 17
+
+ the degree for node2203is 1488
+
+ the degree for node2204is 0
+
+ the degree for node2205is 0
+
+ the degree for node2206is 96
+
+ the degree for node2207is 62
+
+ the degree for node2208is 5
+
+ the degree for node2209is 18
+
+ the degree for node2210is 203
+
+ the degree for node2211is 190
+
+ the degree for node2212is 3
+
+ the degree for node2213is 1
+
+ the degree for node2214is 69
+
+ the degree for node2215is 174
+
+ the degree for node2216is 14
+
+ the degree for node2217is 13
+
+ the degree for node2218is 134
+
+ the degree for node2219is 0
+
+ the degree for node2220is 39
+
+ the degree for node2221is 57
+
+ the degree for node2222is 91
+
+ the degree for node2223is 1650
+
+ the degree for node2224is 1194
+
+ the degree for node2225is 817
+
+ the degree for node2226is 207
+
+ the degree for node2227is 1
+
+ the degree for node2228is 86
+
+ the degree for node2229is 477
+
+ the degree for node2230is 0
+
+ the degree for node2231is 109
+
+ the degree for node2232is 352
+
+ the degree for node2233is 1749
+
+ the degree for node2234is 8
+
+ the degree for node2235is 262
+
+ the degree for node2236is 125
+
+ the degree for node2237is 11
+
+ the degree for node2238is 16
+
+ the degree for node2239is 265
+
+ the degree for node2240is 92
+
+ the degree for node2241is 281
+
+ the degree for node2242is 160
+
+ the degree for node2243is 54
+
+ the degree for node2244is 57
+
+ the degree for node2245is 0
+
+ the degree for node2246is 350
+
+ the degree for node2247is 3088
+
+ the degree for node2248is 6
+
+ the degree for node2249is 10
+
+ the degree for node2250is 1635
+
+ the degree for node2251is 4
+
+ the degree for node2252is 0
+
+ the degree for node2253is 18
+
+ the degree for node2254is 656
+
+ the degree for node2255is 4
+
+ the degree for node2256is 0
+
+ the degree for node2257is 22
+
+ the degree for node2258is 2
+
+ the degree for node2259is 215
+
+ the degree for node2260is 40
+
+ the degree for node2261is 2
+
+ the degree for node2262is 4
+
+ the degree for node2263is 0
+
+ the degree for node2264is 1079
+
+ the degree for node2265is 2
+
+ the degree for node2266is 27270
+
+ the degree for node2267is 616
+
+ the degree for node2268is 14493
+
+ the degree for node2269is 0
+
+ the degree for node2270is 0
+
+ the degree for node2271is 39
+
+ the degree for node2272is 35
+
+ the degree for node2273is 74
+
+ the degree for node2274is 4
+
+ the degree for node2275is 29
+
+ the degree for node2276is 17
+
+ the degree for node2277is 30
+
+ the degree for node2278is 568
+
+ the degree for node2279is 1234
+
+ the degree for node2280is 40
+
+ the degree for node2281is 0
+
+ the degree for node2282is 2955
+
+ the degree for node2283is 8086
+
+ the degree for node2284is 942
+
+ the degree for node2285is 95
+
+ the degree for node2286is 29
+
+ the degree for node2287is 28
+
+ the degree for node2288is 57
+
+ the degree for node2289is 17021
+
+ the degree for node2290is 15
+
+ the degree for node2291is 11
+
+ the degree for node2292is 3891
+
+ the degree for node2293is 97
+
+ the degree for node2294is 974
+
+ the degree for node2295is 34
+
+ the degree for node2296is 59
+
+ the degree for node2297is 12
+
+ the degree for node2298is 168
+
+ the degree for node2299is 16
+
+ the degree for node2300is 229
+
+ the degree for node2301is 4
+
+ the degree for node2302is 3471
+
+ the degree for node2303is 2
+
+ the degree for node2304is 83
+
+ the degree for node2305is 0
+
+ the degree for node2306is 0
+
+ the degree for node2307is 5
+
+ the degree for node2308is 8
+
+ the degree for node2309is 312
+
+ the degree for node2310is 4
+
+ the degree for node2311is 4
+
+ the degree for node2312is 0
+
+ the degree for node2313is 2145
+
+ the degree for node2314is 5
+
+ the degree for node2315is 43
+
+ the degree for node2316is 17
+
+ the degree for node2317is 139
+
+ the degree for node2318is 72
+
+ the degree for node2319is 1562
+
+ the degree for node2320is 1
+
+ the degree for node2321is 7
+
+ the degree for node2322is 275
+
+ the degree for node2323is 29
+
+ the degree for node2324is 732
+
+ the degree for node2325is 4007
+
+ the degree for node2326is 35
+
+ the degree for node2327is 2826
+
+ the degree for node2328is 5240
+
+ the degree for node2329is 41
+
+ the degree for node2330is 153
+
+ the degree for node2331is 75
+
+ the degree for node2332is 276
+
+ the degree for node2333is 4342
+
+ the degree for node2334is 164
+
+ the degree for node2335is 106
+
+ the degree for node2336is 2900
+
+ the degree for node2337is 203
+
+ the degree for node2338is 67
+
+ the degree for node2339is 83
+
+ the degree for node2340is 63
+
+ the degree for node2341is 99
+
+ the degree for node2342is 90
+
+ the degree for node2343is 315
+
+ the degree for node2344is 1505
+
+ the degree for node2345is 245
+
+ the degree for node2346is 6
+
+ the degree for node2347is 51437
+
+ the degree for node2348is 49
+
+ the degree for node2349is 4
+
+ the degree for node2350is 67
+
+ the degree for node2351is 218
+
+ the degree for node2352is 18
+
+ the degree for node2353is 3
+
+ the degree for node2354is 21
+
+ the degree for node2355is 249
+
+ the degree for node2356is 9
+
+ the degree for node2357is 24
+
+ the degree for node2358is 0
+
+ the degree for node2359is 1
+
+ the degree for node2360is 7
+
+ the degree for node2361is 220
+
+ the degree for node2362is 1
+
+ the degree for node2363is 19
+
+ the degree for node2364is 1248
+
+ the degree for node2365is 30
+
+ the degree for node2366is 60
+
+ the degree for node2367is 92
+
+ the degree for node2368is 2024
+
+ the degree for node2369is 75
+
+ the degree for node2370is 7
+
+ the degree for node2371is 80
+
+ the degree for node2372is 283
+
+ the degree for node2373is 8
+
+ the degree for node2374is 7
+
+ the degree for node2375is 0
+
+ the degree for node2376is 161
+
+ the degree for node2377is 275
+
+ the degree for node2378is 345
+
+ the degree for node2379is 40
+
+ the degree for node2380is 0
+
+ the degree for node2381is 26
+
+ the degree for node2382is 0
+
+ the degree for node2383is 2
+
+ the degree for node2384is 6631
+
+ the degree for node2385is 575
+
+ the degree for node2386is 15
+
+ the degree for node2387is 107
+
+ the degree for node2388is 0
+
+ the degree for node2389is 920
+
+ the degree for node2390is 7
+
+ the degree for node2391is 134
+
+ the degree for node2392is 53
+
+ the degree for node2393is 23
+
+ the degree for node2394is 972
+
+ the degree for node2395is 202
+
+ the degree for node2396is 87
+
+ the degree for node2397is 136
+
+ the degree for node2398is 2669
+
+ the degree for node2399is 1759
+
+ the degree for node2400is 0
+
+ the degree for node2401is 48
+
+ the degree for node2402is 3
+
+ the degree for node2403is 7
+
+ the degree for node2404is 94
+
+ the degree for node2405is 35
+
+ the degree for node2406is 67
+
+ the degree for node2407is 4
+
+ the degree for node2408is 7
+
+ the degree for node2409is 49
+
+ the degree for node2410is 232
+
+ the degree for node2411is 99
+
+ the degree for node2412is 129
+
+ the degree for node2413is 151
+
+ the degree for node2414is 53
+
+ the degree for node2415is 8
+
+ the degree for node2416is 33
+
+ the degree for node2417is 1843
+
+ the degree for node2418is 2
+
+ the degree for node2419is 3048
+
+ the degree for node2420is 56
+
+ the degree for node2421is 10
+
+ the degree for node2422is 0
+
+ the degree for node2423is 17
+
+ the degree for node2424is 2
+
+ the degree for node2425is 94
+
+ the degree for node2426is 27
+
+ the degree for node2427is 7
+
+ the degree for node2428is 128
+
+ the degree for node2429is 161
+
+ the degree for node2430is 27
+
+ the degree for node2431is 0
+
+ the degree for node2432is 19
+
+ the degree for node2433is 61
+
+ the degree for node2434is 166
+
+ the degree for node2435is 0
+
+ the degree for node2436is 331
+
+ the degree for node2437is 0
+
+ the degree for node2438is 111
+
+ the degree for node2439is 2
+
+ the degree for node2440is 61
+
+ the degree for node2441is 0
+
+ the degree for node2442is 0
+
+ the degree for node2443is 100
+
+ the degree for node2444is 0
+
+ the degree for node2445is 325
+
+ the degree for node2446is 15
+
+ the degree for node2447is 734
+
+ the degree for node2448is 73
+
+ the degree for node2449is 66
+
+ the degree for node2450is 5
+
+ the degree for node2451is 2006
+
+ the degree for node2452is 2
+
+ the degree for node2453is 25
+
+ the degree for node2454is 4
+
+ the degree for node2455is 19
+
+ the degree for node2456is 11
+
+ the degree for node2457is 0
+
+ the degree for node2458is 1203
+
+ the degree for node2459is 905
+
+ the degree for node2460is 21
+
+ the degree for node2461is 1555
+
+ the degree for node2462is 174
+
+ the degree for node2463is 924
+
+ the degree for node2464is 48
+
+ the degree for node2465is 37
+
+ the degree for node2466is 1
+
+ the degree for node2467is 4
+
+ the degree for node2468is 19130
+
+ the degree for node2469is 3
+
+ the degree for node2470is 0
+
+ the degree for node2471is 1460
+
+ the degree for node2472is 2970
+
+ the degree for node2473is 79
+
+ the degree for node2474is 63
+
+ the degree for node2475is 1009
+
+ the degree for node2476is 18
+
+ the degree for node2477is 3
+
+ the degree for node2478is 261
+
+ the degree for node2479is 1
+
+ the degree for node2480is 38
+
+ the degree for node2481is 0
+
+ the degree for node2482is 28
+
+ the degree for node2483is 0
+
+ the degree for node2484is 8
+
+ the degree for node2485is 8
+
+ the degree for node2486is 11
+
+ the degree for node2487is 0
+
+ the degree for node2488is 99
+
+ the degree for node2489is 12
+
+ the degree for node2490is 5
+
+ the degree for node2491is 2054
+
+ the degree for node2492is 22
+
+ the degree for node2493is 0
+
+ the degree for node2494is 339
+
+ the degree for node2495is 10
+
+ the degree for node2496is 0
+
+ the degree for node2497is 42
+
+ the degree for node2498is 3065
+
+ the degree for node2499is 146
+
+ the degree for node2500is 26
+
+ the degree for node2501is 1857
+
+ the degree for node2502is 824
+
+ the degree for node2503is 0
+
+ the degree for node2504is 18
+
+ the degree for node2505is 0
+
+ the degree for node2506is 59
+
+ the degree for node2507is 110
+
+ the degree for node2508is 636
+
+ the degree for node2509is 2860
+
+ the degree for node2510is 3102
+
+ the degree for node2511is 2668
+
+ the degree for node2512is 6518
+
+ the degree for node2513is 2
+
+ the degree for node2514is 0
+
+ the degree for node2515is 5
+
+ the degree for node2516is 166
+
+ the degree for node2517is 0
+
+ the degree for node2518is 95
+
+ the degree for node2519is 12
+
+ the degree for node2520is 43
+
+ the degree for node2521is 30
+
+ the degree for node2522is 2
+
+ the degree for node2523is 23
+
+ the degree for node2524is 2
+
+ the degree for node2525is 24
+
+ the degree for node2526is 772
+
+ the degree for node2527is 1
+
+ the degree for node2528is 0
+
+ the degree for node2529is 1009
+
+ the degree for node2530is 181
+
+ the degree for node2531is 34
+
+ the degree for node2532is 4
+
+ the degree for node2533is 1067
+
+ the degree for node2534is 17
+
+ the degree for node2535is 12
+
+ the degree for node2536is 52
+
+ the degree for node2537is 96
+
+ the degree for node2538is 883
+
+ the degree for node2539is 5
+
+ the degree for node2540is 164
+
+ the degree for node2541is 0
+
+ the degree for node2542is 21654
+
+ the degree for node2543is 123091
+
+ the degree for node2544is 125
+
+ the degree for node2545is 4
+
+ the degree for node2546is 22
+
+ the degree for node2547is 632
+
+ the degree for node2548is 0
+
+ the degree for node2549is 6
+
+ the degree for node2550is 163
+
+ the degree for node2551is 81
+
+ the degree for node2552is 6
+
+ the degree for node2553is 93
+
+ the degree for node2554is 5
+
+ the degree for node2555is 586
+
+ the degree for node2556is 10
+
+ the degree for node2557is 40
+
+ the degree for node2558is 80
+
+ the degree for node2559is 11
+
+ the degree for node2560is 669
+
+ the degree for node2561is 44
+
+ the degree for node2562is 16
+
+ the degree for node2563is 4
+
+ the degree for node2564is 67
+
+ the degree for node2565is 0
+
+ the degree for node2566is 23
+
+ the degree for node2567is 541
+
+ the degree for node2568is 0
+
+ the degree for node2569is 0
+
+ the degree for node2570is 57
+
+ the degree for node2571is 201
+
+ the degree for node2572is 6
+
+ the degree for node2573is 26
+
+ the degree for node2574is 4
+
+ the degree for node2575is 86
+
+ the degree for node2576is 19
+
+ the degree for node2577is 18
+
+ the degree for node2578is 10
+
+ the degree for node2579is 0
+
+ the degree for node2580is 0
+
+ the degree for node2581is 104
+
+ the degree for node2582is 114
+
+ the degree for node2583is 693
+
+ the degree for node2584is 1
+
+ the degree for node2585is 1
+
+ the degree for node2586is 16
+
+ the degree for node2587is 20
+
+ the degree for node2588is 536
+
+ the degree for node2589is 375
+
+ the degree for node2590is 72
+
+ the degree for node2591is 1
+
+ the degree for node2592is 683
+
+ the degree for node2593is 20
+
+ the degree for node2594is 976
+
+ the degree for node2595is 0
+
+ the degree for node2596is 0
+
+ the degree for node2597is 621
+
+ the degree for node2598is 2619
+
+ the degree for node2599is 0
+
+ the degree for node2600is 52
+
+ the degree for node2601is 44
+
+ the degree for node2602is 172
+
+ the degree for node2603is 136
+
+ the degree for node2604is 142
+
+ the degree for node2605is 104
+
+ the degree for node2606is 0
+
+ the degree for node2607is 65
+
+ the degree for node2608is 690
+
+ the degree for node2609is 0
+
+ the degree for node2610is 262
+
+ the degree for node2611is 516
+
+ the degree for node2612is 21
+
+ the degree for node2613is 0
+
+ the degree for node2614is 33
+
+ the degree for node2615is 37
+
+ the degree for node2616is 927
+
+ the degree for node2617is 1814
+
+ the degree for node2618is 52
+
+ the degree for node2619is 18
+
+ the degree for node2620is 23
+
+ the degree for node2621is 0
+
+ the degree for node2622is 44
+
+ the degree for node2623is 40
+
+ the degree for node2624is 378
+
+ the degree for node2625is 23
+
+ the degree for node2626is 18
+
+ the degree for node2627is 3
+
+ the degree for node2628is 19
+
+ the degree for node2629is 1794
+
+ the degree for node2630is 24
+
+ the degree for node2631is 28
+
+ the degree for node2632is 0
+
+ the degree for node2633is 0
+
+ the degree for node2634is 4
+
+ the degree for node2635is 230
+
+ the degree for node2636is 285
+
+ the degree for node2637is 38
+
+ the degree for node2638is 8
+
+ the degree for node2639is 2
+
+ the degree for node2640is 870
+
+ the degree for node2641is 12
+
+ the degree for node2642is 8282
+
+ the degree for node2643is 892
+
+ the degree for node2644is 62
+
+ the degree for node2645is 27
+
+ the degree for node2646is 59
+
+ the degree for node2647is 784
+
+ the degree for node2648is 20
+
+ the degree for node2649is 1126
+
+ the degree for node2650is 1
+
+ the degree for node2651is 1
+
+ the degree for node2652is 0
+
+ the degree for node2653is 260
+
+ the degree for node2654is 4
+
+ the degree for node2655is 14
+
+ the degree for node2656is 26
+
+ the degree for node2657is 7
+
+ the degree for node2658is 2
+
+ the degree for node2659is 634
+
+ the degree for node2660is 297
+
+ the degree for node2661is 414
+
+ the degree for node2662is 139
+
+ the degree for node2663is 48
+
+ the degree for node2664is 117
+
+ the degree for node2665is 314
+
+ the degree for node2666is 53
+
+ the degree for node2667is 61
+
+ the degree for node2668is 225
+
+ the degree for node2669is 233
+
+ the degree for node2670is 3
+
+ the degree for node2671is 0
+
+ the degree for node2672is 46
+
+ the degree for node2673is 16
+
+ the degree for node2674is 104
+
+ the degree for node2675is 109
+
+ the degree for node2676is 153
+
+ the degree for node2677is 270
+
+ the degree for node2678is 2
+
+ the degree for node2679is 269
+
+ the degree for node2680is 34
+
+ the degree for node2681is 18
+
+ the degree for node2682is 7
+
+ the degree for node2683is 321
+
+ the degree for node2684is 16
+
+ the degree for node2685is 9
+
+ the degree for node2686is 45
+
+ the degree for node2687is 0
+
+ the degree for node2688is 19
+
+ the degree for node2689is 66
+
+ the degree for node2690is 196
+
+ the degree for node2691is 0
+
+ the degree for node2692is 0
+
+ the degree for node2693is 482
+
+ the degree for node2694is 350
+
+ the degree for node2695is 0
+
+ the degree for node2696is 52
+
+ the degree for node2697is 24
+
+ the degree for node2698is 48
+
+ the degree for node2699is 0
+
+ the degree for node2700is 59
+
+ the degree for node2701is 0
+
+ the degree for node2702is 74
+
+ the degree for node2703is 1
+
+ the degree for node2704is 0
+
+ the degree for node2705is 3
+
+ the degree for node2706is 149
+
+ the degree for node2707is 356
+
+ the degree for node2708is 15
+
+ the degree for node2709is 21
+
+ the degree for node2710is 10
+
+ the degree for node2711is 157
+
+ the degree for node2712is 59
+
+ the degree for node2713is 100
+
+ the degree for node2714is 0
+
+ the degree for node2715is 154
+
+ the degree for node2716is 973
+
+ the degree for node2717is 1
+
+ the degree for node2718is 185
+
+ the degree for node2719is 473
+
+ the degree for node2720is 124
+
+ the degree for node2721is 0
+
+ the degree for node2722is 0
+
+ the degree for node2723is 10
+
+ the degree for node2724is 1256
+
+ the degree for node2725is 32
+
+ the degree for node2726is 15
+
+ the degree for node2727is 25
+
+ the degree for node2728is 111
+
+ the degree for node2729is 285
+
+ the degree for node2730is 1573
+
+ the degree for node2731is 12
+
+ the degree for node2732is 0
+
+ the degree for node2733is 11
+
+ the degree for node2734is 356
+
+ the degree for node2735is 70
+
+ the degree for node2736is 0
+
+ the degree for node2737is 36
+
+ the degree for node2738is 530
+
+ the degree for node2739is 134
+
+ the degree for node2740is 0
+
+ the degree for node2741is 118
+
+ the degree for node2742is 709
+
+ the degree for node2743is 60
+
+ the degree for node2744is 34
+
+ the degree for node2745is 96
+
+ the degree for node2746is 0
+
+ the degree for node2747is 4
+
+ the degree for node2748is 533
+
+ the degree for node2749is 51
+
+ the degree for node2750is 100
+
+ the degree for node2751is 149
+
+ the degree for node2752is 34
+
+ the degree for node2753is 71
+
+ the degree for node2754is 882
+
+ the degree for node2755is 120
+
+ the degree for node2756is 28
+
+ the degree for node2757is 140
+
+ the degree for node2758is 280
+
+ the degree for node2759is 103
+
+ the degree for node2760is 25
+
+ the degree for node2761is 15
+
+ the degree for node2762is 51
+
+ the degree for node2763is 147
+
+ the degree for node2764is 480
+
+ the degree for node2765is 14
+
+ the degree for node2766is 7
+
+ the degree for node2767is 0
+
+ the degree for node2768is 95
+
+ the degree for node2769is 5
+
+ the degree for node2770is 2
+
+ the degree for node2771is 7
+
+ the degree for node2772is 241
+
+ the degree for node2773is 50
+
+ the degree for node2774is 0
+
+ the degree for node2775is 119
+
+ the degree for node2776is 0
+
+ the degree for node2777is 147
+
+ the degree for node2778is 549
+
+ the degree for node2779is 2
+
+ the degree for node2780is 583
+
+ the degree for node2781is 429
+
+ the degree for node2782is 244
+
+ the degree for node2783is 123
+
+ the degree for node2784is 136
+
+ the degree for node2785is 231
+
+ the degree for node2786is 331
+
+ the degree for node2787is 307
+
+ the degree for node2788is 0
+
+ the degree for node2789is 31
+
+ the degree for node2790is 8
+
+ the degree for node2791is 27
+
+ the degree for node2792is 0
+
+ the degree for node2793is 461
+
+ the degree for node2794is 2
+
+ the degree for node2795is 109
+
+ the degree for node2796is 105
+
+ the degree for node2797is 15
+
+ the degree for node2798is 0
+
+ the degree for node2799is 0
+
+ the degree for node2800is 124
+
+ the degree for node2801is 1
+
+ the degree for node2802is 2
+
+ the degree for node2803is 83
+
+ the degree for node2804is 5
+
+ the degree for node2805is 11
+
+ the degree for node2806is 174
+
+ the degree for node2807is 51
+
+ the degree for node2808is 0
+
+ the degree for node2809is 26
+
+ the degree for node2810is 149
+
+ the degree for node2811is 2
+
+ the degree for node2812is 160
+
+ the degree for node2813is 395
+
+ the degree for node2814is 0
+
+ the degree for node2815is 18
+
+ the degree for node2816is 2
+
+ the degree for node2817is 0
+
+ the degree for node2818is 60
+
+ the degree for node2819is 77
+
+ the degree for node2820is 25
+
+ the degree for node2821is 6
+
+ the degree for node2822is 69
+
+ the degree for node2823is 18
+
+ the degree for node2824is 0
+
+ the degree for node2825is 178
+
+ the degree for node2826is 95
+
+ the degree for node2827is 85
+
+ the degree for node2828is 127
+
+ the degree for node2829is 14
+
+ the degree for node2830is 17
+
+ the degree for node2831is 28
+
+ the degree for node2832is 125
+
+ the degree for node2833is 196
+
+ the degree for node2834is 3
+
+ the degree for node2835is 13
+
+ the degree for node2836is 191
+
+ the degree for node2837is 7
+
+ the degree for node2838is 0
+
+ the degree for node2839is 862
+
+ the degree for node2840is 86
+
+ the degree for node2841is 206
+
+ the degree for node2842is 0
+
+ the degree for node2843is 28
+
+ the degree for node2844is 99
+
+ the degree for node2845is 45
+
+ the degree for node2846is 12
+
+ the degree for node2847is 28
+
+ the degree for node2848is 90
+
+ the degree for node2849is 126
+
+ the degree for node2850is 4
+
+ the degree for node2851is 29
+
+ the degree for node2852is 0
+
+ the degree for node2853is 53
+
+ the degree for node2854is 84
+
+ the degree for node2855is 0
+
+ the degree for node2856is 48
+
+ the degree for node2857is 0
+
+ the degree for node2858is 47
+
+ the degree for node2859is 34
+
+ the degree for node2860is 0
+
+ the degree for node2861is 5
+
+ the degree for node2862is 67
+
+ the degree for node2863is 1481
+
+ the degree for node2864is 99
+
+ the degree for node2865is 230
+
+ the degree for node2866is 127
+
+ the degree for node2867is 148
+
+ the degree for node2868is 77
+
+ the degree for node2869is 4120
+
+ the degree for node2870is 61
+
+ the degree for node2871is 172
+
+ the degree for node2872is 77
+
+ the degree for node2873is 120
+
+ the degree for node2874is 37
+
+ the degree for node2875is 147
+
+ the degree for node2876is 11
+
+ the degree for node2877is 350
+
+ the degree for node2878is 11
+
+ the degree for node2879is 0
+
+ the degree for node2880is 57
+
+ the degree for node2881is 349
+
+ the degree for node2882is 13
+
+ the degree for node2883is 375
+
+ the degree for node2884is 2
+
+ the degree for node2885is 0
+
+ the degree for node2886is 1
+
+ the degree for node2887is 34
+
+ the degree for node2888is 4
+
+ the degree for node2889is 37
+
+ the degree for node2890is 301
+
+ the degree for node2891is 2
+
+ the degree for node2892is 218
+
+ the degree for node2893is 11
+
+ the degree for node2894is 259
+
+ the degree for node2895is 5
+
+ the degree for node2896is 60
+
+ the degree for node2897is 20
+
+ the degree for node2898is 0
+
+ the degree for node2899is 0
+
+ the degree for node2900is 0
+
+ the degree for node2901is 577
+
+ the degree for node2902is 0
+
+ the degree for node2903is 6
+
+ the degree for node2904is 630
+
+ the degree for node2905is 71
+
+ the degree for node2906is 139
+
+ the degree for node2907is 7
+
+ the degree for node2908is 0
+
+ the degree for node2909is 193
+
+ the degree for node2910is 155
+
+ the degree for node2911is 37
+
+ the degree for node2912is 23
+
+ the degree for node2913is 207
+
+ the degree for node2914is 192
+
+ the degree for node2915is 337
+
+ the degree for node2916is 122
+
+ the degree for node2917is 0
+
+ the degree for node2918is 9
+
+ the degree for node2919is 125
+
+ the degree for node2920is 164
+
+ the degree for node2921is 208
+
+ the degree for node2922is 0
+
+ the degree for node2923is 53
+
+ the degree for node2924is 38
+
+ the degree for node2925is 133
+
+ the degree for node2926is 2
+
+ the degree for node2927is 224
+
+ the degree for node2928is 272
+
+ the degree for node2929is 33
+
+ the degree for node2930is 0
+
+ the degree for node2931is 86
+
+ the degree for node2932is 120
+
+ the degree for node2933is 10
+
+ the degree for node2934is 50
+
+ the degree for node2935is 5
+
+ the degree for node2936is 240
+
+ the degree for node2937is 140
+
+ the degree for node2938is 132
+
+ the degree for node2939is 85
+
+ the degree for node2940is 51
+
+ the degree for node2941is 18
+
+ the degree for node2942is 7
+
+ the degree for node2943is 210
+
+ the degree for node2944is 504
+
+ the degree for node2945is 48
+
+ the degree for node2946is 720
+
+ the degree for node2947is 2
+
+ the degree for node2948is 12
+
+ the degree for node2949is 55
+
+ the degree for node2950is 256
+
+ the degree for node2951is 1811
+
+ the degree for node2952is 0
+
+ the degree for node2953is 3
+
+ the degree for node2954is 18
+
+ the degree for node2955is 211
+
+ the degree for node2956is 221
+
+ the degree for node2957is 33
+
+ the degree for node2958is 293
+
+ the degree for node2959is 1
+
+ the degree for node2960is 196
+
+ the degree for node2961is 9
+
+ the degree for node2962is 191
+
+ the degree for node2963is 0
+
+ the degree for node2964is 243
+
+ the degree for node2965is 30
+
+ the degree for node2966is 389
+
+ the degree for node2967is 10
+
+ the degree for node2968is 194
+
+ the degree for node2969is 69
+
+ the degree for node2970is 2
+
+ the degree for node2971is 1
+
+ the degree for node2972is 1
+
+ the degree for node2973is 180
+
+ the degree for node2974is 29
+
+ the degree for node2975is 0
+
+ the degree for node2976is 497
+
+ the degree for node2977is 4
+
+ the degree for node2978is 51
+
+ the degree for node2979is 452
+
+ the degree for node2980is 0
+
+ the degree for node2981is 12
+
+ the degree for node2982is 0
+
+ the degree for node2983is 16
+
+ the degree for node2984is 48
+
+ the degree for node2985is 9
+
+ the degree for node2986is 194
+
+ the degree for node2987is 7
+
+ the degree for node2988is 86
+
+ the degree for node2989is 195
+
+ the degree for node2990is 1
+
+ the degree for node2991is 30
+
+ the degree for node2992is 303
+
+ the degree for node2993is 52
+
+ the degree for node2994is 95
+
+ the degree for node2995is 31
+
+ the degree for node2996is 209
+
+ the degree for node2997is 22
+
+ the degree for node2998is 0
+
+ the degree for node2999is 304
+
+ the degree for node3000is 211
+
+ the degree for node3001is 343
+
+ the degree for node3002is 811
+
+ the degree for node3003is 0
+
+ the degree for node3004is 28
+
+ the degree for node3005is 619
+
+ the degree for node3006is 0
+
+ the degree for node3007is 54
+
+ the degree for node3008is 0
+
+ the degree for node3009is 35
+
+ the degree for node3010is 122
+
+ the degree for node3011is 617
+
+ the degree for node3012is 1
+
+ the degree for node3013is 7
+
+ the degree for node3014is 21
+
+ the degree for node3015is 13
+
+ the degree for node3016is 89
+
+ the degree for node3017is 489
+
+ the degree for node3018is 104
+
+ the degree for node3019is 1690
+
+ the degree for node3020is 1819
+
+ the degree for node3021is 8
+
+ the degree for node3022is 90
+
+ the degree for node3023is 21
+
+ the degree for node3024is 23
+
+ the degree for node3025is 139
+
+ the degree for node3026is 370
+
+ the degree for node3027is 587
+
+ the degree for node3028is 15
+
+ the degree for node3029is 25
+
+ the degree for node3030is 0
+
+ the degree for node3031is 0
+
+ the degree for node3032is 12
+
+ the degree for node3033is 167
+
+ the degree for node3034is 527
+
+ the degree for node3035is 386
+
+ the degree for node3036is 78
+
+ the degree for node3037is 0
+
+ the degree for node3038is 589
+
+ the degree for node3039is 1
+
+ the degree for node3040is 7
+
+ the degree for node3041is 52
+
+ the degree for node3042is 31
+
+ the degree for node3043is 35
+
+ the degree for node3044is 1
+
+ the degree for node3045is 8
+
+ the degree for node3046is 130
+
+ the degree for node3047is 3
+
+ the degree for node3048is 22
+
+ the degree for node3049is 216
+
+ the degree for node3050is 23
+
+ the degree for node3051is 829
+
+ the degree for node3052is 127
+
+ the degree for node3053is 1
+
+ the degree for node3054is 211
+
+ the degree for node3055is 0
+
+ the degree for node3056is 127
+
+ the degree for node3057is 93
+
+ the degree for node3058is 0
+
+ the degree for node3059is 0
+
+ the degree for node3060is 316
+
+ the degree for node3061is 15
+
+ the degree for node3062is 335
+
+ the degree for node3063is 0
+
+ the degree for node3064is 23
+
+ the degree for node3065is 20
+
+ the degree for node3066is 11
+
+ the degree for node3067is 32
+
+ the degree for node3068is 8
+
+ the degree for node3069is 27
+
+ the degree for node3070is 49
+
+ the degree for node3071is 0
+
+ the degree for node3072is 483
+
+ the degree for node3073is 98
+
+ the degree for node3074is 0
+
+ the degree for node3075is 76
+
+ the degree for node3076is 511
+
+ the degree for node3077is 585
+
+ the degree for node3078is 209
+
+ the degree for node3079is 312
+
+ the degree for node3080is 59
+
+ the degree for node3081is 133
+
+ the degree for node3082is 719
+
+ the degree for node3083is 1
+
+ the degree for node3084is 393
+
+ the degree for node3085is 31
+
+ the degree for node3086is 94
+
+ the degree for node3087is 346
+
+ the degree for node3088is 9
+
+ the degree for node3089is 245
+
+ the degree for node3090is 982
+
+ the degree for node3091is 0
+
+ the degree for node3092is 0
+
+ the degree for node3093is 15
+
+ the degree for node3094is 0
+
+ the degree for node3095is 24
+
+ the degree for node3096is 58
+
+ the degree for node3097is 566
+
+ the degree for node3098is 69
+
+ the degree for node3099is 2
+
+ the degree for node3100is 1448
+
+ the degree for node3101is 5699
+
+ the degree for node3102is 1
+
+ the degree for node3103is 25
+
+ the degree for node3104is 370
+
+ the degree for node3105is 24
+
+ the degree for node3106is 92
+
+ the degree for node3107is 488
+
+ the degree for node3108is 12
+
+ the degree for node3109is 9
+
+ the degree for node3110is 32
+
+ the degree for node3111is 2293
+
+ the degree for node3112is 0
+
+ the degree for node3113is 233
+
+ the degree for node3114is 131
+
+ the degree for node3115is 187
+
+ the degree for node3116is 565
+
+ the degree for node3117is 732
+
+ the degree for node3118is 205
+
+ the degree for node3119is 173
+
+ the degree for node3120is 92
+
+ the degree for node3121is 1
+
+ the degree for node3122is 0
+
+ the degree for node3123is 19
+
+ the degree for node3124is 168
+
+ the degree for node3125is 0
+
+ the degree for node3126is 0
+
+ the degree for node3127is 0
+
+ the degree for node3128is 0
+
+ the degree for node3129is 59
+
+ the degree for node3130is 5
+
+ the degree for node3131is 0
+
+ the degree for node3132is 138
+
+ the degree for node3133is 2
+
+ the degree for node3134is 0
+
+ the degree for node3135is 14
+
+ the degree for node3136is 697
+
+ the degree for node3137is 179
+
+ the degree for node3138is 37
+
+ the degree for node3139is 27
+
+ the degree for node3140is 779
+
+ the degree for node3141is 4
+
+ the degree for node3142is 20
+
+ the degree for node3143is 0
+
+ the degree for node3144is 44
+
+ the degree for node3145is 244
+
+ the degree for node3146is 141
+
+ the degree for node3147is 0
+
+ the degree for node3148is 83
+
+ the degree for node3149is 67
+
+ the degree for node3150is 546
+
+ the degree for node3151is 15
+
+ the degree for node3152is 520
+
+ the degree for node3153is 12
+
+ the degree for node3154is 1346
+
+ the degree for node3155is 14
+
+ the degree for node3156is 6
+
+ the degree for node3157is 35
+
+ the degree for node3158is 59
+
+ the degree for node3159is 3
+
+ the degree for node3160is 43
+
+ the degree for node3161is 4
+
+ the degree for node3162is 698
+
+ the degree for node3163is 1
+
+ the degree for node3164is 20
+
+ the degree for node3165is 10
+
+ the degree for node3166is 27
+
+ the degree for node3167is 13
+
+ the degree for node3168is 773
+
+ the degree for node3169is 21
+
+ the degree for node3170is 12
+
+ the degree for node3171is 57
+
+ the degree for node3172is 211
+
+ the degree for node3173is 12594
+
+ the degree for node3174is 50
+
+ the degree for node3175is 0
+
+ the degree for node3176is 66
+
+ the degree for node3177is 215
+
+ the degree for node3178is 268
+
+ the degree for node3179is 701
+
+ the degree for node3180is 0
+
+ the degree for node3181is 0
+
+ the degree for node3182is 188
+
+ the degree for node3183is 0
+
+ the degree for node3184is 124
+
+ the degree for node3185is 516
+
+ the degree for node3186is 813
+
+ the degree for node3187is 115
+
+ the degree for node3188is 185
+
+ the degree for node3189is 16
+
+ the degree for node3190is 10
+
+ the degree for node3191is 152
+
+ the degree for node3192is 7
+
+ the degree for node3193is 31
+
+ the degree for node3194is 2
+
+ the degree for node3195is 99
+
+ the degree for node3196is 182
+
+ the degree for node3197is 3
+
+ the degree for node3198is 765
+
+ the degree for node3199is 31
+
+ the degree for node3200is 5
+
+ the degree for node3201is 785
+
+ the degree for node3202is 1
+
+ the degree for node3203is 112
+
+ the degree for node3204is 143
+
+ the degree for node3205is 173
+
+ the degree for node3206is 35
+
+ the degree for node3207is 98
+
+ the degree for node3208is 38
+
+ the degree for node3209is 5
+
+ the degree for node3210is 16
+
+ the degree for node3211is 129
+
+ the degree for node3212is 64
+
+ the degree for node3213is 40
+
+ the degree for node3214is 763
+
+ the degree for node3215is 83
+
+ the degree for node3216is 2
+
+ the degree for node3217is 1
+
+ the degree for node3218is 0
+
+ the degree for node3219is 128
+
+ the degree for node3220is 40
+
+ the degree for node3221is 110
+
+ the degree for node3222is 117
+
+ the degree for node3223is 60
+
+ the degree for node3224is 172
+
+ the degree for node3225is 66
+
+ the degree for node3226is 109
+
+ the degree for node3227is 3
+
+ the degree for node3228is 14
+
+ the degree for node3229is 5
+
+ the degree for node3230is 0
+
+ the degree for node3231is 64
+
+ the degree for node3232is 315
+
+ the degree for node3233is 882
+
+ the degree for node3234is 36
+
+ the degree for node3235is 1
+
+ the degree for node3236is 36
+
+ the degree for node3237is 36
+
+ the degree for node3238is 8
+
+ the degree for node3239is 38
+
+ the degree for node3240is 296
+
+ the degree for node3241is 3
+
+ the degree for node3242is 36
+
+ the degree for node3243is 0
+
+ the degree for node3244is 13
+
+ the degree for node3245is 196
+
+ the degree for node3246is 12
+
+ the degree for node3247is 30
+
+ the degree for node3248is 1495
+
+ the degree for node3249is 17
+
+ the degree for node3250is 0
+
+ the degree for node3251is 3
+
+ the degree for node3252is 183
+
+ the degree for node3253is 346
+
+ the degree for node3254is 19
+
+ the degree for node3255is 130
+
+ the degree for node3256is 767
+
+ the degree for node3257is 47
+
+ the degree for node3258is 2114
+
+ the degree for node3259is 122
+
+ the degree for node3260is 45
+
+ the degree for node3261is 132
+
+ the degree for node3262is 0
+
+ the degree for node3263is 4719
+
+ the degree for node3264is 34
+
+ the degree for node3265is 1753
+
+ the degree for node3266is 0
+
+ the degree for node3267is 217
+
+ the degree for node3268is 0
+
+ the degree for node3269is 7
+
+ the degree for node3270is 0
+
+ the degree for node3271is 1
+
+ the degree for node3272is 167
+
+ the degree for node3273is 45
+
+ the degree for node3274is 611
+
+ the degree for node3275is 190
+
+ the degree for node3276is 64
+
+ the degree for node3277is 185
+
+ the degree for node3278is 197
+
+ the degree for node3279is 140
+
+ the degree for node3280is 974
+
+ the degree for node3281is 0
+
+ the degree for node3282is 0
+
+ the degree for node3283is 1
+
+ the degree for node3284is 28
+
+ the degree for node3285is 29
+
+ the degree for node3286is 17
+
+ the degree for node3287is 184
+
+ the degree for node3288is 150
+
+ the degree for node3289is 534
+
+ the degree for node3290is 2
+
+ the degree for node3291is 1203
+
+ the degree for node3292is 24
+
+ the degree for node3293is 68
+
+ the degree for node3294is 35
+
+ the degree for node3295is 409
+
+ the degree for node3296is 175
+
+ the degree for node3297is 40
+
+ the degree for node3298is 143
+
+ the degree for node3299is 295
+
+ the degree for node3300is 19
+
+ the degree for node3301is 33
+
+ the degree for node3302is 984
+
+ the degree for node3303is 116
+
+ the degree for node3304is 699
+
+ the degree for node3305is 0
+
+ the degree for node3306is 39
+
+ the degree for node3307is 52
+
+ the degree for node3308is 0
+
+ the degree for node3309is 9
+
+ the degree for node3310is 0
+
+ the degree for node3311is 0
+
+ the degree for node3312is 15
+
+ the degree for node3313is 116
+
+ the degree for node3314is 1
+
+ the degree for node3315is 0
+
+ the degree for node3316is 23
+
+ the degree for node3317is 0
+
+ the degree for node3318is 12
+
+ the degree for node3319is 178
+
+ the degree for node3320is 949
+
+ the degree for node3321is 319
+
+ the degree for node3322is 0
+
+ the degree for node3323is 0
+
+ the degree for node3324is 487
+
+ the degree for node3325is 10
+
+ the degree for node3326is 42
+
+ the degree for node3327is 559
+
+ the degree for node3328is 85
+
+ the degree for node3329is 52
+
+ the degree for node3330is 768
+
+ the degree for node3331is 634
+
+ the degree for node3332is 125
+
+ the degree for node3333is 1
+
+ the degree for node3334is 0
+
+ the degree for node3335is 343
+
+ the degree for node3336is 0
+
+ the degree for node3337is 35
+
+ the degree for node3338is 0
+
+ the degree for node3339is 73
+
+ the degree for node3340is 44
+
+ the degree for node3341is 144
+
+ the degree for node3342is 580
+
+ the degree for node3343is 34
+
+ the degree for node3344is 177
+
+ the degree for node3345is 319
+
+ the degree for node3346is 160
+
+ the degree for node3347is 273
+
+ the degree for node3348is 125
+
+ the degree for node3349is 7
+
+ the degree for node3350is 444
+
+ the degree for node3351is 200
+
+ the degree for node3352is 0
+
+ the degree for node3353is 427
+
+ the degree for node3354is 0
+
+ the degree for node3355is 283
+
+ the degree for node3356is 3
+
+ the degree for node3357is 17
+
+ the degree for node3358is 6
+
+ the degree for node3359is 20
+
+ the degree for node3360is 577
+
+ the degree for node3361is 124
+
+ the degree for node3362is 210
+
+ the degree for node3363is 802
+
+ the degree for node3364is 22
+
+ the degree for node3365is 334
+
+ the degree for node3366is 827
+
+ the degree for node3367is 0
+
+ the degree for node3368is 0
+
+ the degree for node3369is 230
+
+ the degree for node3370is 0
+
+ the degree for node3371is 0
+
+ the degree for node3372is 0
+
+ the degree for node3373is 47
+
+ the degree for node3374is 36
+
+ the degree for node3375is 0
+
+ the degree for node3376is 0
+
+ the degree for node3377is 43
+
+ the degree for node3378is 128
+
+ the degree for node3379is 27
+
+ the degree for node3380is 35
+
+ the degree for node3381is 32
+
+ the degree for node3382is 0
+
+ the degree for node3383is 40
+
+ the degree for node3384is 20
+
+ the degree for node3385is 2561
+
+ the degree for node3386is 558
+
+ the degree for node3387is 239
+
+ the degree for node3388is 3
+
+ the degree for node3389is 0
+
+ the degree for node3390is 25
+
+ the degree for node3391is 15
+
+ the degree for node3392is 14
+
+ the degree for node3393is 53
+
+ the degree for node3394is 87
+
+ the degree for node3395is 143
+
+ the degree for node3396is 357
+
+ the degree for node3397is 1229
+
+ the degree for node3398is 0
+
+ the degree for node3399is 5
+
+ the degree for node3400is 56
+
+ the degree for node3401is 0
+
+ the degree for node3402is 15
+
+ the degree for node3403is 298
+
+ the degree for node3404is 267
+
+ the degree for node3405is 22
+
+ the degree for node3406is 1459
+
+ the degree for node3407is 0
+
+ the degree for node3408is 0
+
+ the degree for node3409is 137
+
+ the degree for node3410is 74
+
+ the degree for node3411is 398
+
+ the degree for node3412is 411
+
+ the degree for node3413is 0
+
+ the degree for node3414is 0
+
+ the degree for node3415is 112
+
+ the degree for node3416is 26
+
+ the degree for node3417is 193
+
+ the degree for node3418is 3
+
+ the degree for node3419is 135
+
+ the degree for node3420is 137
+
+ the degree for node3421is 26
+
+ the degree for node3422is 90
+
+ the degree for node3423is 1
+
+ the degree for node3424is 0
+
+ the degree for node3425is 4
+
+ the degree for node3426is 805
+
+ the degree for node3427is 0
+
+ the degree for node3428is 3
+
+ the degree for node3429is 0
+
+ the degree for node3430is 25
+
+ the degree for node3431is 103
+
+ the degree for node3432is 15
+
+ the degree for node3433is 65
+
+ the degree for node3434is 499
+
+ the degree for node3435is 31
+
+ the degree for node3436is 0
+
+ the degree for node3437is 3847067
+
+ the degree for node3438is 41
+
+ the degree for node3439is 1
+
+ the degree for node3440is 8359
+
+ the degree for node3441is 2
+
+ the degree for node3442is 326
+
+ the degree for node3443is 46
+
+ the degree for node3444is 0
+
+ the degree for node3445is 0
+
+ the degree for node3446is 2
+
+ the degree for node3447is 1
+
+ the degree for node3448is 119
+
+ the degree for node3449is 89
+
+ the degree for node3450is 0
+
+ the degree for node3451is 0
+
+ the degree for node3452is 2
+
+ the degree for node3453is 0
+
+ the degree for node3454is 10451
+
+ the degree for node3455is 129
+
+ the degree for node3456is 17735
+
+ the degree for node3457is 0
+
+ the degree for node3458is 7
+
+ the degree for node3459is 28
+
+ the degree for node3460is 76
+
+ the degree for node3461is 0
+
+ the degree for node3462is 5
+
+ the degree for node3463is 25
+
+ the degree for node3464is 123
+
+ the degree for node3465is 0
+
+ the degree for node3466is 71
+
+ the degree for node3467is 0
+
+ the degree for node3468is 117
+
+ the degree for node3469is 52
+
+ the degree for node3470is 30
+
+ the degree for node3471is 25
+
+ the degree for node3472is 0
+
+ the degree for node3473is 1
+
+ the degree for node3474is 21
+
+ the degree for node3475is 58
+
+ the degree for node3476is 6
+
+ the degree for node3477is 1
+
+ the degree for node3478is 3
+
+ the degree for node3479is 0
+
+ the degree for node3480is 19
+
+ the degree for node3481is 0
+
+ the degree for node3482is 19
+
+ the degree for node3483is 21
+
+ the degree for node3484is 18
+
+ the degree for node3485is 11
+
+ the degree for node3486is 23
+
+ the degree for node3487is 3517
+
+ the degree for node3488is 62
+
+ the degree for node3489is 0
+
+ the degree for node3490is 18
+
+ the degree for node3491is 15
+
+ the degree for node3492is 3
+
+ the degree for node3493is 0
+
+ the degree for node3494is 0
+
+ the degree for node3495is 20803
+
+ the degree for node3496is 80
+
+ the degree for node3497is 12
+
+ the degree for node3498is 0
+
+ the degree for node3499is 39
+
+ the degree for node3500is 12
+
+ the degree for node3501is 9527
+
+ the degree for node3502is 1
+
+ the degree for node3503is 8
+
+ the degree for node3504is 9
+
+ the degree for node3505is 68
+
+ the degree for node3506is 281
+
+ the degree for node3507is 5
+
+ the degree for node3508is 90
+
+ the degree for node3509is 6
+
+ the degree for node3510is 17
+
+ the degree for node3511is 118
+
+ the degree for node3512is 14
+
+ the degree for node3513is 0
+
+ the degree for node3514is 55
+
+ the degree for node3515is 12
+
+ the degree for node3516is 0
+
+ the degree for node3517is 4
+
+ the degree for node3518is 9
+
+ the degree for node3519is 4
+
+ the degree for node3520is 4
+
+ the degree for node3521is 813
+
+ the degree for node3522is 6
+
+ the degree for node3523is 0
+
+ the degree for node3524is 17
+
+ the degree for node3525is 10546
+
+ the degree for node3526is 173
+
+ the degree for node3527is 3
+
+ the degree for node3528is 20
+
+ the degree for node3529is 133
+
+ the degree for node3530is 9
+
+ the degree for node3531is 1
+
+ the degree for node3532is 21
+
+ the degree for node3533is 12
+
+ the degree for node3534is 60
+
+ the degree for node3535is 35
+
+ the degree for node3536is 18
+
+ the degree for node3537is 0
+
+ the degree for node3538is 21
+
+ the degree for node3539is 20
+
+ the degree for node3540is 6295
+
+ the degree for node3541is 0
+
+ the degree for node3542is 69
+
+ the degree for node3543is 11
+
+ the degree for node3544is 3
+
+ the degree for node3545is 667
+
+ the degree for node3546is 38
+
+ the degree for node3547is 32
+
+ the degree for node3548is 5
+
+ the degree for node3549is 19
+
+ the degree for node3550is 5859
+
+ the degree for node3551is 9
+
+ the degree for node3552is 0
+
+ the degree for node3553is 108
+
+ the degree for node3554is 31
+
+ the degree for node3555is 66
+
+ the degree for node3556is 5222
+
+ the degree for node3557is 8
+
+ the degree for node3558is 133
+
+ the degree for node3559is 61
+
+ the degree for node3560is 0
+
+ the degree for node3561is 20178
+
+ the degree for node3562is 0
+
+ the degree for node3563is 16
+
+ the degree for node3564is 28
+
+ the degree for node3565is 0
+
+ the degree for node3566is 20
+
+ the degree for node3567is 0
+
+ the degree for node3568is 170
+
+ the degree for node3569is 8
+
+ the degree for node3570is 0
+
+ the degree for node3571is 4
+
+ the degree for node3572is 0
+
+ the degree for node3573is 43
+
+ the degree for node3574is 2
+
+ the degree for node3575is 0
+
+ the degree for node3576is 87
+
+ the degree for node3577is 10824
+
+ the degree for node3578is 4
+
+ the degree for node3579is 0
+
+ the degree for node3580is 1
+
+ the degree for node3581is 0
+
+ the degree for node3582is 0
+
+ the degree for node3583is 15
+
+ the degree for node3584is 362
+
+ the degree for node3585is 1
+
+ the degree for node3586is 196
+
+ the degree for node3587is 1
+
+ the degree for node3588is 0
+
+ the degree for node3589is 0
+
+ the degree for node3590is 50
+
+ the degree for node3591is 3
+
+ the degree for node3592is 11768
+
+ the degree for node3593is 251
+
+ the degree for node3594is 0
+
+ the degree for node3595is 0
+
+ the degree for node3596is 796
+
+ the degree for node3597is 0
+
+ the degree for node3598is 1
+
+ the degree for node3599is 34
+
+ the degree for node3600is 8
+
+ the degree for node3601is 30
+
+ the degree for node3602is 19
+
+ the degree for node3603is 0
+
+ the degree for node3604is 1073
+
+ the degree for node3605is 78
+
+ the degree for node3606is 0
+
+ the degree for node3607is 1
+
+ the degree for node3608is 5
+
+ the degree for node3609is 1033
+
+ the degree for node3610is 53
+
+ the degree for node3611is 212
+
+ the degree for node3612is 89
+
+ the degree for node3613is 0
+
+ the degree for node3614is 3
+
+ the degree for node3615is 37
+
+ the degree for node3616is 10
+
+ the degree for node3617is 181
+
+ the degree for node3618is 1
+
+ the degree for node3619is 0
+
+ the degree for node3620is 4
+
+ the degree for node3621is 24
+
+ the degree for node3622is 2
+
+ the degree for node3623is 4
+
+ the degree for node3624is 15
+
+ the degree for node3625is 88
+
+ the degree for node3626is 13
+
+ the degree for node3627is 1
+
+ the degree for node3628is 75
+
+ the degree for node3629is 99
+
+ the degree for node3630is 0
+
+ the degree for node3631is 0
+
+ the degree for node3632is 4
+
+ the degree for node3633is 19916
+
+ the degree for node3634is 3
+
+ the degree for node3635is 16
+
+ the degree for node3636is 8
+
+ the degree for node3637is 1
+
+ the degree for node3638is 6
+
+ the degree for node3639is 0
+
+ the degree for node3640is 55
+
+ the degree for node3641is 2
+
+ the degree for node3642is 37
+
+ the degree for node3643is 19
+
+ the degree for node3644is 2
+
+ the degree for node3645is 41
+
+ the degree for node3646is 1
+
+ the degree for node3647is 0
+
+ the degree for node3648is 33
+
+ the degree for node3649is 0
+
+ the degree for node3650is 0
+
+ the degree for node3651is 5837
+
+ the degree for node3652is 2
+
+ the degree for node3653is 0
+
+ the degree for node3654is 1
+
+ the degree for node3655is 0
+
+ the degree for node3656is 4
+
+ the degree for node3657is 0
+
+ the degree for node3658is 2
+
+ the degree for node3659is 12
+
+ the degree for node3660is 7
+
+ the degree for node3661is 0
+
+ the degree for node3662is 41
+
+ the degree for node3663is 1
+
+ the degree for node3664is 12
+
+ the degree for node3665is 1
+
+ the degree for node3666is 0
+
+ the degree for node3667is 19
+
+ the degree for node3668is 0
+
+ the degree for node3669is 0
+
+ the degree for node3670is 10
+
+ the degree for node3671is 11
+
+ the degree for node3672is 322
+
+ the degree for node3673is 3
+
+ the degree for node3674is 12286
+
+ the degree for node3675is 1
+
+ the degree for node3676is 0
+
+ the degree for node3677is 17488
+
+ the degree for node3678is 4
+
+ the degree for node3679is 19
+
+ the degree for node3680is 348
+
+ the degree for node3681is 0
+
+ the degree for node3682is 4
+
+ the degree for node3683is 8
+
+ the degree for node3684is 23703
+
+ the degree for node3685is 0
+
+ the degree for node3686is 0
+
+ the degree for node3687is 10
+
+ the degree for node3688is 0
+
+ the degree for node3689is 0
+
+ the degree for node3690is 134
+
+ the degree for node3691is 0
+
+ the degree for node3692is 5175
+
+ the degree for node3693is 50
+
+ the degree for node3694is 4
+
+ the degree for node3695is 0
+
+ the degree for node3696is 1
+
+ the degree for node3697is 8
+
+ the degree for node3698is 9
+
+ the degree for node3699is 0
+
+ the degree for node3700is 0
+
+ the degree for node3701is 6
+
+ the degree for node3702is 53
+
+ the degree for node3703is 5
+
+ the degree for node3704is 0
+
+ the degree for node3705is 392
+
+ the degree for node3706is 20
+
+ the degree for node3707is 12
+
+ the degree for node3708is 0
+
+ the degree for node3709is 0
+
+ the degree for node3710is 7
+
+ the degree for node3711is 33
+
+ the degree for node3712is 0
+
+ the degree for node3713is 4
+
+ the degree for node3714is 31
+
+ the degree for node3715is 0
+
+ the degree for node3716is 0
+
+ the degree for node3717is 0
+
+ the degree for node3718is 11
+
+ the degree for node3719is 61
+
+ the degree for node3720is 12
+
+ the degree for node3721is 5914
+
+ the degree for node3722is 95
+
+ the degree for node3723is 2473
+
+ the degree for node3724is 1
+
+ the degree for node3725is 2
+
+ the degree for node3726is 7
+
+ the degree for node3727is 1
+
+ the degree for node3728is 16
+
+ the degree for node3729is 0
+
+ the degree for node3730is 8
+
+ the degree for node3731is 63
+
+ the degree for node3732is 0
+
+ the degree for node3733is 0
+
+ the degree for node3734is 103
+
+ the degree for node3735is 0
+
+ the degree for node3736is 4
+
+ the degree for node3737is 104
+
+ the degree for node3738is 105
+
+ the degree for node3739is 1
+
+ the degree for node3740is 21
+
+ the degree for node3741is 1322
+
+ the degree for node3742is 0
+
+ the degree for node3743is 2
+
+ the degree for node3744is 0
+
+ the degree for node3745is 0
+
+ the degree for node3746is 0
+
+ the degree for node3747is 58
+
+ the degree for node3748is 0
+
+ the degree for node3749is 0
+
+ the degree for node3750is 6078
+
+ the degree for node3751is 0
+
+ the degree for node3752is 14
+
+ the degree for node3753is 13
+
+ the degree for node3754is 1
+
+ the degree for node3755is 0
+
+ the degree for node3756is 29260
+
+ the degree for node3757is 1
+
+ the degree for node3758is 266
+
+ the degree for node3759is 16
+
+ the degree for node3760is 26
+
+ the degree for node3761is 7
+
+ the degree for node3762is 4
+
+ the degree for node3763is 13
+
+ the degree for node3764is 140
+
+ the degree for node3765is 0
+
+ the degree for node3766is 0
+
+ the degree for node3767is 14
+
+ the degree for node3768is 40
+
+ the degree for node3769is 2
+
+ the degree for node3770is 12
+
+ the degree for node3771is 8
+
+ the degree for node3772is 4
+
+ the degree for node3773is 0
+
+ the degree for node3774is 4
+
+ the degree for node3775is 17
+
+ the degree for node3776is 9
+
+ the degree for node3777is 0
+
+ the degree for node3778is 1
+
+ the degree for node3779is 75
+
+ the degree for node3780is 28
+
+ the degree for node3781is 0
+
+ the degree for node3782is 119
+
+ the degree for node3783is 0
+
+ the degree for node3784is 12
+
+ the degree for node3785is 6
+
+ the degree for node3786is 20
+
+ the degree for node3787is 0
+
+ the degree for node3788is 0
+
+ the degree for node3789is 5
+
+ the degree for node3790is 83
+
+ the degree for node3791is 48
+
+ the degree for node3792is 8
+
+ the degree for node3793is 299
+
+ the degree for node3794is 84
+
+ the degree for node3795is 0
+
+ the degree for node3796is 6
+
+ the degree for node3797is 6337
+
+ the degree for node3798is 0
+
+ the degree for node3799is 29
+
+ the degree for node3800is 121
+
+ the degree for node3801is 0
+
+ the degree for node3802is 7
+
+ the degree for node3803is 67
+
+ the degree for node3804is 88
+
+ the degree for node3805is 1
+
+ the degree for node3806is 0
+
+ the degree for node3807is 0
+
+ the degree for node3808is 0
+
+ the degree for node3809is 29
+
+ the degree for node3810is 91
+
+ the degree for node3811is 0
+
+ the degree for node3812is 3
+
+ the degree for node3813is 0
+
+ the degree for node3814is 0
+
+ the degree for node3815is 0
+
+ the degree for node3816is 0
+
+ the degree for node3817is 7
+
+ the degree for node3818is 6
+
+ the degree for node3819is 0
+
+ the degree for node3820is 0
+
+ the degree for node3821is 111
+
+ the degree for node3822is 33
+
+ the degree for node3823is 36
+
+ the degree for node3824is 110
+
+ the degree for node3825is 155
+
+ the degree for node3826is 55
+
+ the degree for node3827is 1
+
+ the degree for node3828is 24
+
+ the degree for node3829is 202
+
+ the degree for node3830is 103912
+
+ the degree for node3831is 59
+
+ the degree for node3832is 5
+
+ the degree for node3833is 34
+
+ the degree for node3834is 0
+
+ the degree for node3835is 5
+
+ the degree for node3836is 66
+
+ the degree for node3837is 3
+
+ the degree for node3838is 295
+
+ the degree for node3839is 0
+
+ the degree for node3840is 0
+
+ the degree for node3841is 34
+
+ the degree for node3842is 122
+
+ the degree for node3843is 0
+
+ the degree for node3844is 0
+
+ the degree for node3845is 5
+
+ the degree for node3846is 0
+
+ the degree for node3847is 31
+
+ the degree for node3848is 0
+
+ the degree for node3849is 0
+
+ the degree for node3850is 8
+
+ the degree for node3851is 17952
+
+ the degree for node3852is 17
+
+ the degree for node3853is 0
+
+ the degree for node3854is 0
+
+ the degree for node3855is 17
+
+ the degree for node3856is 0
+
+ the degree for node3857is 0
+
+ the degree for node3858is 15
+
+ the degree for node3859is 6
+
+ the degree for node3860is 23
+
+ the degree for node3861is 14404
+
+ the degree for node3862is 7
+
+ the degree for node3863is 1
+
+ the degree for node3864is 0
+
+ the degree for node3865is 0
+
+ the degree for node3866is 14
+
+ the degree for node3867is 17
+
+ the degree for node3868is 1
+
+ the degree for node3869is 126
+
+ the degree for node3870is 55
+
+ the degree for node3871is 0
+
+ the degree for node3872is 5806
+
+ the degree for node3873is 64
+
+ the degree for node3874is 0
+
+ the degree for node3875is 0
+
+ the degree for node3876is 0
+
+ the degree for node3877is 26122
+
+ the degree for node3878is 3
+
+ the degree for node3879is 0
+
+ the degree for node3880is 13
+
+ the degree for node3881is 35
+
+ the degree for node3882is 0
+
+ the degree for node3883is 0
+
+ the degree for node3884is 37
+
+ the degree for node3885is 0
+
+ the degree for node3886is 5712
+
+ the degree for node3887is 4
+
+ the degree for node3888is 9
+
+ the degree for node3889is 0
+
+ the degree for node3890is 0
+
+ the degree for node3891is 63
+
+ the degree for node3892is 0
+
+ the degree for node3893is 3
+
+ the degree for node3894is 3
+
+ the degree for node3895is 22
+
+ the degree for node3896is 12
+
+ the degree for node3897is 0
+
+ the degree for node3898is 4
+
+ the degree for node3899is 0
+
+ the degree for node3900is 90
+
+ the degree for node3901is 7
+
+ the degree for node3902is 118
+
+ the degree for node3903is 9
+
+ the degree for node3904is 6
+
+ the degree for node3905is 1
+
+ the degree for node3906is 207
+
+ the degree for node3907is 45
+
+ the degree for node3908is 4
+
+ the degree for node3909is 38
+
+ the degree for node3910is 0
+
+ the degree for node3911is 0
+
+ the degree for node3912is 0
+
+ the degree for node3913is 0
+
+ the degree for node3914is 10
+
+ the degree for node3915is 23
+
+ the degree for node3916is 6
+
+ the degree for node3917is 1
+
+ the degree for node3918is 317
+
+ the degree for node3919is 0
+
+ the degree for node3920is 0
+
+ the degree for node3921is 33
+
+ the degree for node3922is 0
+
+ the degree for node3923is 0
+
+ the degree for node3924is 75
+
+ the degree for node3925is 0
+
+ the degree for node3926is 86
+
+ the degree for node3927is 98
+
+ the degree for node3928is 0
+
+ the degree for node3929is 6
+
+ the degree for node3930is 310
+
+ the degree for node3931is 75
+
+ the degree for node3932is 0
+
+ the degree for node3933is 43
+
+ the degree for node3934is 1
+
+ the degree for node3935is 0
+
+ the degree for node3936is 0
+
+ the degree for node3937is 11
+
+ the degree for node3938is 580
+
+ the degree for node3939is 0
+
+ the degree for node3940is 1
+
+ the degree for node3941is 11
+
+ the degree for node3942is 0
+
+ the degree for node3943is 3687
+
+ the degree for node3944is 9
+
+ the degree for node3945is 128
+
+ the degree for node3946is 0
+
+ the degree for node3947is 65
+
+ the degree for node3948is 17642
+
+ the degree for node3949is 25
+
+ the degree for node3950is 52
+
+ the degree for node3951is 38
+
+ the degree for node3952is 0
+
+ the degree for node3953is 0
+
+ the degree for node3954is 0
+
+ the degree for node3955is 0
+
+ the degree for node3956is 68
+
+ the degree for node3957is 7
+
+ the degree for node3958is 7
+
+ the degree for node3959is 0
+
+ the degree for node3960is 8
+
+ the degree for node3961is 1042
+
+ the degree for node3962is 7886
+
+ the degree for node3963is 0
+
+ the degree for node3964is 29
+
+ the degree for node3965is 0
+
+ the degree for node3966is 139
+
+ the degree for node3967is 25
+
+ the degree for node3968is 129
+
+ the degree for node3969is 7
+
+ the degree for node3970is 1
+
+ the degree for node3971is 154
+
+ the degree for node3972is 1
+
+ the degree for node3973is 0
+
+ the degree for node3974is 0
+
+ the degree for node3975is 0
+
+ the degree for node3976is 1
+
+ the degree for node3977is 0
+
+ the degree for node3978is 1
+
+ the degree for node3979is 11
+
+ the degree for node3980is 402590
+
+ the degree for node3981is 0
+
+ the degree for node3982is 20
+
+ the degree for node3983is 0
+
+ the degree for node3984is 0
+
+ the degree for node3985is 0
+
+ the degree for node3986is 2
+
+ the degree for node3987is 0
+
+ the degree for node3988is 0
+
+ the degree for node3989is 7959
+
+ the degree for node3990is 0
+
+ the degree for node3991is 0
+
+ the degree for node3992is 0
+
+ the degree for node3993is 0
+
+ the degree for node3994is 4
+
+ the degree for node3995is 7
+
+ the degree for node3996is 1
+
+ the degree for node3997is 1
+
+ the degree for node3998is 29
+
+ the degree for node3999is 1
+
+ the degree for node4000is 5
+
+ the degree for node4001is 0
+
+ the degree for node4002is 5
+
+ the degree for node4003is 0
+
+ the degree for node4004is 10
+
+ the degree for node4005is 0
+
+ the degree for node4006is 0
+
+ the degree for node4007is 0
+
+ the degree for node4008is 0
+
+ the degree for node4009is 1
+
+ the degree for node4010is 0
+
+ the degree for node4011is 0
+
+ the degree for node4012is 0
+
+ the degree for node4013is 0
+
+ the degree for node4014is 20
+
+ the degree for node4015is 0
+
+ the degree for node4016is 0
+
+ the degree for node4017is 6
+
+ the degree for node4018is 0
+
+ the degree for node4019is 1
+
+ the degree for node4020is 6
+
+ the degree for node4021is 5
+
+ the degree for node4022is 0
+
+ the degree for node4023is 64
+
+ the degree for node4024is 0
+
+ the degree for node4025is 0
+
+ the degree for node4026is 2
+
+ the degree for node4027is 8
+
+ the degree for node4028is 0
+
+ the degree for node4029is 0
+
+ the degree for node4030is 66
+
+ the degree for node4031is 25883
+
+ the degree for node4032is 0
+
+ the degree for node4033is 0
+
+ the degree for node4034is 0
+
+ the degree for node4035is 0
+
+ the degree for node4036is 0
+
+ the degree for node4037is 0
+
+ the degree for node4038is 6
+modularity= 7831194 (took 1286ms)
+05:26:17,732 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+05:26:17,740 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
