@@ -1,0 +1,10 @@
+{ 
+"format": "edge_list",
+ "uri": "facebook.edge",
+ "separator": " ",
+ "node_props":[{
+        "name":"nodeID",
+        "type":"integer"
+    }]
+
+ }

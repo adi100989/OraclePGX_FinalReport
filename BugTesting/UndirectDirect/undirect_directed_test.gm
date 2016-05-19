@@ -1,0 +1,25 @@
+/****************************************************** 
+*   Code to test for the undirected/directed graph set
+*******************************************************/
+
+procedure label_propagation(g:graph,ID:N_P <int>(g) ; countNbr: N_P <int>(g)):int
+{
+	int i=1;
+	if( g.numNodes()<=1 ) return 0;
+
+//	for(n : g.nodes)
+//   	{
+//		n.label= n.ID;
+//	}	
+	//count the number of neighbours of each node (a check for undirected/directed graph)
+
+	foreach(n:g.nodes)
+        {
+		foreach(s : n.nbrs)
+		{
+			n.countNbr+=1;
+		}
+	}
+	return i;
+}
+

@@ -1,0 +1,8094 @@
+
+ entered Java Program
+03:22:22,218 [main] INFO Ctrl$2 - >>> PGX engine running.
+
+ After Compiling greenmarl Java Program
+
+ graph loaded
+
+ run start
+
+ run ended
+Total number of nodes:4039
+
+ the label is 0 count of the neighbours= 347
+
+ the label is 1 count of the neighbours= 16
+
+ the label is 2 count of the neighbours= 9
+
+ the label is 3 count of the neighbours= 16
+
+ the label is 4 count of the neighbours= 9
+
+ the label is 5 count of the neighbours= 12
+
+ the label is 6 count of the neighbours= 5
+
+ the label is 7 count of the neighbours= 19
+
+ the label is 8 count of the neighbours= 7
+
+ the label is 9 count of the neighbours= 55
+
+ the label is 10 count of the neighbours= 9
+
+ the label is 11 count of the neighbours= 0
+
+ the label is 12 count of the neighbours= 0
+
+ the label is 13 count of the neighbours= 30
+
+ the label is 14 count of the neighbours= 14
+
+ the label is 15 count of the neighbours= 0
+
+ the label is 16 count of the neighbours= 8
+
+ the label is 17 count of the neighbours= 12
+
+ the label is 18 count of the neighbours= 0
+
+ the label is 19 count of the neighbours= 14
+
+ the label is 20 count of the neighbours= 12
+
+ the label is 21 count of the neighbours= 62
+
+ the label is 22 count of the neighbours= 9
+
+ the label is 23 count of the neighbours= 16
+
+ the label is 24 count of the neighbours= 15
+
+ the label is 25 count of the neighbours= 65
+
+ the label is 26 count of the neighbours= 62
+
+ the label is 27 count of the neighbours= 4
+
+ the label is 28 count of the neighbours= 11
+
+ the label is 29 count of the neighbours= 11
+
+ the label is 30 count of the neighbours= 15
+
+ the label is 31 count of the neighbours= 19
+
+ the label is 32 count of the neighbours= 5
+
+ the label is 33 count of the neighbours= 1
+
+ the label is 34 count of the neighbours= 4
+
+ the label is 35 count of the neighbours= 1
+
+ the label is 36 count of the neighbours= 10
+
+ the label is 37 count of the neighbours= 0
+
+ the label is 38 count of the neighbours= 7
+
+ the label is 39 count of the neighbours= 12
+
+ the label is 40 count of the neighbours= 39
+
+ the label is 41 count of the neighbours= 18
+
+ the label is 42 count of the neighbours= 0
+
+ the label is 43 count of the neighbours= 0
+
+ the label is 44 count of the neighbours= 3
+
+ the label is 45 count of the neighbours= 11
+
+ the label is 46 count of the neighbours= 4
+
+ the label is 47 count of the neighbours= 1
+
+ the label is 48 count of the neighbours= 19
+
+ the label is 49 count of the neighbours= 3
+
+ the label is 50 count of the neighbours= 10
+
+ the label is 51 count of the neighbours= 3
+
+ the label is 52 count of the neighbours= 1
+
+ the label is 53 count of the neighbours= 27
+
+ the label is 54 count of the neighbours= 3
+
+ the label is 55 count of the neighbours= 14
+
+ the label is 56 count of the neighbours= 69
+
+ the label is 57 count of the neighbours= 12
+
+ the label is 58 count of the neighbours= 11
+
+ the label is 59 count of the neighbours= 16
+
+ the label is 60 count of the neighbours= 6
+
+ the label is 61 count of the neighbours= 1
+
+ the label is 62 count of the neighbours= 23
+
+ the label is 63 count of the neighbours= 4
+
+ the label is 64 count of the neighbours= 6
+
+ the label is 65 count of the neighbours= 8
+
+ the label is 66 count of the neighbours= 10
+
+ the label is 67 count of the neighbours= 61
+
+ the label is 68 count of the neighbours= 8
+
+ the label is 69 count of the neighbours= 4
+
+ the label is 70 count of the neighbours= 1
+
+ the label is 71 count of the neighbours= 2
+
+ the label is 72 count of the neighbours= 16
+
+ the label is 73 count of the neighbours= 5
+
+ the label is 74 count of the neighbours= 0
+
+ the label is 75 count of the neighbours= 10
+
+ the label is 76 count of the neighbours= 1
+
+ the label is 77 count of the neighbours= 4
+
+ the label is 78 count of the neighbours= 7
+
+ the label is 79 count of the neighbours= 7
+
+ the label is 80 count of the neighbours= 19
+
+ the label is 81 count of the neighbours= 2
+
+ the label is 82 count of the neighbours= 26
+
+ the label is 83 count of the neighbours= 2
+
+ the label is 84 count of the neighbours= 7
+
+ the label is 85 count of the neighbours= 10
+
+ the label is 86 count of the neighbours= 5
+
+ the label is 87 count of the neighbours= 9
+
+ the label is 88 count of the neighbours= 11
+
+ the label is 89 count of the neighbours= 5
+
+ the label is 90 count of the neighbours= 1
+
+ the label is 91 count of the neighbours= 6
+
+ the label is 92 count of the neighbours= 15
+
+ the label is 93 count of the neighbours= 5
+
+ the label is 94 count of the neighbours= 16
+
+ the label is 95 count of the neighbours= 3
+
+ the label is 96 count of the neighbours= 7
+
+ the label is 97 count of the neighbours= 2
+
+ the label is 98 count of the neighbours= 39
+
+ the label is 99 count of the neighbours= 10
+
+ the label is 100 count of the neighbours= 7
+
+ the label is 101 count of the neighbours= 13
+
+ the label is 102 count of the neighbours= 4
+
+ the label is 103 count of the neighbours= 11
+
+ the label is 104 count of the neighbours= 23
+
+ the label is 105 count of the neighbours= 8
+
+ the label is 106 count of the neighbours= 5
+
+ the label is 107 count of the neighbours= 1043
+
+ the label is 108 count of the neighbours= 9
+
+ the label is 109 count of the neighbours= 27
+
+ the label is 110 count of the neighbours= 2
+
+ the label is 111 count of the neighbours= 8
+
+ the label is 112 count of the neighbours= 1
+
+ the label is 113 count of the neighbours= 28
+
+ the label is 114 count of the neighbours= 0
+
+ the label is 115 count of the neighbours= 13
+
+ the label is 116 count of the neighbours= 9
+
+ the label is 117 count of the neighbours= 3
+
+ the label is 118 count of the neighbours= 24
+
+ the label is 119 count of the neighbours= 40
+
+ the label is 120 count of the neighbours= 3
+
+ the label is 121 count of the neighbours= 6
+
+ the label is 122 count of the neighbours= 44
+
+ the label is 123 count of the neighbours= 9
+
+ the label is 124 count of the neighbours= 2
+
+ the label is 125 count of the neighbours= 2
+
+ the label is 126 count of the neighbours= 2
+
+ the label is 127 count of the neighbours= 12
+
+ the label is 128 count of the neighbours= 19
+
+ the label is 129 count of the neighbours= 4
+
+ the label is 130 count of the neighbours= 9
+
+ the label is 131 count of the neighbours= 5
+
+ the label is 132 count of the neighbours= 9
+
+ the label is 133 count of the neighbours= 11
+
+ the label is 134 count of the neighbours= 9
+
+ the label is 135 count of the neighbours= 7
+
+ the label is 136 count of the neighbours= 123
+
+ the label is 137 count of the neighbours= 9
+
+ the label is 138 count of the neighbours= 0
+
+ the label is 139 count of the neighbours= 7
+
+ the label is 140 count of the neighbours= 4
+
+ the label is 141 count of the neighbours= 14
+
+ the label is 142 count of the neighbours= 24
+
+ the label is 143 count of the neighbours= 6
+
+ the label is 144 count of the neighbours= 6
+
+ the label is 145 count of the neighbours= 1
+
+ the label is 146 count of the neighbours= 5
+
+ the label is 147 count of the neighbours= 2
+
+ the label is 148 count of the neighbours= 8
+
+ the label is 149 count of the neighbours= 6
+
+ the label is 150 count of the neighbours= 6
+
+ the label is 151 count of the neighbours= 2
+
+ the label is 152 count of the neighbours= 3
+
+ the label is 153 count of the neighbours= 1
+
+ the label is 154 count of the neighbours= 1
+
+ the label is 155 count of the neighbours= 1
+
+ the label is 156 count of the neighbours= 5
+
+ the label is 157 count of the neighbours= 0
+
+ the label is 158 count of the neighbours= 12
+
+ the label is 159 count of the neighbours= 9
+
+ the label is 160 count of the neighbours= 1
+
+ the label is 161 count of the neighbours= 13
+
+ the label is 162 count of the neighbours= 4
+
+ the label is 163 count of the neighbours= 2
+
+ the label is 164 count of the neighbours= 1
+
+ the label is 165 count of the neighbours= 5
+
+ the label is 166 count of the neighbours= 3
+
+ the label is 167 count of the neighbours= 3
+
+ the label is 168 count of the neighbours= 5
+
+ the label is 169 count of the neighbours= 15
+
+ the label is 170 count of the neighbours= 27
+
+ the label is 171 count of the neighbours= 16
+
+ the label is 172 count of the neighbours= 24
+
+ the label is 173 count of the neighbours= 7
+
+ the label is 174 count of the neighbours= 1
+
+ the label is 175 count of the neighbours= 8
+
+ the label is 176 count of the neighbours= 4
+
+ the label is 177 count of the neighbours= 3
+
+ the label is 178 count of the neighbours= 9
+
+ the label is 179 count of the neighbours= 0
+
+ the label is 180 count of the neighbours= 11
+
+ the label is 181 count of the neighbours= 6
+
+ the label is 182 count of the neighbours= 1
+
+ the label is 183 count of the neighbours= 0
+
+ the label is 184 count of the neighbours= 9
+
+ the label is 185 count of the neighbours= 12
+
+ the label is 186 count of the neighbours= 22
+
+ the label is 187 count of the neighbours= 8
+
+ the label is 188 count of the neighbours= 23
+
+ the label is 189 count of the neighbours= 1
+
+ the label is 190 count of the neighbours= 1
+
+ the label is 191 count of the neighbours= 0
+
+ the label is 192 count of the neighbours= 1
+
+ the label is 193 count of the neighbours= 1
+
+ the label is 194 count of the neighbours= 9
+
+ the label is 195 count of the neighbours= 5
+
+ the label is 196 count of the neighbours= 7
+
+ the label is 197 count of the neighbours= 7
+
+ the label is 198 count of the neighbours= 10
+
+ the label is 199 count of the neighbours= 25
+
+ the label is 200 count of the neighbours= 22
+
+ the label is 201 count of the neighbours= 1
+
+ the label is 202 count of the neighbours= 1
+
+ the label is 203 count of the neighbours= 26
+
+ the label is 204 count of the neighbours= 10
+
+ the label is 205 count of the neighbours= 0
+
+ the label is 206 count of the neighbours= 1
+
+ the label is 207 count of the neighbours= 1
+
+ the label is 208 count of the neighbours= 4
+
+ the label is 209 count of the neighbours= 0
+
+ the label is 210 count of the neighbours= 0
+
+ the label is 211 count of the neighbours= 16
+
+ the label is 212 count of the neighbours= 8
+
+ the label is 213 count of the neighbours= 19
+
+ the label is 214 count of the neighbours= 6
+
+ the label is 215 count of the neighbours= 0
+
+ the label is 216 count of the neighbours= 1
+
+ the label is 217 count of the neighbours= 1
+
+ the label is 218 count of the neighbours= 4
+
+ the label is 219 count of the neighbours= 1
+
+ the label is 220 count of the neighbours= 2
+
+ the label is 221 count of the neighbours= 3
+
+ the label is 222 count of the neighbours= 4
+
+ the label is 223 count of the neighbours= 10
+
+ the label is 224 count of the neighbours= 11
+
+ the label is 225 count of the neighbours= 2
+
+ the label is 226 count of the neighbours= 4
+
+ the label is 227 count of the neighbours= 3
+
+ the label is 228 count of the neighbours= 1
+
+ the label is 229 count of the neighbours= 1
+
+ the label is 230 count of the neighbours= 2
+
+ the label is 231 count of the neighbours= 7
+
+ the label is 232 count of the neighbours= 8
+
+ the label is 233 count of the neighbours= 1
+
+ the label is 234 count of the neighbours= 1
+
+ the label is 235 count of the neighbours= 0
+
+ the label is 236 count of the neighbours= 14
+
+ the label is 237 count of the neighbours= 0
+
+ the label is 238 count of the neighbours= 9
+
+ the label is 239 count of the neighbours= 18
+
+ the label is 240 count of the neighbours= 0
+
+ the label is 241 count of the neighbours= 0
+
+ the label is 242 count of the neighbours= 8
+
+ the label is 243 count of the neighbours= 3
+
+ the label is 244 count of the neighbours= 1
+
+ the label is 245 count of the neighbours= 1
+
+ the label is 246 count of the neighbours= 7
+
+ the label is 247 count of the neighbours= 0
+
+ the label is 248 count of the neighbours= 7
+
+ the label is 249 count of the neighbours= 8
+
+ the label is 250 count of the neighbours= 2
+
+ the label is 251 count of the neighbours= 4
+
+ the label is 252 count of the neighbours= 21
+
+ the label is 253 count of the neighbours= 0
+
+ the label is 254 count of the neighbours= 5
+
+ the label is 255 count of the neighbours= 0
+
+ the label is 256 count of the neighbours= 0
+
+ the label is 257 count of the neighbours= 8
+
+ the label is 258 count of the neighbours= 4
+
+ the label is 259 count of the neighbours= 1
+
+ the label is 260 count of the neighbours= 2
+
+ the label is 261 count of the neighbours= 11
+
+ the label is 262 count of the neighbours= 1
+
+ the label is 263 count of the neighbours= 1
+
+ the label is 264 count of the neighbours= 0
+
+ the label is 265 count of the neighbours= 7
+
+ the label is 266 count of the neighbours= 3
+
+ the label is 267 count of the neighbours= 0
+
+ the label is 268 count of the neighbours= 2
+
+ the label is 269 count of the neighbours= 1
+
+ the label is 270 count of the neighbours= 0
+
+ the label is 271 count of the neighbours= 20
+
+ the label is 272 count of the neighbours= 10
+
+ the label is 273 count of the neighbours= 3
+
+ the label is 274 count of the neighbours= 2
+
+ the label is 275 count of the neighbours= 2
+
+ the label is 276 count of the neighbours= 1
+
+ the label is 277 count of the neighbours= 17
+
+ the label is 278 count of the neighbours= 0
+
+ the label is 279 count of the neighbours= 0
+
+ the label is 280 count of the neighbours= 9
+
+ the label is 281 count of the neighbours= 3
+
+ the label is 282 count of the neighbours= 0
+
+ the label is 283 count of the neighbours= 0
+
+ the label is 284 count of the neighbours= 3
+
+ the label is 285 count of the neighbours= 9
+
+ the label is 286 count of the neighbours= 0
+
+ the label is 287 count of the neighbours= 0
+
+ the label is 288 count of the neighbours= 1
+
+ the label is 289 count of the neighbours= 0
+
+ the label is 290 count of the neighbours= 3
+
+ the label is 291 count of the neighbours= 4
+
+ the label is 292 count of the neighbours= 0
+
+ the label is 293 count of the neighbours= 0
+
+ the label is 294 count of the neighbours= 0
+
+ the label is 295 count of the neighbours= 0
+
+ the label is 296 count of the neighbours= 0
+
+ the label is 297 count of the neighbours= 3
+
+ the label is 298 count of the neighbours= 0
+
+ the label is 299 count of the neighbours= 4
+
+ the label is 300 count of the neighbours= 2
+
+ the label is 301 count of the neighbours= 1
+
+ the label is 302 count of the neighbours= 3
+
+ the label is 303 count of the neighbours= 3
+
+ the label is 304 count of the neighbours= 9
+
+ the label is 305 count of the neighbours= 1
+
+ the label is 306 count of the neighbours= 1
+
+ the label is 307 count of the neighbours= 0
+
+ the label is 308 count of the neighbours= 5
+
+ the label is 309 count of the neighbours= 1
+
+ the label is 310 count of the neighbours= 1
+
+ the label is 311 count of the neighbours= 2
+
+ the label is 312 count of the neighbours= 2
+
+ the label is 313 count of the neighbours= 5
+
+ the label is 314 count of the neighbours= 1
+
+ the label is 315 count of the neighbours= 6
+
+ the label is 316 count of the neighbours= 0
+
+ the label is 317 count of the neighbours= 0
+
+ the label is 318 count of the neighbours= 1
+
+ the label is 319 count of the neighbours= 1
+
+ the label is 320 count of the neighbours= 2
+
+ the label is 321 count of the neighbours= 0
+
+ the label is 322 count of the neighbours= 6
+
+ the label is 323 count of the neighbours= 2
+
+ the label is 324 count of the neighbours= 4
+
+ the label is 325 count of the neighbours= 1
+
+ the label is 326 count of the neighbours= 1
+
+ the label is 327 count of the neighbours= 0
+
+ the label is 328 count of the neighbours= 0
+
+ the label is 329 count of the neighbours= 1
+
+ the label is 330 count of the neighbours= 1
+
+ the label is 331 count of the neighbours= 1
+
+ the label is 332 count of the neighbours= 0
+
+ the label is 333 count of the neighbours= 1
+
+ the label is 334 count of the neighbours= 1
+
+ the label is 335 count of the neighbours= 0
+
+ the label is 336 count of the neighbours= 0
+
+ the label is 337 count of the neighbours= 0
+
+ the label is 338 count of the neighbours= 0
+
+ the label is 339 count of the neighbours= 2
+
+ the label is 340 count of the neighbours= 0
+
+ the label is 341 count of the neighbours= 0
+
+ the label is 342 count of the neighbours= 0
+
+ the label is 343 count of the neighbours= 0
+
+ the label is 344 count of the neighbours= 0
+
+ the label is 345 count of the neighbours= 0
+
+ the label is 346 count of the neighbours= 0
+
+ the label is 347 count of the neighbours= 0
+
+ the label is 348 count of the neighbours= 225
+
+ the label is 349 count of the neighbours= 4
+
+ the label is 350 count of the neighbours= 20
+
+ the label is 351 count of the neighbours= 3
+
+ the label is 352 count of the neighbours= 22
+
+ the label is 353 count of the neighbours= 100
+
+ the label is 354 count of the neighbours= 25
+
+ the label is 355 count of the neighbours= 37
+
+ the label is 356 count of the neighbours= 2
+
+ the label is 357 count of the neighbours= 17
+
+ the label is 358 count of the neighbours= 0
+
+ the label is 359 count of the neighbours= 23
+
+ the label is 360 count of the neighbours= 42
+
+ the label is 361 count of the neighbours= 19
+
+ the label is 362 count of the neighbours= 17
+
+ the label is 363 count of the neighbours= 93
+
+ the label is 364 count of the neighbours= 6
+
+ the label is 365 count of the neighbours= 4
+
+ the label is 366 count of the neighbours= 93
+
+ the label is 367 count of the neighbours= 28
+
+ the label is 368 count of the neighbours= 30
+
+ the label is 369 count of the neighbours= 23
+
+ the label is 370 count of the neighbours= 67
+
+ the label is 371 count of the neighbours= 2
+
+ the label is 372 count of the neighbours= 16
+
+ the label is 373 count of the neighbours= 85
+
+ the label is 374 count of the neighbours= 62
+
+ the label is 375 count of the neighbours= 14
+
+ the label is 376 count of the neighbours= 119
+
+ the label is 377 count of the neighbours= 1
+
+ the label is 378 count of the neighbours= 52
+
+ the label is 379 count of the neighbours= 1
+
+ the label is 380 count of the neighbours= 9
+
+ the label is 381 count of the neighbours= 10
+
+ the label is 382 count of the neighbours= 9
+
+ the label is 383 count of the neighbours= 1
+
+ the label is 384 count of the neighbours= 2
+
+ the label is 385 count of the neighbours= 6
+
+ the label is 386 count of the neighbours= 2
+
+ the label is 387 count of the neighbours= 30
+
+ the label is 388 count of the neighbours= 31
+
+ the label is 389 count of the neighbours= 42
+
+ the label is 390 count of the neighbours= 3
+
+ the label is 391 count of the neighbours= 52
+
+ the label is 392 count of the neighbours= 36
+
+ the label is 393 count of the neighbours= 4
+
+ the label is 394 count of the neighbours= 28
+
+ the label is 395 count of the neighbours= 69
+
+ the label is 396 count of the neighbours= 20
+
+ the label is 397 count of the neighbours= 37
+
+ the label is 398 count of the neighbours= 27
+
+ the label is 399 count of the neighbours= 4
+
+ the label is 400 count of the neighbours= 62
+
+ the label is 401 count of the neighbours= 0
+
+ the label is 402 count of the neighbours= 45
+
+ the label is 403 count of the neighbours= 13
+
+ the label is 404 count of the neighbours= 40
+
+ the label is 405 count of the neighbours= 7
+
+ the label is 406 count of the neighbours= 2
+
+ the label is 407 count of the neighbours= 12
+
+ the label is 408 count of the neighbours= 41
+
+ the label is 409 count of the neighbours= 24
+
+ the label is 410 count of the neighbours= 9
+
+ the label is 411 count of the neighbours= 1
+
+ the label is 412 count of the neighbours= 74
+
+ the label is 413 count of the neighbours= 10
+
+ the label is 414 count of the neighbours= 144
+
+ the label is 415 count of the neighbours= 16
+
+ the label is 416 count of the neighbours= 16
+
+ the label is 417 count of the neighbours= 44
+
+ the label is 418 count of the neighbours= 17
+
+ the label is 419 count of the neighbours= 38
+
+ the label is 420 count of the neighbours= 26
+
+ the label is 421 count of the neighbours= 14
+
+ the label is 422 count of the neighbours= 48
+
+ the label is 423 count of the neighbours= 45
+
+ the label is 424 count of the neighbours= 10
+
+ the label is 425 count of the neighbours= 14
+
+ the label is 426 count of the neighbours= 12
+
+ the label is 427 count of the neighbours= 5
+
+ the label is 428 count of the neighbours= 88
+
+ the label is 429 count of the neighbours= 8
+
+ the label is 430 count of the neighbours= 23
+
+ the label is 431 count of the neighbours= 45
+
+ the label is 432 count of the neighbours= 37
+
+ the label is 433 count of the neighbours= 6
+
+ the label is 434 count of the neighbours= 21
+
+ the label is 435 count of the neighbours= 6
+
+ the label is 436 count of the neighbours= 40
+
+ the label is 437 count of the neighbours= 8
+
+ the label is 438 count of the neighbours= 48
+
+ the label is 439 count of the neighbours= 32
+
+ the label is 440 count of the neighbours= 9
+
+ the label is 441 count of the neighbours= 3
+
+ the label is 442 count of the neighbours= 6
+
+ the label is 443 count of the neighbours= 1
+
+ the label is 444 count of the neighbours= 25
+
+ the label is 445 count of the neighbours= 14
+
+ the label is 446 count of the neighbours= 11
+
+ the label is 447 count of the neighbours= 0
+
+ the label is 448 count of the neighbours= 1
+
+ the label is 449 count of the neighbours= 5
+
+ the label is 450 count of the neighbours= 14
+
+ the label is 451 count of the neighbours= 15
+
+ the label is 452 count of the neighbours= 23
+
+ the label is 453 count of the neighbours= 2
+
+ the label is 454 count of the neighbours= 1
+
+ the label is 455 count of the neighbours= 21
+
+ the label is 456 count of the neighbours= 31
+
+ the label is 457 count of the neighbours= 11
+
+ the label is 458 count of the neighbours= 15
+
+ the label is 459 count of the neighbours= 5
+
+ the label is 460 count of the neighbours= 34
+
+ the label is 461 count of the neighbours= 30
+
+ the label is 462 count of the neighbours= 9
+
+ the label is 463 count of the neighbours= 19
+
+ the label is 464 count of the neighbours= 1
+
+ the label is 465 count of the neighbours= 41
+
+ the label is 466 count of the neighbours= 6
+
+ the label is 467 count of the neighbours= 2
+
+ the label is 468 count of the neighbours= 0
+
+ the label is 469 count of the neighbours= 10
+
+ the label is 470 count of the neighbours= 6
+
+ the label is 471 count of the neighbours= 14
+
+ the label is 472 count of the neighbours= 2
+
+ the label is 473 count of the neighbours= 13
+
+ the label is 474 count of the neighbours= 9
+
+ the label is 475 count of the neighbours= 74
+
+ the label is 476 count of the neighbours= 1
+
+ the label is 477 count of the neighbours= 5
+
+ the label is 478 count of the neighbours= 3
+
+ the label is 479 count of the neighbours= 19
+
+ the label is 480 count of the neighbours= 4
+
+ the label is 481 count of the neighbours= 8
+
+ the label is 482 count of the neighbours= 13
+
+ the label is 483 count of the neighbours= 191
+
+ the label is 484 count of the neighbours= 78
+
+ the label is 485 count of the neighbours= 2
+
+ the label is 486 count of the neighbours= 5
+
+ the label is 487 count of the neighbours= 9
+
+ the label is 488 count of the neighbours= 11
+
+ the label is 489 count of the neighbours= 7
+
+ the label is 490 count of the neighbours= 4
+
+ the label is 491 count of the neighbours= 2
+
+ the label is 492 count of the neighbours= 30
+
+ the label is 493 count of the neighbours= 22
+
+ the label is 494 count of the neighbours= 9
+
+ the label is 495 count of the neighbours= 7
+
+ the label is 496 count of the neighbours= 17
+
+ the label is 497 count of the neighbours= 29
+
+ the label is 498 count of the neighbours= 1
+
+ the label is 499 count of the neighbours= 1
+
+ the label is 500 count of the neighbours= 36
+
+ the label is 501 count of the neighbours= 1
+
+ the label is 502 count of the neighbours= 2
+
+ the label is 503 count of the neighbours= 20
+
+ the label is 504 count of the neighbours= 23
+
+ the label is 505 count of the neighbours= 4
+
+ the label is 506 count of the neighbours= 26
+
+ the label is 507 count of the neighbours= 21
+
+ the label is 508 count of the neighbours= 6
+
+ the label is 509 count of the neighbours= 4
+
+ the label is 510 count of the neighbours= 7
+
+ the label is 511 count of the neighbours= 10
+
+ the label is 512 count of the neighbours= 11
+
+ the label is 513 count of the neighbours= 33
+
+ the label is 514 count of the neighbours= 19
+
+ the label is 515 count of the neighbours= 19
+
+ the label is 516 count of the neighbours= 4
+
+ the label is 517 count of the neighbours= 46
+
+ the label is 518 count of the neighbours= 3
+
+ the label is 519 count of the neighbours= 6
+
+ the label is 520 count of the neighbours= 11
+
+ the label is 521 count of the neighbours= 1
+
+ the label is 522 count of the neighbours= 5
+
+ the label is 523 count of the neighbours= 8
+
+ the label is 524 count of the neighbours= 17
+
+ the label is 525 count of the neighbours= 14
+
+ the label is 526 count of the neighbours= 70
+
+ the label is 527 count of the neighbours= 6
+
+ the label is 528 count of the neighbours= 3
+
+ the label is 529 count of the neighbours= 2
+
+ the label is 530 count of the neighbours= 0
+
+ the label is 531 count of the neighbours= 9
+
+ the label is 532 count of the neighbours= 1
+
+ the label is 533 count of the neighbours= 0
+
+ the label is 534 count of the neighbours= 1
+
+ the label is 535 count of the neighbours= 0
+
+ the label is 536 count of the neighbours= 3
+
+ the label is 537 count of the neighbours= 8
+
+ the label is 538 count of the neighbours= 40
+
+ the label is 539 count of the neighbours= 2
+
+ the label is 540 count of the neighbours= 2
+
+ the label is 541 count of the neighbours= 2
+
+ the label is 542 count of the neighbours= 10
+
+ the label is 543 count of the neighbours= 5
+
+ the label is 544 count of the neighbours= 15
+
+ the label is 545 count of the neighbours= 7
+
+ the label is 546 count of the neighbours= 4
+
+ the label is 547 count of the neighbours= 3
+
+ the label is 548 count of the neighbours= 2
+
+ the label is 549 count of the neighbours= 1
+
+ the label is 550 count of the neighbours= 0
+
+ the label is 551 count of the neighbours= 1
+
+ the label is 552 count of the neighbours= 0
+
+ the label is 553 count of the neighbours= 21
+
+ the label is 554 count of the neighbours= 1
+
+ the label is 555 count of the neighbours= 1
+
+ the label is 556 count of the neighbours= 7
+
+ the label is 557 count of the neighbours= 1
+
+ the label is 558 count of the neighbours= 2
+
+ the label is 559 count of the neighbours= 13
+
+ the label is 560 count of the neighbours= 2
+
+ the label is 561 count of the neighbours= 10
+
+ the label is 562 count of the neighbours= 0
+
+ the label is 563 count of the neighbours= 20
+
+ the label is 564 count of the neighbours= 0
+
+ the label is 565 count of the neighbours= 0
+
+ the label is 566 count of the neighbours= 24
+
+ the label is 567 count of the neighbours= 15
+
+ the label is 568 count of the neighbours= 0
+
+ the label is 569 count of the neighbours= 0
+
+ the label is 570 count of the neighbours= 0
+
+ the label is 571 count of the neighbours= 0
+
+ the label is 572 count of the neighbours= 0
+
+ the label is 573 count of the neighbours= 31
+
+ the label is 574 count of the neighbours= 9
+
+ the label is 575 count of the neighbours= 10
+
+ the label is 576 count of the neighbours= 13
+
+ the label is 577 count of the neighbours= 21
+
+ the label is 578 count of the neighbours= 21
+
+ the label is 579 count of the neighbours= 34
+
+ the label is 580 count of the neighbours= 53
+
+ the label is 581 count of the neighbours= 1
+
+ the label is 582 count of the neighbours= 18
+
+ the label is 583 count of the neighbours= 20
+
+ the label is 584 count of the neighbours= 12
+
+ the label is 585 count of the neighbours= 0
+
+ the label is 586 count of the neighbours= 4
+
+ the label is 587 count of the neighbours= 5
+
+ the label is 588 count of the neighbours= 11
+
+ the label is 589 count of the neighbours= 17
+
+ the label is 590 count of the neighbours= 8
+
+ the label is 591 count of the neighbours= 10
+
+ the label is 592 count of the neighbours= 33
+
+ the label is 593 count of the neighbours= 0
+
+ the label is 594 count of the neighbours= 5
+
+ the label is 595 count of the neighbours= 14
+
+ the label is 596 count of the neighbours= 37
+
+ the label is 597 count of the neighbours= 16
+
+ the label is 598 count of the neighbours= 12
+
+ the label is 599 count of the neighbours= 18
+
+ the label is 600 count of the neighbours= 16
+
+ the label is 601 count of the neighbours= 11
+
+ the label is 602 count of the neighbours= 0
+
+ the label is 603 count of the neighbours= 12
+
+ the label is 604 count of the neighbours= 7
+
+ the label is 605 count of the neighbours= 11
+
+ the label is 606 count of the neighbours= 61
+
+ the label is 607 count of the neighbours= 0
+
+ the label is 608 count of the neighbours= 0
+
+ the label is 609 count of the neighbours= 14
+
+ the label is 610 count of the neighbours= 0
+
+ the label is 611 count of the neighbours= 9
+
+ the label is 612 count of the neighbours= 8
+
+ the label is 613 count of the neighbours= 0
+
+ the label is 614 count of the neighbours= 5
+
+ the label is 615 count of the neighbours= 15
+
+ the label is 616 count of the neighbours= 13
+
+ the label is 617 count of the neighbours= 13
+
+ the label is 618 count of the neighbours= 13
+
+ the label is 619 count of the neighbours= 12
+
+ the label is 620 count of the neighbours= 8
+
+ the label is 621 count of the neighbours= 2
+
+ the label is 622 count of the neighbours= 6
+
+ the label is 623 count of the neighbours= 5
+
+ the label is 624 count of the neighbours= 0
+
+ the label is 625 count of the neighbours= 7
+
+ the label is 626 count of the neighbours= 7
+
+ the label is 627 count of the neighbours= 14
+
+ the label is 628 count of the neighbours= 7
+
+ the label is 629 count of the neighbours= 8
+
+ the label is 630 count of the neighbours= 15
+
+ the label is 631 count of the neighbours= 4
+
+ the label is 632 count of the neighbours= 12
+
+ the label is 633 count of the neighbours= 5
+
+ the label is 634 count of the neighbours= 4
+
+ the label is 635 count of the neighbours= 10
+
+ the label is 636 count of the neighbours= 8
+
+ the label is 637 count of the neighbours= 82
+
+ the label is 638 count of the neighbours= 0
+
+ the label is 639 count of the neighbours= 2
+
+ the label is 640 count of the neighbours= 10
+
+ the label is 641 count of the neighbours= 47
+
+ the label is 642 count of the neighbours= 0
+
+ the label is 643 count of the neighbours= 9
+
+ the label is 644 count of the neighbours= 4
+
+ the label is 645 count of the neighbours= 5
+
+ the label is 646 count of the neighbours= 1
+
+ the label is 647 count of the neighbours= 8
+
+ the label is 648 count of the neighbours= 0
+
+ the label is 649 count of the neighbours= 2
+
+ the label is 650 count of the neighbours= 7
+
+ the label is 651 count of the neighbours= 38
+
+ the label is 652 count of the neighbours= 0
+
+ the label is 653 count of the neighbours= 8
+
+ the label is 654 count of the neighbours= 9
+
+ the label is 655 count of the neighbours= 1
+
+ the label is 656 count of the neighbours= 0
+
+ the label is 657 count of the neighbours= 1
+
+ the label is 658 count of the neighbours= 7
+
+ the label is 659 count of the neighbours= 6
+
+ the label is 660 count of the neighbours= 0
+
+ the label is 661 count of the neighbours= 5
+
+ the label is 662 count of the neighbours= 4
+
+ the label is 663 count of the neighbours= 0
+
+ the label is 664 count of the neighbours= 2
+
+ the label is 665 count of the neighbours= 2
+
+ the label is 666 count of the neighbours= 1
+
+ the label is 667 count of the neighbours= 0
+
+ the label is 668 count of the neighbours= 0
+
+ the label is 669 count of the neighbours= 1
+
+ the label is 670 count of the neighbours= 2
+
+ the label is 671 count of the neighbours= 0
+
+ the label is 672 count of the neighbours= 1
+
+ the label is 673 count of the neighbours= 0
+
+ the label is 674 count of the neighbours= 0
+
+ the label is 675 count of the neighbours= 1
+
+ the label is 676 count of the neighbours= 1
+
+ the label is 677 count of the neighbours= 3
+
+ the label is 678 count of the neighbours= 3
+
+ the label is 679 count of the neighbours= 1
+
+ the label is 680 count of the neighbours= 2
+
+ the label is 681 count of the neighbours= 0
+
+ the label is 682 count of the neighbours= 0
+
+ the label is 683 count of the neighbours= 0
+
+ the label is 684 count of the neighbours= 0
+
+ the label is 685 count of the neighbours= 0
+
+ the label is 686 count of the neighbours= 170
+
+ the label is 687 count of the neighbours= 27
+
+ the label is 688 count of the neighbours= 43
+
+ the label is 689 count of the neighbours= 7
+
+ the label is 690 count of the neighbours= 8
+
+ the label is 691 count of the neighbours= 5
+
+ the label is 692 count of the neighbours= 0
+
+ the label is 693 count of the neighbours= 13
+
+ the label is 694 count of the neighbours= 51
+
+ the label is 695 count of the neighbours= 37
+
+ the label is 696 count of the neighbours= 27
+
+ the label is 697 count of the neighbours= 45
+
+ the label is 698 count of the neighbours= 66
+
+ the label is 699 count of the neighbours= 1
+
+ the label is 700 count of the neighbours= 5
+
+ the label is 701 count of the neighbours= 17
+
+ the label is 702 count of the neighbours= 6
+
+ the label is 703 count of the neighbours= 39
+
+ the label is 704 count of the neighbours= 4
+
+ the label is 705 count of the neighbours= 64
+
+ the label is 706 count of the neighbours= 14
+
+ the label is 707 count of the neighbours= 9
+
+ the label is 708 count of the neighbours= 26
+
+ the label is 709 count of the neighbours= 14
+
+ the label is 710 count of the neighbours= 6
+
+ the label is 711 count of the neighbours= 15
+
+ the label is 712 count of the neighbours= 10
+
+ the label is 713 count of the neighbours= 58
+
+ the label is 714 count of the neighbours= 9
+
+ the label is 715 count of the neighbours= 8
+
+ the label is 716 count of the neighbours= 11
+
+ the label is 717 count of the neighbours= 3
+
+ the label is 718 count of the neighbours= 24
+
+ the label is 719 count of the neighbours= 51
+
+ the label is 720 count of the neighbours= 14
+
+ the label is 721 count of the neighbours= 2
+
+ the label is 722 count of the neighbours= 8
+
+ the label is 723 count of the neighbours= 10
+
+ the label is 724 count of the neighbours= 35
+
+ the label is 725 count of the neighbours= 5
+
+ the label is 726 count of the neighbours= 25
+
+ the label is 727 count of the neighbours= 18
+
+ the label is 728 count of the neighbours= 32
+
+ the label is 729 count of the neighbours= 11
+
+ the label is 730 count of the neighbours= 8
+
+ the label is 731 count of the neighbours= 16
+
+ the label is 732 count of the neighbours= 9
+
+ the label is 733 count of the neighbours= 6
+
+ the label is 734 count of the neighbours= 15
+
+ the label is 735 count of the neighbours= 4
+
+ the label is 736 count of the neighbours= 8
+
+ the label is 737 count of the neighbours= 10
+
+ the label is 738 count of the neighbours= 15
+
+ the label is 739 count of the neighbours= 20
+
+ the label is 740 count of the neighbours= 5
+
+ the label is 741 count of the neighbours= 12
+
+ the label is 742 count of the neighbours= 6
+
+ the label is 743 count of the neighbours= 2
+
+ the label is 744 count of the neighbours= 1
+
+ the label is 745 count of the neighbours= 35
+
+ the label is 746 count of the neighbours= 3
+
+ the label is 747 count of the neighbours= 38
+
+ the label is 748 count of the neighbours= 11
+
+ the label is 749 count of the neighbours= 1
+
+ the label is 750 count of the neighbours= 1
+
+ the label is 751 count of the neighbours= 5
+
+ the label is 752 count of the neighbours= 22
+
+ the label is 753 count of the neighbours= 7
+
+ the label is 754 count of the neighbours= 16
+
+ the label is 755 count of the neighbours= 13
+
+ the label is 756 count of the neighbours= 4
+
+ the label is 757 count of the neighbours= 1
+
+ the label is 758 count of the neighbours= 11
+
+ the label is 759 count of the neighbours= 2
+
+ the label is 760 count of the neighbours= 16
+
+ the label is 761 count of the neighbours= 6
+
+ the label is 762 count of the neighbours= 7
+
+ the label is 763 count of the neighbours= 8
+
+ the label is 764 count of the neighbours= 16
+
+ the label is 765 count of the neighbours= 8
+
+ the label is 766 count of the neighbours= 18
+
+ the label is 767 count of the neighbours= 4
+
+ the label is 768 count of the neighbours= 6
+
+ the label is 769 count of the neighbours= 8
+
+ the label is 770 count of the neighbours= 12
+
+ the label is 771 count of the neighbours= 7
+
+ the label is 772 count of the neighbours= 8
+
+ the label is 773 count of the neighbours= 19
+
+ the label is 774 count of the neighbours= 17
+
+ the label is 775 count of the neighbours= 0
+
+ the label is 776 count of the neighbours= 7
+
+ the label is 777 count of the neighbours= 5
+
+ the label is 778 count of the neighbours= 6
+
+ the label is 779 count of the neighbours= 9
+
+ the label is 780 count of the neighbours= 14
+
+ the label is 781 count of the neighbours= 23
+
+ the label is 782 count of the neighbours= 5
+
+ the label is 783 count of the neighbours= 8
+
+ the label is 784 count of the neighbours= 14
+
+ the label is 785 count of the neighbours= 1
+
+ the label is 786 count of the neighbours= 3
+
+ the label is 787 count of the neighbours= 11
+
+ the label is 788 count of the neighbours= 1
+
+ the label is 789 count of the neighbours= 4
+
+ the label is 790 count of the neighbours= 1
+
+ the label is 791 count of the neighbours= 4
+
+ the label is 792 count of the neighbours= 13
+
+ the label is 793 count of the neighbours= 7
+
+ the label is 794 count of the neighbours= 2
+
+ the label is 795 count of the neighbours= 5
+
+ the label is 796 count of the neighbours= 4
+
+ the label is 797 count of the neighbours= 8
+
+ the label is 798 count of the neighbours= 2
+
+ the label is 799 count of the neighbours= 4
+
+ the label is 800 count of the neighbours= 14
+
+ the label is 801 count of the neighbours= 0
+
+ the label is 802 count of the neighbours= 2
+
+ the label is 803 count of the neighbours= 5
+
+ the label is 804 count of the neighbours= 10
+
+ the label is 805 count of the neighbours= 24
+
+ the label is 806 count of the neighbours= 5
+
+ the label is 807 count of the neighbours= 6
+
+ the label is 808 count of the neighbours= 1
+
+ the label is 809 count of the neighbours= 2
+
+ the label is 810 count of the neighbours= 10
+
+ the label is 811 count of the neighbours= 3
+
+ the label is 812 count of the neighbours= 4
+
+ the label is 813 count of the neighbours= 1
+
+ the label is 814 count of the neighbours= 6
+
+ the label is 815 count of the neighbours= 13
+
+ the label is 816 count of the neighbours= 2
+
+ the label is 817 count of the neighbours= 5
+
+ the label is 818 count of the neighbours= 2
+
+ the label is 819 count of the neighbours= 12
+
+ the label is 820 count of the neighbours= 10
+
+ the label is 821 count of the neighbours= 1
+
+ the label is 822 count of the neighbours= 3
+
+ the label is 823 count of the neighbours= 13
+
+ the label is 824 count of the neighbours= 17
+
+ the label is 825 count of the neighbours= 4
+
+ the label is 826 count of the neighbours= 3
+
+ the label is 827 count of the neighbours= 6
+
+ the label is 828 count of the neighbours= 18
+
+ the label is 829 count of the neighbours= 4
+
+ the label is 830 count of the neighbours= 10
+
+ the label is 831 count of the neighbours= 1
+
+ the label is 832 count of the neighbours= 0
+
+ the label is 833 count of the neighbours= 0
+
+ the label is 834 count of the neighbours= 4
+
+ the label is 835 count of the neighbours= 2
+
+ the label is 836 count of the neighbours= 1
+
+ the label is 837 count of the neighbours= 1
+
+ the label is 838 count of the neighbours= 2
+
+ the label is 839 count of the neighbours= 0
+
+ the label is 840 count of the neighbours= 2
+
+ the label is 841 count of the neighbours= 0
+
+ the label is 842 count of the neighbours= 1
+
+ the label is 843 count of the neighbours= 0
+
+ the label is 844 count of the neighbours= 1
+
+ the label is 845 count of the neighbours= 1
+
+ the label is 846 count of the neighbours= 0
+
+ the label is 847 count of the neighbours= 1
+
+ the label is 848 count of the neighbours= 0
+
+ the label is 849 count of the neighbours= 0
+
+ the label is 850 count of the neighbours= 0
+
+ the label is 851 count of the neighbours= 0
+
+ the label is 852 count of the neighbours= 1
+
+ the label is 853 count of the neighbours= 0
+
+ the label is 854 count of the neighbours= 0
+
+ the label is 855 count of the neighbours= 0
+
+ the label is 856 count of the neighbours= 10
+
+ the label is 857 count of the neighbours= 11
+
+ the label is 858 count of the neighbours= 4
+
+ the label is 859 count of the neighbours= 1
+
+ the label is 860 count of the neighbours= 1
+
+ the label is 861 count of the neighbours= 5
+
+ the label is 862 count of the neighbours= 22
+
+ the label is 863 count of the neighbours= 6
+
+ the label is 864 count of the neighbours= 2
+
+ the label is 865 count of the neighbours= 1
+
+ the label is 866 count of the neighbours= 4
+
+ the label is 867 count of the neighbours= 6
+
+ the label is 868 count of the neighbours= 0
+
+ the label is 869 count of the neighbours= 1
+
+ the label is 870 count of the neighbours= 5
+
+ the label is 871 count of the neighbours= 3
+
+ the label is 872 count of the neighbours= 4
+
+ the label is 873 count of the neighbours= 2
+
+ the label is 874 count of the neighbours= 2
+
+ the label is 875 count of the neighbours= 0
+
+ the label is 876 count of the neighbours= 5
+
+ the label is 877 count of the neighbours= 1
+
+ the label is 878 count of the neighbours= 3
+
+ the label is 879 count of the neighbours= 2
+
+ the label is 880 count of the neighbours= 0
+
+ the label is 881 count of the neighbours= 1
+
+ the label is 882 count of the neighbours= 2
+
+ the label is 883 count of the neighbours= 0
+
+ the label is 884 count of the neighbours= 1
+
+ the label is 885 count of the neighbours= 1
+
+ the label is 886 count of the neighbours= 1
+
+ the label is 887 count of the neighbours= 0
+
+ the label is 888 count of the neighbours= 1
+
+ the label is 889 count of the neighbours= 0
+
+ the label is 890 count of the neighbours= 0
+
+ the label is 891 count of the neighbours= 0
+
+ the label is 892 count of the neighbours= 0
+
+ the label is 893 count of the neighbours= 0
+
+ the label is 894 count of the neighbours= 0
+
+ the label is 895 count of the neighbours= 0
+
+ the label is 896 count of the neighbours= 123
+
+ the label is 897 count of the neighbours= 65
+
+ the label is 898 count of the neighbours= 37
+
+ the label is 899 count of the neighbours= 2
+
+ the label is 900 count of the neighbours= 12
+
+ the label is 901 count of the neighbours= 33
+
+ the label is 902 count of the neighbours= 44
+
+ the label is 903 count of the neighbours= 32
+
+ the label is 904 count of the neighbours= 1
+
+ the label is 905 count of the neighbours= 13
+
+ the label is 906 count of the neighbours= 76
+
+ the label is 907 count of the neighbours= 12
+
+ the label is 908 count of the neighbours= 30
+
+ the label is 909 count of the neighbours= 11
+
+ the label is 910 count of the neighbours= 4
+
+ the label is 911 count of the neighbours= 0
+
+ the label is 912 count of the neighbours= 7
+
+ the label is 913 count of the neighbours= 42
+
+ the label is 914 count of the neighbours= 14
+
+ the label is 915 count of the neighbours= 30
+
+ the label is 916 count of the neighbours= 146
+
+ the label is 917 count of the neighbours= 124
+
+ the label is 918 count of the neighbours= 0
+
+ the label is 919 count of the neighbours= 24
+
+ the label is 920 count of the neighbours= 12
+
+ the label is 921 count of the neighbours= 104
+
+ the label is 922 count of the neighbours= 28
+
+ the label is 923 count of the neighbours= 7
+
+ the label is 924 count of the neighbours= 44
+
+ the label is 925 count of the neighbours= 163
+
+ the label is 926 count of the neighbours= 20
+
+ the label is 927 count of the neighbours= 71
+
+ the label is 928 count of the neighbours= 8
+
+ the label is 929 count of the neighbours= 4
+
+ the label is 930 count of the neighbours= 43
+
+ the label is 931 count of the neighbours= 13
+
+ the label is 932 count of the neighbours= 62
+
+ the label is 933 count of the neighbours= 22
+
+ the label is 934 count of the neighbours= 80
+
+ the label is 935 count of the neighbours= 6
+
+ the label is 936 count of the neighbours= 24
+
+ the label is 937 count of the neighbours= 6
+
+ the label is 938 count of the neighbours= 26
+
+ the label is 939 count of the neighbours= 15
+
+ the label is 940 count of the neighbours= 15
+
+ the label is 941 count of the neighbours= 52
+
+ the label is 942 count of the neighbours= 58
+
+ the label is 943 count of the neighbours= 11
+
+ the label is 944 count of the neighbours= 35
+
+ the label is 945 count of the neighbours= 2
+
+ the label is 946 count of the neighbours= 160
+
+ the label is 947 count of the neighbours= 110
+
+ the label is 948 count of the neighbours= 32
+
+ the label is 949 count of the neighbours= 21
+
+ the label is 950 count of the neighbours= 8
+
+ the label is 951 count of the neighbours= 19
+
+ the label is 952 count of the neighbours= 79
+
+ the label is 953 count of the neighbours= 105
+
+ the label is 954 count of the neighbours= 48
+
+ the label is 955 count of the neighbours= 8
+
+ the label is 956 count of the neighbours= 9
+
+ the label is 957 count of the neighbours= 60
+
+ the label is 958 count of the neighbours= 22
+
+ the label is 959 count of the neighbours= 45
+
+ the label is 960 count of the neighbours= 98
+
+ the label is 961 count of the neighbours= 11
+
+ the label is 962 count of the neighbours= 21
+
+ the label is 963 count of the neighbours= 29
+
+ the label is 964 count of the neighbours= 24
+
+ the label is 965 count of the neighbours= 13
+
+ the label is 966 count of the neighbours= 110
+
+ the label is 967 count of the neighbours= 99
+
+ the label is 968 count of the neighbours= 32
+
+ the label is 969 count of the neighbours= 26
+
+ the label is 970 count of the neighbours= 14
+
+ the label is 971 count of the neighbours= 28
+
+ the label is 972 count of the neighbours= 17
+
+ the label is 973 count of the neighbours= 16
+
+ the label is 974 count of the neighbours= 9
+
+ the label is 975 count of the neighbours= 50
+
+ the label is 976 count of the neighbours= 15
+
+ the label is 977 count of the neighbours= 24
+
+ the label is 978 count of the neighbours= 98
+
+ the label is 979 count of the neighbours= 8
+
+ the label is 980 count of the neighbours= 119
+
+ the label is 981 count of the neighbours= 42
+
+ the label is 982 count of the neighbours= 63
+
+ the label is 983 count of the neighbours= 56
+
+ the label is 984 count of the neighbours= 34
+
+ the label is 985 count of the neighbours= 6
+
+ the label is 986 count of the neighbours= 8
+
+ the label is 987 count of the neighbours= 5
+
+ the label is 988 count of the neighbours= 37
+
+ the label is 989 count of the neighbours= 33
+
+ the label is 990 count of the neighbours= 27
+
+ the label is 991 count of the neighbours= 15
+
+ the label is 992 count of the neighbours= 25
+
+ the label is 993 count of the neighbours= 140
+
+ the label is 994 count of the neighbours= 25
+
+ the label is 995 count of the neighbours= 60
+
+ the label is 996 count of the neighbours= 3
+
+ the label is 997 count of the neighbours= 90
+
+ the label is 998 count of the neighbours= 6
+
+ the label is 999 count of the neighbours= 71
+
+ the label is 1000 count of the neighbours= 12
+
+ the label is 1001 count of the neighbours= 30
+
+ the label is 1002 count of the neighbours= 3
+
+ the label is 1003 count of the neighbours= 90
+
+ the label is 1004 count of the neighbours= 114
+
+ the label is 1005 count of the neighbours= 12
+
+ the label is 1006 count of the neighbours= 130
+
+ the label is 1007 count of the neighbours= 12
+
+ the label is 1008 count of the neighbours= 7
+
+ the label is 1009 count of the neighbours= 53
+
+ the label is 1010 count of the neighbours= 31
+
+ the label is 1011 count of the neighbours= 28
+
+ the label is 1012 count of the neighbours= 22
+
+ the label is 1013 count of the neighbours= 8
+
+ the label is 1014 count of the neighbours= 85
+
+ the label is 1015 count of the neighbours= 32
+
+ the label is 1016 count of the neighbours= 6
+
+ the label is 1017 count of the neighbours= 136
+
+ the label is 1018 count of the neighbours= 43
+
+ the label is 1019 count of the neighbours= 52
+
+ the label is 1020 count of the neighbours= 47
+
+ the label is 1021 count of the neighbours= 54
+
+ the label is 1022 count of the neighbours= 2
+
+ the label is 1023 count of the neighbours= 7
+
+ the label is 1024 count of the neighbours= 78
+
+ the label is 1025 count of the neighbours= 21
+
+ the label is 1026 count of the neighbours= 69
+
+ the label is 1027 count of the neighbours= 2
+
+ the label is 1028 count of the neighbours= 58
+
+ the label is 1029 count of the neighbours= 69
+
+ the label is 1030 count of the neighbours= 8
+
+ the label is 1031 count of the neighbours= 3
+
+ the label is 1032 count of the neighbours= 64
+
+ the label is 1033 count of the neighbours= 13
+
+ the label is 1034 count of the neighbours= 1
+
+ the label is 1035 count of the neighbours= 22
+
+ the label is 1036 count of the neighbours= 49
+
+ the label is 1037 count of the neighbours= 30
+
+ the label is 1038 count of the neighbours= 3
+
+ the label is 1039 count of the neighbours= 24
+
+ the label is 1040 count of the neighbours= 56
+
+ the label is 1041 count of the neighbours= 41
+
+ the label is 1042 count of the neighbours= 12
+
+ the label is 1043 count of the neighbours= 8
+
+ the label is 1044 count of the neighbours= 21
+
+ the label is 1045 count of the neighbours= 8
+
+ the label is 1046 count of the neighbours= 2
+
+ the label is 1047 count of the neighbours= 57
+
+ the label is 1048 count of the neighbours= 95
+
+ the label is 1049 count of the neighbours= 73
+
+ the label is 1050 count of the neighbours= 10
+
+ the label is 1051 count of the neighbours= 39
+
+ the label is 1052 count of the neighbours= 51
+
+ the label is 1053 count of the neighbours= 7
+
+ the label is 1054 count of the neighbours= 45
+
+ the label is 1055 count of the neighbours= 12
+
+ the label is 1056 count of the neighbours= 57
+
+ the label is 1057 count of the neighbours= 3
+
+ the label is 1058 count of the neighbours= 5
+
+ the label is 1059 count of the neighbours= 147
+
+ the label is 1060 count of the neighbours= 40
+
+ the label is 1061 count of the neighbours= 8
+
+ the label is 1062 count of the neighbours= 18
+
+ the label is 1063 count of the neighbours= 16
+
+ the label is 1064 count of the neighbours= 22
+
+ the label is 1065 count of the neighbours= 1
+
+ the label is 1066 count of the neighbours= 54
+
+ the label is 1067 count of the neighbours= 60
+
+ the label is 1068 count of the neighbours= 45
+
+ the label is 1069 count of the neighbours= 12
+
+ the label is 1070 count of the neighbours= 61
+
+ the label is 1071 count of the neighbours= 2
+
+ the label is 1072 count of the neighbours= 19
+
+ the label is 1073 count of the neighbours= 6
+
+ the label is 1074 count of the neighbours= 53
+
+ the label is 1075 count of the neighbours= 68
+
+ the label is 1076 count of the neighbours= 126
+
+ the label is 1077 count of the neighbours= 12
+
+ the label is 1078 count of the neighbours= 156
+
+ the label is 1079 count of the neighbours= 109
+
+ the label is 1080 count of the neighbours= 45
+
+ the label is 1081 count of the neighbours= 20
+
+ the label is 1082 count of the neighbours= 49
+
+ the label is 1083 count of the neighbours= 90
+
+ the label is 1084 count of the neighbours= 10
+
+ the label is 1085 count of the neighbours= 64
+
+ the label is 1086 count of the neighbours= 168
+
+ the label is 1087 count of the neighbours= 4
+
+ the label is 1088 count of the neighbours= 11
+
+ the label is 1089 count of the neighbours= 11
+
+ the label is 1090 count of the neighbours= 11
+
+ the label is 1091 count of the neighbours= 14
+
+ the label is 1092 count of the neighbours= 38
+
+ the label is 1093 count of the neighbours= 7
+
+ the label is 1094 count of the neighbours= 9
+
+ the label is 1095 count of the neighbours= 14
+
+ the label is 1096 count of the neighbours= 0
+
+ the label is 1097 count of the neighbours= 29
+
+ the label is 1098 count of the neighbours= 19
+
+ the label is 1099 count of the neighbours= 42
+
+ the label is 1100 count of the neighbours= 50
+
+ the label is 1101 count of the neighbours= 104
+
+ the label is 1102 count of the neighbours= 36
+
+ the label is 1103 count of the neighbours= 5
+
+ the label is 1104 count of the neighbours= 83
+
+ the label is 1105 count of the neighbours= 2
+
+ the label is 1106 count of the neighbours= 22
+
+ the label is 1107 count of the neighbours= 125
+
+ the label is 1108 count of the neighbours= 29
+
+ the label is 1109 count of the neighbours= 24
+
+ the label is 1110 count of the neighbours= 53
+
+ the label is 1111 count of the neighbours= 3
+
+ the label is 1112 count of the neighbours= 44
+
+ the label is 1113 count of the neighbours= 32
+
+ the label is 1114 count of the neighbours= 25
+
+ the label is 1115 count of the neighbours= 30
+
+ the label is 1116 count of the neighbours= 23
+
+ the label is 1117 count of the neighbours= 111
+
+ the label is 1118 count of the neighbours= 27
+
+ the label is 1119 count of the neighbours= 0
+
+ the label is 1120 count of the neighbours= 40
+
+ the label is 1121 count of the neighbours= 16
+
+ the label is 1122 count of the neighbours= 29
+
+ the label is 1123 count of the neighbours= 59
+
+ the label is 1124 count of the neighbours= 108
+
+ the label is 1125 count of the neighbours= 95
+
+ the label is 1126 count of the neighbours= 163
+
+ the label is 1127 count of the neighbours= 15
+
+ the label is 1128 count of the neighbours= 77
+
+ the label is 1129 count of the neighbours= 45
+
+ the label is 1130 count of the neighbours= 55
+
+ the label is 1131 count of the neighbours= 25
+
+ the label is 1132 count of the neighbours= 114
+
+ the label is 1133 count of the neighbours= 3
+
+ the label is 1134 count of the neighbours= 6
+
+ the label is 1135 count of the neighbours= 58
+
+ the label is 1136 count of the neighbours= 26
+
+ the label is 1137 count of the neighbours= 22
+
+ the label is 1138 count of the neighbours= 8
+
+ the label is 1139 count of the neighbours= 20
+
+ the label is 1140 count of the neighbours= 7
+
+ the label is 1141 count of the neighbours= 14
+
+ the label is 1142 count of the neighbours= 22
+
+ the label is 1143 count of the neighbours= 10
+
+ the label is 1144 count of the neighbours= 16
+
+ the label is 1145 count of the neighbours= 0
+
+ the label is 1146 count of the neighbours= 121
+
+ the label is 1147 count of the neighbours= 3
+
+ the label is 1148 count of the neighbours= 48
+
+ the label is 1149 count of the neighbours= 80
+
+ the label is 1150 count of the neighbours= 12
+
+ the label is 1151 count of the neighbours= 4
+
+ the label is 1152 count of the neighbours= 12
+
+ the label is 1153 count of the neighbours= 112
+
+ the label is 1154 count of the neighbours= 6
+
+ the label is 1155 count of the neighbours= 24
+
+ the label is 1156 count of the neighbours= 78
+
+ the label is 1157 count of the neighbours= 4
+
+ the label is 1158 count of the neighbours= 47
+
+ the label is 1159 count of the neighbours= 48
+
+ the label is 1160 count of the neighbours= 69
+
+ the label is 1161 count of the neighbours= 16
+
+ the label is 1162 count of the neighbours= 7
+
+ the label is 1163 count of the neighbours= 70
+
+ the label is 1164 count of the neighbours= 19
+
+ the label is 1165 count of the neighbours= 17
+
+ the label is 1166 count of the neighbours= 41
+
+ the label is 1167 count of the neighbours= 23
+
+ the label is 1168 count of the neighbours= 2
+
+ the label is 1169 count of the neighbours= 11
+
+ the label is 1170 count of the neighbours= 23
+
+ the label is 1171 count of the neighbours= 15
+
+ the label is 1172 count of the neighbours= 85
+
+ the label is 1173 count of the neighbours= 89
+
+ the label is 1174 count of the neighbours= 13
+
+ the label is 1175 count of the neighbours= 102
+
+ the label is 1176 count of the neighbours= 1
+
+ the label is 1177 count of the neighbours= 8
+
+ the label is 1178 count of the neighbours= 7
+
+ the label is 1179 count of the neighbours= 24
+
+ the label is 1180 count of the neighbours= 33
+
+ the label is 1181 count of the neighbours= 75
+
+ the label is 1182 count of the neighbours= 52
+
+ the label is 1183 count of the neighbours= 23
+
+ the label is 1184 count of the neighbours= 124
+
+ the label is 1185 count of the neighbours= 115
+
+ the label is 1186 count of the neighbours= 10
+
+ the label is 1187 count of the neighbours= 15
+
+ the label is 1188 count of the neighbours= 21
+
+ the label is 1189 count of the neighbours= 25
+
+ the label is 1190 count of the neighbours= 30
+
+ the label is 1191 count of the neighbours= 77
+
+ the label is 1192 count of the neighbours= 66
+
+ the label is 1193 count of the neighbours= 4
+
+ the label is 1194 count of the neighbours= 2
+
+ the label is 1195 count of the neighbours= 37
+
+ the label is 1196 count of the neighbours= 19
+
+ the label is 1197 count of the neighbours= 6
+
+ the label is 1198 count of the neighbours= 67
+
+ the label is 1199 count of the neighbours= 160
+
+ the label is 1200 count of the neighbours= 3
+
+ the label is 1201 count of the neighbours= 39
+
+ the label is 1202 count of the neighbours= 4
+
+ the label is 1203 count of the neighbours= 6
+
+ the label is 1204 count of the neighbours= 77
+
+ the label is 1205 count of the neighbours= 76
+
+ the label is 1206 count of the neighbours= 0
+
+ the label is 1207 count of the neighbours= 51
+
+ the label is 1208 count of the neighbours= 0
+
+ the label is 1209 count of the neighbours= 56
+
+ the label is 1210 count of the neighbours= 27
+
+ the label is 1211 count of the neighbours= 126
+
+ the label is 1212 count of the neighbours= 19
+
+ the label is 1213 count of the neighbours= 13
+
+ the label is 1214 count of the neighbours= 80
+
+ the label is 1215 count of the neighbours= 29
+
+ the label is 1216 count of the neighbours= 24
+
+ the label is 1217 count of the neighbours= 33
+
+ the label is 1218 count of the neighbours= 5
+
+ the label is 1219 count of the neighbours= 35
+
+ the label is 1220 count of the neighbours= 7
+
+ the label is 1221 count of the neighbours= 55
+
+ the label is 1222 count of the neighbours= 98
+
+ the label is 1223 count of the neighbours= 11
+
+ the label is 1224 count of the neighbours= 0
+
+ the label is 1225 count of the neighbours= 18
+
+ the label is 1226 count of the neighbours= 21
+
+ the label is 1227 count of the neighbours= 54
+
+ the label is 1228 count of the neighbours= 9
+
+ the label is 1229 count of the neighbours= 30
+
+ the label is 1230 count of the neighbours= 90
+
+ the label is 1231 count of the neighbours= 45
+
+ the label is 1232 count of the neighbours= 18
+
+ the label is 1233 count of the neighbours= 0
+
+ the label is 1234 count of the neighbours= 11
+
+ the label is 1235 count of the neighbours= 66
+
+ the label is 1236 count of the neighbours= 28
+
+ the label is 1237 count of the neighbours= 32
+
+ the label is 1238 count of the neighbours= 105
+
+ the label is 1239 count of the neighbours= 5
+
+ the label is 1240 count of the neighbours= 4
+
+ the label is 1241 count of the neighbours= 12
+
+ the label is 1242 count of the neighbours= 68
+
+ the label is 1243 count of the neighbours= 73
+
+ the label is 1244 count of the neighbours= 7
+
+ the label is 1245 count of the neighbours= 25
+
+ the label is 1246 count of the neighbours= 26
+
+ the label is 1247 count of the neighbours= 17
+
+ the label is 1248 count of the neighbours= 4
+
+ the label is 1249 count of the neighbours= 8
+
+ the label is 1250 count of the neighbours= 100
+
+ the label is 1251 count of the neighbours= 7
+
+ the label is 1252 count of the neighbours= 1
+
+ the label is 1253 count of the neighbours= 0
+
+ the label is 1254 count of the neighbours= 1
+
+ the label is 1255 count of the neighbours= 93
+
+ the label is 1256 count of the neighbours= 89
+
+ the label is 1257 count of the neighbours= 31
+
+ the label is 1258 count of the neighbours= 27
+
+ the label is 1259 count of the neighbours= 27
+
+ the label is 1260 count of the neighbours= 20
+
+ the label is 1261 count of the neighbours= 42
+
+ the label is 1262 count of the neighbours= 1
+
+ the label is 1263 count of the neighbours= 2
+
+ the label is 1264 count of the neighbours= 3
+
+ the label is 1265 count of the neighbours= 19
+
+ the label is 1266 count of the neighbours= 9
+
+ the label is 1267 count of the neighbours= 82
+
+ the label is 1268 count of the neighbours= 6
+
+ the label is 1269 count of the neighbours= 87
+
+ the label is 1270 count of the neighbours= 1
+
+ the label is 1271 count of the neighbours= 59
+
+ the label is 1272 count of the neighbours= 62
+
+ the label is 1273 count of the neighbours= 33
+
+ the label is 1274 count of the neighbours= 18
+
+ the label is 1275 count of the neighbours= 33
+
+ the label is 1276 count of the neighbours= 1
+
+ the label is 1277 count of the neighbours= 77
+
+ the label is 1278 count of the neighbours= 19
+
+ the label is 1279 count of the neighbours= 27
+
+ the label is 1280 count of the neighbours= 47
+
+ the label is 1281 count of the neighbours= 28
+
+ the label is 1282 count of the neighbours= 38
+
+ the label is 1283 count of the neighbours= 24
+
+ the label is 1284 count of the neighbours= 40
+
+ the label is 1285 count of the neighbours= 32
+
+ the label is 1286 count of the neighbours= 10
+
+ the label is 1287 count of the neighbours= 45
+
+ the label is 1288 count of the neighbours= 57
+
+ the label is 1289 count of the neighbours= 49
+
+ the label is 1290 count of the neighbours= 61
+
+ the label is 1291 count of the neighbours= 73
+
+ the label is 1292 count of the neighbours= 33
+
+ the label is 1293 count of the neighbours= 33
+
+ the label is 1294 count of the neighbours= 10
+
+ the label is 1295 count of the neighbours= 1
+
+ the label is 1296 count of the neighbours= 14
+
+ the label is 1297 count of the neighbours= 3
+
+ the label is 1298 count of the neighbours= 41
+
+ the label is 1299 count of the neighbours= 17
+
+ the label is 1300 count of the neighbours= 15
+
+ the label is 1301 count of the neighbours= 2
+
+ the label is 1302 count of the neighbours= 65
+
+ the label is 1303 count of the neighbours= 24
+
+ the label is 1304 count of the neighbours= 16
+
+ the label is 1305 count of the neighbours= 69
+
+ the label is 1306 count of the neighbours= 13
+
+ the label is 1307 count of the neighbours= 19
+
+ the label is 1308 count of the neighbours= 8
+
+ the label is 1309 count of the neighbours= 25
+
+ the label is 1310 count of the neighbours= 12
+
+ the label is 1311 count of the neighbours= 14
+
+ the label is 1312 count of the neighbours= 54
+
+ the label is 1313 count of the neighbours= 15
+
+ the label is 1314 count of the neighbours= 15
+
+ the label is 1315 count of the neighbours= 24
+
+ the label is 1316 count of the neighbours= 17
+
+ the label is 1317 count of the neighbours= 11
+
+ the label is 1318 count of the neighbours= 24
+
+ the label is 1319 count of the neighbours= 17
+
+ the label is 1320 count of the neighbours= 31
+
+ the label is 1321 count of the neighbours= 16
+
+ the label is 1322 count of the neighbours= 47
+
+ the label is 1323 count of the neighbours= 45
+
+ the label is 1324 count of the neighbours= 21
+
+ the label is 1325 count of the neighbours= 9
+
+ the label is 1326 count of the neighbours= 0
+
+ the label is 1327 count of the neighbours= 33
+
+ the label is 1328 count of the neighbours= 10
+
+ the label is 1329 count of the neighbours= 85
+
+ the label is 1330 count of the neighbours= 76
+
+ the label is 1331 count of the neighbours= 84
+
+ the label is 1332 count of the neighbours= 24
+
+ the label is 1333 count of the neighbours= 18
+
+ the label is 1334 count of the neighbours= 66
+
+ the label is 1335 count of the neighbours= 83
+
+ the label is 1336 count of the neighbours= 28
+
+ the label is 1337 count of the neighbours= 25
+
+ the label is 1338 count of the neighbours= 31
+
+ the label is 1339 count of the neighbours= 72
+
+ the label is 1340 count of the neighbours= 45
+
+ the label is 1341 count of the neighbours= 77
+
+ the label is 1342 count of the neighbours= 6
+
+ the label is 1343 count of the neighbours= 22
+
+ the label is 1344 count of the neighbours= 60
+
+ the label is 1345 count of the neighbours= 56
+
+ the label is 1346 count of the neighbours= 1
+
+ the label is 1347 count of the neighbours= 40
+
+ the label is 1348 count of the neighbours= 18
+
+ the label is 1349 count of the neighbours= 20
+
+ the label is 1350 count of the neighbours= 16
+
+ the label is 1351 count of the neighbours= 40
+
+ the label is 1352 count of the neighbours= 137
+
+ the label is 1353 count of the neighbours= 1
+
+ the label is 1354 count of the neighbours= 3
+
+ the label is 1355 count of the neighbours= 15
+
+ the label is 1356 count of the neighbours= 13
+
+ the label is 1357 count of the neighbours= 12
+
+ the label is 1358 count of the neighbours= 37
+
+ the label is 1359 count of the neighbours= 52
+
+ the label is 1360 count of the neighbours= 23
+
+ the label is 1361 count of the neighbours= 85
+
+ the label is 1362 count of the neighbours= 1
+
+ the label is 1363 count of the neighbours= 11
+
+ the label is 1364 count of the neighbours= 8
+
+ the label is 1365 count of the neighbours= 24
+
+ the label is 1366 count of the neighbours= 29
+
+ the label is 1367 count of the neighbours= 94
+
+ the label is 1368 count of the neighbours= 1
+
+ the label is 1369 count of the neighbours= 30
+
+ the label is 1370 count of the neighbours= 64
+
+ the label is 1371 count of the neighbours= 19
+
+ the label is 1372 count of the neighbours= 3
+
+ the label is 1373 count of the neighbours= 38
+
+ the label is 1374 count of the neighbours= 13
+
+ the label is 1375 count of the neighbours= 42
+
+ the label is 1376 count of the neighbours= 106
+
+ the label is 1377 count of the neighbours= 108
+
+ the label is 1378 count of the neighbours= 16
+
+ the label is 1379 count of the neighbours= 27
+
+ the label is 1380 count of the neighbours= 48
+
+ the label is 1381 count of the neighbours= 11
+
+ the label is 1382 count of the neighbours= 17
+
+ the label is 1383 count of the neighbours= 2
+
+ the label is 1384 count of the neighbours= 4
+
+ the label is 1385 count of the neighbours= 10
+
+ the label is 1386 count of the neighbours= 0
+
+ the label is 1387 count of the neighbours= 4
+
+ the label is 1388 count of the neighbours= 49
+
+ the label is 1389 count of the neighbours= 27
+
+ the label is 1390 count of the neighbours= 105
+
+ the label is 1391 count of the neighbours= 90
+
+ the label is 1392 count of the neighbours= 18
+
+ the label is 1393 count of the neighbours= 26
+
+ the label is 1394 count of the neighbours= 0
+
+ the label is 1395 count of the neighbours= 1
+
+ the label is 1396 count of the neighbours= 23
+
+ the label is 1397 count of the neighbours= 6
+
+ the label is 1398 count of the neighbours= 21
+
+ the label is 1399 count of the neighbours= 89
+
+ the label is 1400 count of the neighbours= 7
+
+ the label is 1401 count of the neighbours= 6
+
+ the label is 1402 count of the neighbours= 40
+
+ the label is 1403 count of the neighbours= 2
+
+ the label is 1404 count of the neighbours= 20
+
+ the label is 1405 count of the neighbours= 38
+
+ the label is 1406 count of the neighbours= 14
+
+ the label is 1407 count of the neighbours= 14
+
+ the label is 1408 count of the neighbours= 14
+
+ the label is 1409 count of the neighbours= 58
+
+ the label is 1410 count of the neighbours= 11
+
+ the label is 1411 count of the neighbours= 8
+
+ the label is 1412 count of the neighbours= 9
+
+ the label is 1413 count of the neighbours= 31
+
+ the label is 1414 count of the neighbours= 4
+
+ the label is 1415 count of the neighbours= 16
+
+ the label is 1416 count of the neighbours= 63
+
+ the label is 1417 count of the neighbours= 2
+
+ the label is 1418 count of the neighbours= 9
+
+ the label is 1419 count of the neighbours= 19
+
+ the label is 1420 count of the neighbours= 78
+
+ the label is 1421 count of the neighbours= 11
+
+ the label is 1422 count of the neighbours= 4
+
+ the label is 1423 count of the neighbours= 30
+
+ the label is 1424 count of the neighbours= 11
+
+ the label is 1425 count of the neighbours= 13
+
+ the label is 1426 count of the neighbours= 31
+
+ the label is 1427 count of the neighbours= 33
+
+ the label is 1428 count of the neighbours= 11
+
+ the label is 1429 count of the neighbours= 17
+
+ the label is 1430 count of the neighbours= 1
+
+ the label is 1431 count of the neighbours= 112
+
+ the label is 1432 count of the neighbours= 24
+
+ the label is 1433 count of the neighbours= 11
+
+ the label is 1434 count of the neighbours= 11
+
+ the label is 1435 count of the neighbours= 28
+
+ the label is 1436 count of the neighbours= 10
+
+ the label is 1437 count of the neighbours= 27
+
+ the label is 1438 count of the neighbours= 11
+
+ the label is 1439 count of the neighbours= 10
+
+ the label is 1440 count of the neighbours= 19
+
+ the label is 1441 count of the neighbours= 7
+
+ the label is 1442 count of the neighbours= 1
+
+ the label is 1443 count of the neighbours= 4
+
+ the label is 1444 count of the neighbours= 14
+
+ the label is 1445 count of the neighbours= 4
+
+ the label is 1446 count of the neighbours= 16
+
+ the label is 1447 count of the neighbours= 73
+
+ the label is 1448 count of the neighbours= 19
+
+ the label is 1449 count of the neighbours= 46
+
+ the label is 1450 count of the neighbours= 17
+
+ the label is 1451 count of the neighbours= 14
+
+ the label is 1452 count of the neighbours= 18
+
+ the label is 1453 count of the neighbours= 12
+
+ the label is 1454 count of the neighbours= 22
+
+ the label is 1455 count of the neighbours= 3
+
+ the label is 1456 count of the neighbours= 65
+
+ the label is 1457 count of the neighbours= 30
+
+ the label is 1458 count of the neighbours= 16
+
+ the label is 1459 count of the neighbours= 44
+
+ the label is 1460 count of the neighbours= 20
+
+ the label is 1461 count of the neighbours= 2
+
+ the label is 1462 count of the neighbours= 33
+
+ the label is 1463 count of the neighbours= 6
+
+ the label is 1464 count of the neighbours= 10
+
+ the label is 1465 count of the neighbours= 101
+
+ the label is 1466 count of the neighbours= 0
+
+ the label is 1467 count of the neighbours= 60
+
+ the label is 1468 count of the neighbours= 14
+
+ the label is 1469 count of the neighbours= 26
+
+ the label is 1470 count of the neighbours= 31
+
+ the label is 1471 count of the neighbours= 81
+
+ the label is 1472 count of the neighbours= 36
+
+ the label is 1473 count of the neighbours= 21
+
+ the label is 1474 count of the neighbours= 1
+
+ the label is 1475 count of the neighbours= 24
+
+ the label is 1476 count of the neighbours= 3
+
+ the label is 1477 count of the neighbours= 6
+
+ the label is 1478 count of the neighbours= 8
+
+ the label is 1479 count of the neighbours= 34
+
+ the label is 1480 count of the neighbours= 45
+
+ the label is 1481 count of the neighbours= 8
+
+ the label is 1482 count of the neighbours= 18
+
+ the label is 1483 count of the neighbours= 48
+
+ the label is 1484 count of the neighbours= 6
+
+ the label is 1485 count of the neighbours= 25
+
+ the label is 1486 count of the neighbours= 0
+
+ the label is 1487 count of the neighbours= 21
+
+ the label is 1488 count of the neighbours= 53
+
+ the label is 1489 count of the neighbours= 14
+
+ the label is 1490 count of the neighbours= 3
+
+ the label is 1491 count of the neighbours= 62
+
+ the label is 1492 count of the neighbours= 1
+
+ the label is 1493 count of the neighbours= 10
+
+ the label is 1494 count of the neighbours= 11
+
+ the label is 1495 count of the neighbours= 23
+
+ the label is 1496 count of the neighbours= 19
+
+ the label is 1497 count of the neighbours= 17
+
+ the label is 1498 count of the neighbours= 3
+
+ the label is 1499 count of the neighbours= 4
+
+ the label is 1500 count of the neighbours= 8
+
+ the label is 1501 count of the neighbours= 6
+
+ the label is 1502 count of the neighbours= 25
+
+ the label is 1503 count of the neighbours= 8
+
+ the label is 1504 count of the neighbours= 20
+
+ the label is 1505 count of the neighbours= 36
+
+ the label is 1506 count of the neighbours= 2
+
+ the label is 1507 count of the neighbours= 10
+
+ the label is 1508 count of the neighbours= 12
+
+ the label is 1509 count of the neighbours= 57
+
+ the label is 1510 count of the neighbours= 3
+
+ the label is 1511 count of the neighbours= 12
+
+ the label is 1512 count of the neighbours= 9
+
+ the label is 1513 count of the neighbours= 21
+
+ the label is 1514 count of the neighbours= 14
+
+ the label is 1515 count of the neighbours= 24
+
+ the label is 1516 count of the neighbours= 74
+
+ the label is 1517 count of the neighbours= 15
+
+ the label is 1518 count of the neighbours= 6
+
+ the label is 1519 count of the neighbours= 16
+
+ the label is 1520 count of the neighbours= 58
+
+ the label is 1521 count of the neighbours= 4
+
+ the label is 1522 count of the neighbours= 71
+
+ the label is 1523 count of the neighbours= 36
+
+ the label is 1524 count of the neighbours= 20
+
+ the label is 1525 count of the neighbours= 20
+
+ the label is 1526 count of the neighbours= 10
+
+ the label is 1527 count of the neighbours= 5
+
+ the label is 1528 count of the neighbours= 35
+
+ the label is 1529 count of the neighbours= 18
+
+ the label is 1530 count of the neighbours= 50
+
+ the label is 1531 count of the neighbours= 8
+
+ the label is 1532 count of the neighbours= 18
+
+ the label is 1533 count of the neighbours= 13
+
+ the label is 1534 count of the neighbours= 23
+
+ the label is 1535 count of the neighbours= 26
+
+ the label is 1536 count of the neighbours= 21
+
+ the label is 1537 count of the neighbours= 4
+
+ the label is 1538 count of the neighbours= 34
+
+ the label is 1539 count of the neighbours= 37
+
+ the label is 1540 count of the neighbours= 30
+
+ the label is 1541 count of the neighbours= 8
+
+ the label is 1542 count of the neighbours= 27
+
+ the label is 1543 count of the neighbours= 9
+
+ the label is 1544 count of the neighbours= 5
+
+ the label is 1545 count of the neighbours= 12
+
+ the label is 1546 count of the neighbours= 1
+
+ the label is 1547 count of the neighbours= 50
+
+ the label is 1548 count of the neighbours= 12
+
+ the label is 1549 count of the neighbours= 14
+
+ the label is 1550 count of the neighbours= 13
+
+ the label is 1551 count of the neighbours= 71
+
+ the label is 1552 count of the neighbours= 3
+
+ the label is 1553 count of the neighbours= 14
+
+ the label is 1554 count of the neighbours= 65
+
+ the label is 1555 count of the neighbours= 18
+
+ the label is 1556 count of the neighbours= 7
+
+ the label is 1557 count of the neighbours= 66
+
+ the label is 1558 count of the neighbours= 1
+
+ the label is 1559 count of the neighbours= 74
+
+ the label is 1560 count of the neighbours= 0
+
+ the label is 1561 count of the neighbours= 8
+
+ the label is 1562 count of the neighbours= 3
+
+ the label is 1563 count of the neighbours= 46
+
+ the label is 1564 count of the neighbours= 7
+
+ the label is 1565 count of the neighbours= 20
+
+ the label is 1566 count of the neighbours= 9
+
+ the label is 1567 count of the neighbours= 12
+
+ the label is 1568 count of the neighbours= 9
+
+ the label is 1569 count of the neighbours= 19
+
+ the label is 1570 count of the neighbours= 44
+
+ the label is 1571 count of the neighbours= 29
+
+ the label is 1572 count of the neighbours= 17
+
+ the label is 1573 count of the neighbours= 25
+
+ the label is 1574 count of the neighbours= 15
+
+ the label is 1575 count of the neighbours= 8
+
+ the label is 1576 count of the neighbours= 22
+
+ the label is 1577 count of the neighbours= 161
+
+ the label is 1578 count of the neighbours= 10
+
+ the label is 1579 count of the neighbours= 0
+
+ the label is 1580 count of the neighbours= 35
+
+ the label is 1581 count of the neighbours= 0
+
+ the label is 1582 count of the neighbours= 15
+
+ the label is 1583 count of the neighbours= 33
+
+ the label is 1584 count of the neighbours= 76
+
+ the label is 1585 count of the neighbours= 6
+
+ the label is 1586 count of the neighbours= 0
+
+ the label is 1587 count of the neighbours= 16
+
+ the label is 1588 count of the neighbours= 10
+
+ the label is 1589 count of the neighbours= 77
+
+ the label is 1590 count of the neighbours= 31
+
+ the label is 1591 count of the neighbours= 31
+
+ the label is 1592 count of the neighbours= 4
+
+ the label is 1593 count of the neighbours= 10
+
+ the label is 1594 count of the neighbours= 5
+
+ the label is 1595 count of the neighbours= 9
+
+ the label is 1596 count of the neighbours= 18
+
+ the label is 1597 count of the neighbours= 45
+
+ the label is 1598 count of the neighbours= 48
+
+ the label is 1599 count of the neighbours= 6
+
+ the label is 1600 count of the neighbours= 47
+
+ the label is 1601 count of the neighbours= 8
+
+ the label is 1602 count of the neighbours= 3
+
+ the label is 1603 count of the neighbours= 51
+
+ the label is 1604 count of the neighbours= 54
+
+ the label is 1605 count of the neighbours= 28
+
+ the label is 1606 count of the neighbours= 11
+
+ the label is 1607 count of the neighbours= 2
+
+ the label is 1608 count of the neighbours= 34
+
+ the label is 1609 count of the neighbours= 27
+
+ the label is 1610 count of the neighbours= 58
+
+ the label is 1611 count of the neighbours= 16
+
+ the label is 1612 count of the neighbours= 66
+
+ the label is 1613 count of the neighbours= 66
+
+ the label is 1614 count of the neighbours= 24
+
+ the label is 1615 count of the neighbours= 5
+
+ the label is 1616 count of the neighbours= 14
+
+ the label is 1617 count of the neighbours= 39
+
+ the label is 1618 count of the neighbours= 7
+
+ the label is 1619 count of the neighbours= 34
+
+ the label is 1620 count of the neighbours= 39
+
+ the label is 1621 count of the neighbours= 58
+
+ the label is 1622 count of the neighbours= 59
+
+ the label is 1623 count of the neighbours= 33
+
+ the label is 1624 count of the neighbours= 7
+
+ the label is 1625 count of the neighbours= 8
+
+ the label is 1626 count of the neighbours= 17
+
+ the label is 1627 count of the neighbours= 1
+
+ the label is 1628 count of the neighbours= 16
+
+ the label is 1629 count of the neighbours= 5
+
+ the label is 1630 count of the neighbours= 10
+
+ the label is 1631 count of the neighbours= 1
+
+ the label is 1632 count of the neighbours= 26
+
+ the label is 1633 count of the neighbours= 4
+
+ the label is 1634 count of the neighbours= 7
+
+ the label is 1635 count of the neighbours= 7
+
+ the label is 1636 count of the neighbours= 14
+
+ the label is 1637 count of the neighbours= 23
+
+ the label is 1638 count of the neighbours= 9
+
+ the label is 1639 count of the neighbours= 27
+
+ the label is 1640 count of the neighbours= 2
+
+ the label is 1641 count of the neighbours= 3
+
+ the label is 1642 count of the neighbours= 18
+
+ the label is 1643 count of the neighbours= 29
+
+ the label is 1644 count of the neighbours= 20
+
+ the label is 1645 count of the neighbours= 17
+
+ the label is 1646 count of the neighbours= 6
+
+ the label is 1647 count of the neighbours= 12
+
+ the label is 1648 count of the neighbours= 5
+
+ the label is 1649 count of the neighbours= 10
+
+ the label is 1650 count of the neighbours= 5
+
+ the label is 1651 count of the neighbours= 2
+
+ the label is 1652 count of the neighbours= 23
+
+ the label is 1653 count of the neighbours= 21
+
+ the label is 1654 count of the neighbours= 2
+
+ the label is 1655 count of the neighbours= 11
+
+ the label is 1656 count of the neighbours= 17
+
+ the label is 1657 count of the neighbours= 2
+
+ the label is 1658 count of the neighbours= 6
+
+ the label is 1659 count of the neighbours= 22
+
+ the label is 1660 count of the neighbours= 4
+
+ the label is 1661 count of the neighbours= 19
+
+ the label is 1662 count of the neighbours= 36
+
+ the label is 1663 count of the neighbours= 63
+
+ the label is 1664 count of the neighbours= 1
+
+ the label is 1665 count of the neighbours= 36
+
+ the label is 1666 count of the neighbours= 18
+
+ the label is 1667 count of the neighbours= 6
+
+ the label is 1668 count of the neighbours= 33
+
+ the label is 1669 count of the neighbours= 32
+
+ the label is 1670 count of the neighbours= 4
+
+ the label is 1671 count of the neighbours= 8
+
+ the label is 1672 count of the neighbours= 7
+
+ the label is 1673 count of the neighbours= 4
+
+ the label is 1674 count of the neighbours= 6
+
+ the label is 1675 count of the neighbours= 26
+
+ the label is 1676 count of the neighbours= 4
+
+ the label is 1677 count of the neighbours= 6
+
+ the label is 1678 count of the neighbours= 6
+
+ the label is 1679 count of the neighbours= 3
+
+ the label is 1680 count of the neighbours= 13
+
+ the label is 1681 count of the neighbours= 3
+
+ the label is 1682 count of the neighbours= 8
+
+ the label is 1683 count of the neighbours= 37
+
+ the label is 1684 count of the neighbours= 778
+
+ the label is 1685 count of the neighbours= 24
+
+ the label is 1686 count of the neighbours= 6
+
+ the label is 1687 count of the neighbours= 8
+
+ the label is 1688 count of the neighbours= 28
+
+ the label is 1689 count of the neighbours= 36
+
+ the label is 1690 count of the neighbours= 0
+
+ the label is 1691 count of the neighbours= 8
+
+ the label is 1692 count of the neighbours= 5
+
+ the label is 1693 count of the neighbours= 1
+
+ the label is 1694 count of the neighbours= 5
+
+ the label is 1695 count of the neighbours= 8
+
+ the label is 1696 count of the neighbours= 4
+
+ the label is 1697 count of the neighbours= 4
+
+ the label is 1698 count of the neighbours= 3
+
+ the label is 1699 count of the neighbours= 5
+
+ the label is 1700 count of the neighbours= 2
+
+ the label is 1701 count of the neighbours= 1
+
+ the label is 1702 count of the neighbours= 13
+
+ the label is 1703 count of the neighbours= 6
+
+ the label is 1704 count of the neighbours= 9
+
+ the label is 1705 count of the neighbours= 4
+
+ the label is 1706 count of the neighbours= 8
+
+ the label is 1707 count of the neighbours= 42
+
+ the label is 1708 count of the neighbours= 0
+
+ the label is 1709 count of the neighbours= 11
+
+ the label is 1710 count of the neighbours= 5
+
+ the label is 1711 count of the neighbours= 0
+
+ the label is 1712 count of the neighbours= 25
+
+ the label is 1713 count of the neighbours= 0
+
+ the label is 1714 count of the neighbours= 43
+
+ the label is 1715 count of the neighbours= 12
+
+ the label is 1716 count of the neighbours= 7
+
+ the label is 1717 count of the neighbours= 29
+
+ the label is 1718 count of the neighbours= 118
+
+ the label is 1719 count of the neighbours= 3
+
+ the label is 1720 count of the neighbours= 7
+
+ the label is 1721 count of the neighbours= 24
+
+ the label is 1722 count of the neighbours= 10
+
+ the label is 1723 count of the neighbours= 18
+
+ the label is 1724 count of the neighbours= 10
+
+ the label is 1725 count of the neighbours= 8
+
+ the label is 1726 count of the neighbours= 8
+
+ the label is 1727 count of the neighbours= 4
+
+ the label is 1728 count of the neighbours= 4
+
+ the label is 1729 count of the neighbours= 17
+
+ the label is 1730 count of the neighbours= 43
+
+ the label is 1731 count of the neighbours= 2
+
+ the label is 1732 count of the neighbours= 10
+
+ the label is 1733 count of the neighbours= 8
+
+ the label is 1734 count of the neighbours= 12
+
+ the label is 1735 count of the neighbours= 27
+
+ the label is 1736 count of the neighbours= 28
+
+ the label is 1737 count of the neighbours= 17
+
+ the label is 1738 count of the neighbours= 2
+
+ the label is 1739 count of the neighbours= 4
+
+ the label is 1740 count of the neighbours= 4
+
+ the label is 1741 count of the neighbours= 16
+
+ the label is 1742 count of the neighbours= 12
+
+ the label is 1743 count of the neighbours= 5
+
+ the label is 1744 count of the neighbours= 5
+
+ the label is 1745 count of the neighbours= 2
+
+ the label is 1746 count of the neighbours= 34
+
+ the label is 1747 count of the neighbours= 5
+
+ the label is 1748 count of the neighbours= 1
+
+ the label is 1749 count of the neighbours= 1
+
+ the label is 1750 count of the neighbours= 20
+
+ the label is 1751 count of the neighbours= 11
+
+ the label is 1752 count of the neighbours= 16
+
+ the label is 1753 count of the neighbours= 15
+
+ the label is 1754 count of the neighbours= 5
+
+ the label is 1755 count of the neighbours= 0
+
+ the label is 1756 count of the neighbours= 1
+
+ the label is 1757 count of the neighbours= 19
+
+ the label is 1758 count of the neighbours= 11
+
+ the label is 1759 count of the neighbours= 1
+
+ the label is 1760 count of the neighbours= 0
+
+ the label is 1761 count of the neighbours= 22
+
+ the label is 1762 count of the neighbours= 0
+
+ the label is 1763 count of the neighbours= 6
+
+ the label is 1764 count of the neighbours= 0
+
+ the label is 1765 count of the neighbours= 12
+
+ the label is 1766 count of the neighbours= 7
+
+ the label is 1767 count of the neighbours= 1
+
+ the label is 1768 count of the neighbours= 30
+
+ the label is 1769 count of the neighbours= 4
+
+ the label is 1770 count of the neighbours= 4
+
+ the label is 1771 count of the neighbours= 3
+
+ the label is 1772 count of the neighbours= 11
+
+ the label is 1773 count of the neighbours= 3
+
+ the label is 1774 count of the neighbours= 8
+
+ the label is 1775 count of the neighbours= 1
+
+ the label is 1776 count of the neighbours= 1
+
+ the label is 1777 count of the neighbours= 0
+
+ the label is 1778 count of the neighbours= 1
+
+ the label is 1779 count of the neighbours= 4
+
+ the label is 1780 count of the neighbours= 4
+
+ the label is 1781 count of the neighbours= 4
+
+ the label is 1782 count of the neighbours= 11
+
+ the label is 1783 count of the neighbours= 15
+
+ the label is 1784 count of the neighbours= 4
+
+ the label is 1785 count of the neighbours= 1
+
+ the label is 1786 count of the neighbours= 13
+
+ the label is 1787 count of the neighbours= 6
+
+ the label is 1788 count of the neighbours= 0
+
+ the label is 1789 count of the neighbours= 13
+
+ the label is 1790 count of the neighbours= 3
+
+ the label is 1791 count of the neighbours= 19
+
+ the label is 1792 count of the neighbours= 1
+
+ the label is 1793 count of the neighbours= 18
+
+ the label is 1794 count of the neighbours= 9
+
+ the label is 1795 count of the neighbours= 11
+
+ the label is 1796 count of the neighbours= 10
+
+ the label is 1797 count of the neighbours= 1
+
+ the label is 1798 count of the neighbours= 4
+
+ the label is 1799 count of the neighbours= 20
+
+ the label is 1800 count of the neighbours= 29
+
+ the label is 1801 count of the neighbours= 1
+
+ the label is 1802 count of the neighbours= 2
+
+ the label is 1803 count of the neighbours= 2
+
+ the label is 1804 count of the neighbours= 19
+
+ the label is 1805 count of the neighbours= 4
+
+ the label is 1806 count of the neighbours= 3
+
+ the label is 1807 count of the neighbours= 3
+
+ the label is 1808 count of the neighbours= 0
+
+ the label is 1809 count of the neighbours= 13
+
+ the label is 1810 count of the neighbours= 11
+
+ the label is 1811 count of the neighbours= 7
+
+ the label is 1812 count of the neighbours= 5
+
+ the label is 1813 count of the neighbours= 17
+
+ the label is 1814 count of the neighbours= 0
+
+ the label is 1815 count of the neighbours= 2
+
+ the label is 1816 count of the neighbours= 11
+
+ the label is 1817 count of the neighbours= 5
+
+ the label is 1818 count of the neighbours= 3
+
+ the label is 1819 count of the neighbours= 7
+
+ the label is 1820 count of the neighbours= 8
+
+ the label is 1821 count of the neighbours= 2
+
+ the label is 1822 count of the neighbours= 1
+
+ the label is 1823 count of the neighbours= 10
+
+ the label is 1824 count of the neighbours= 4
+
+ the label is 1825 count of the neighbours= 0
+
+ the label is 1826 count of the neighbours= 5
+
+ the label is 1827 count of the neighbours= 15
+
+ the label is 1828 count of the neighbours= 5
+
+ the label is 1829 count of the neighbours= 2
+
+ the label is 1830 count of the neighbours= 0
+
+ the label is 1831 count of the neighbours= 2
+
+ the label is 1832 count of the neighbours= 5
+
+ the label is 1833 count of the neighbours= 9
+
+ the label is 1834 count of the neighbours= 0
+
+ the label is 1835 count of the neighbours= 11
+
+ the label is 1836 count of the neighbours= 1
+
+ the label is 1837 count of the neighbours= 2
+
+ the label is 1838 count of the neighbours= 0
+
+ the label is 1839 count of the neighbours= 10
+
+ the label is 1840 count of the neighbours= 0
+
+ the label is 1841 count of the neighbours= 4
+
+ the label is 1842 count of the neighbours= 8
+
+ the label is 1843 count of the neighbours= 1
+
+ the label is 1844 count of the neighbours= 4
+
+ the label is 1845 count of the neighbours= 2
+
+ the label is 1846 count of the neighbours= 2
+
+ the label is 1847 count of the neighbours= 1
+
+ the label is 1848 count of the neighbours= 2
+
+ the label is 1849 count of the neighbours= 3
+
+ the label is 1850 count of the neighbours= 2
+
+ the label is 1851 count of the neighbours= 0
+
+ the label is 1852 count of the neighbours= 1
+
+ the label is 1853 count of the neighbours= 0
+
+ the label is 1854 count of the neighbours= 0
+
+ the label is 1855 count of the neighbours= 0
+
+ the label is 1856 count of the neighbours= 0
+
+ the label is 1857 count of the neighbours= 6
+
+ the label is 1858 count of the neighbours= 3
+
+ the label is 1859 count of the neighbours= 1
+
+ the label is 1860 count of the neighbours= 1
+
+ the label is 1861 count of the neighbours= 3
+
+ the label is 1862 count of the neighbours= 3
+
+ the label is 1863 count of the neighbours= 5
+
+ the label is 1864 count of the neighbours= 3
+
+ the label is 1865 count of the neighbours= 1
+
+ the label is 1866 count of the neighbours= 0
+
+ the label is 1867 count of the neighbours= 5
+
+ the label is 1868 count of the neighbours= 4
+
+ the label is 1869 count of the neighbours= 1
+
+ the label is 1870 count of the neighbours= 1
+
+ the label is 1871 count of the neighbours= 3
+
+ the label is 1872 count of the neighbours= 2
+
+ the label is 1873 count of the neighbours= 2
+
+ the label is 1874 count of the neighbours= 1
+
+ the label is 1875 count of the neighbours= 0
+
+ the label is 1876 count of the neighbours= 1
+
+ the label is 1877 count of the neighbours= 1
+
+ the label is 1878 count of the neighbours= 1
+
+ the label is 1879 count of the neighbours= 3
+
+ the label is 1880 count of the neighbours= 2
+
+ the label is 1881 count of the neighbours= 4
+
+ the label is 1882 count of the neighbours= 0
+
+ the label is 1883 count of the neighbours= 0
+
+ the label is 1884 count of the neighbours= 2
+
+ the label is 1885 count of the neighbours= 1
+
+ the label is 1886 count of the neighbours= 1
+
+ the label is 1887 count of the neighbours= 1
+
+ the label is 1888 count of the neighbours= 3
+
+ the label is 1889 count of the neighbours= 0
+
+ the label is 1890 count of the neighbours= 0
+
+ the label is 1891 count of the neighbours= 0
+
+ the label is 1892 count of the neighbours= 0
+
+ the label is 1893 count of the neighbours= 1
+
+ the label is 1894 count of the neighbours= 1
+
+ the label is 1895 count of the neighbours= 0
+
+ the label is 1896 count of the neighbours= 0
+
+ the label is 1897 count of the neighbours= 1
+
+ the label is 1898 count of the neighbours= 1
+
+ the label is 1899 count of the neighbours= 2
+
+ the label is 1900 count of the neighbours= 0
+
+ the label is 1901 count of the neighbours= 1
+
+ the label is 1902 count of the neighbours= 1
+
+ the label is 1903 count of the neighbours= 0
+
+ the label is 1904 count of the neighbours= 1
+
+ the label is 1905 count of the neighbours= 0
+
+ the label is 1906 count of the neighbours= 0
+
+ the label is 1907 count of the neighbours= 0
+
+ the label is 1908 count of the neighbours= 0
+
+ the label is 1909 count of the neighbours= 1
+
+ the label is 1910 count of the neighbours= 0
+
+ the label is 1911 count of the neighbours= 0
+
+ the label is 1912 count of the neighbours= 748
+
+ the label is 1913 count of the neighbours= 17
+
+ the label is 1914 count of the neighbours= 46
+
+ the label is 1915 count of the neighbours= 10
+
+ the label is 1916 count of the neighbours= 76
+
+ the label is 1917 count of the neighbours= 189
+
+ the label is 1918 count of the neighbours= 159
+
+ the label is 1919 count of the neighbours= 53
+
+ the label is 1920 count of the neighbours= 119
+
+ the label is 1921 count of the neighbours= 38
+
+ the label is 1922 count of the neighbours= 13
+
+ the label is 1923 count of the neighbours= 55
+
+ the label is 1924 count of the neighbours= 5
+
+ the label is 1925 count of the neighbours= 122
+
+ the label is 1926 count of the neighbours= 131
+
+ the label is 1927 count of the neighbours= 52
+
+ the label is 1928 count of the neighbours= 21
+
+ the label is 1929 count of the neighbours= 147
+
+ the label is 1930 count of the neighbours= 12
+
+ the label is 1931 count of the neighbours= 35
+
+ the label is 1932 count of the neighbours= 88
+
+ the label is 1933 count of the neighbours= 10
+
+ the label is 1934 count of the neighbours= 11
+
+ the label is 1935 count of the neighbours= 44
+
+ the label is 1936 count of the neighbours= 20
+
+ the label is 1937 count of the neighbours= 3
+
+ the label is 1938 count of the neighbours= 185
+
+ the label is 1939 count of the neighbours= 75
+
+ the label is 1940 count of the neighbours= 88
+
+ the label is 1941 count of the neighbours= 215
+
+ the label is 1942 count of the neighbours= 37
+
+ the label is 1943 count of the neighbours= 187
+
+ the label is 1944 count of the neighbours= 27
+
+ the label is 1945 count of the neighbours= 133
+
+ the label is 1946 count of the neighbours= 183
+
+ the label is 1947 count of the neighbours= 111
+
+ the label is 1948 count of the neighbours= 97
+
+ the label is 1949 count of the neighbours= 7
+
+ the label is 1950 count of the neighbours= 11
+
+ the label is 1951 count of the neighbours= 56
+
+ the label is 1952 count of the neighbours= 15
+
+ the label is 1953 count of the neighbours= 118
+
+ the label is 1954 count of the neighbours= 78
+
+ the label is 1955 count of the neighbours= 84
+
+ the label is 1956 count of the neighbours= 7
+
+ the label is 1957 count of the neighbours= 33
+
+ the label is 1958 count of the neighbours= 29
+
+ the label is 1959 count of the neighbours= 110
+
+ the label is 1960 count of the neighbours= 42
+
+ the label is 1961 count of the neighbours= 6
+
+ the label is 1962 count of the neighbours= 179
+
+ the label is 1963 count of the neighbours= 81
+
+ the label is 1964 count of the neighbours= 90
+
+ the label is 1965 count of the neighbours= 18
+
+ the label is 1966 count of the neighbours= 163
+
+ the label is 1967 count of the neighbours= 0
+
+ the label is 1968 count of the neighbours= 28
+
+ the label is 1969 count of the neighbours= 3
+
+ the label is 1970 count of the neighbours= 66
+
+ the label is 1971 count of the neighbours= 165
+
+ the label is 1972 count of the neighbours= 59
+
+ the label is 1973 count of the neighbours= 51
+
+ the label is 1974 count of the neighbours= 5
+
+ the label is 1975 count of the neighbours= 31
+
+ the label is 1976 count of the neighbours= 31
+
+ the label is 1977 count of the neighbours= 7
+
+ the label is 1978 count of the neighbours= 13
+
+ the label is 1979 count of the neighbours= 164
+
+ the label is 1980 count of the neighbours= 44
+
+ the label is 1981 count of the neighbours= 50
+
+ the label is 1982 count of the neighbours= 18
+
+ the label is 1983 count of the neighbours= 185
+
+ the label is 1984 count of the neighbours= 164
+
+ the label is 1985 count of the neighbours= 207
+
+ the label is 1986 count of the neighbours= 143
+
+ the label is 1987 count of the neighbours= 33
+
+ the label is 1988 count of the neighbours= 21
+
+ the label is 1989 count of the neighbours= 78
+
+ the label is 1990 count of the neighbours= 15
+
+ the label is 1991 count of the neighbours= 37
+
+ the label is 1992 count of the neighbours= 13
+
+ the label is 1993 count of the neighbours= 183
+
+ the label is 1994 count of the neighbours= 54
+
+ the label is 1995 count of the neighbours= 47
+
+ the label is 1996 count of the neighbours= 3
+
+ the label is 1997 count of the neighbours= 123
+
+ the label is 1998 count of the neighbours= 41
+
+ the label is 1999 count of the neighbours= 23
+
+ the label is 2000 count of the neighbours= 23
+
+ the label is 2001 count of the neighbours= 42
+
+ the label is 2002 count of the neighbours= 75
+
+ the label is 2003 count of the neighbours= 39
+
+ the label is 2004 count of the neighbours= 32
+
+ the label is 2005 count of the neighbours= 137
+
+ the label is 2006 count of the neighbours= 33
+
+ the label is 2007 count of the neighbours= 149
+
+ the label is 2008 count of the neighbours= 6
+
+ the label is 2009 count of the neighbours= 27
+
+ the label is 2010 count of the neighbours= 71
+
+ the label is 2011 count of the neighbours= 23
+
+ the label is 2012 count of the neighbours= 8
+
+ the label is 2013 count of the neighbours= 3
+
+ the label is 2014 count of the neighbours= 6
+
+ the label is 2015 count of the neighbours= 3
+
+ the label is 2016 count of the neighbours= 11
+
+ the label is 2017 count of the neighbours= 5
+
+ the label is 2018 count of the neighbours= 31
+
+ the label is 2019 count of the neighbours= 16
+
+ the label is 2020 count of the neighbours= 140
+
+ the label is 2021 count of the neighbours= 24
+
+ the label is 2022 count of the neighbours= 27
+
+ the label is 2023 count of the neighbours= 21
+
+ the label is 2024 count of the neighbours= 28
+
+ the label is 2025 count of the neighbours= 18
+
+ the label is 2026 count of the neighbours= 83
+
+ the label is 2027 count of the neighbours= 24
+
+ the label is 2028 count of the neighbours= 92
+
+ the label is 2029 count of the neighbours= 29
+
+ the label is 2030 count of the neighbours= 164
+
+ the label is 2031 count of the neighbours= 46
+
+ the label is 2032 count of the neighbours= 125
+
+ the label is 2033 count of the neighbours= 152
+
+ the label is 2034 count of the neighbours= 7
+
+ the label is 2035 count of the neighbours= 23
+
+ the label is 2036 count of the neighbours= 16
+
+ the label is 2037 count of the neighbours= 149
+
+ the label is 2038 count of the neighbours= 107
+
+ the label is 2039 count of the neighbours= 92
+
+ the label is 2040 count of the neighbours= 132
+
+ the label is 2041 count of the neighbours= 5
+
+ the label is 2042 count of the neighbours= 79
+
+ the label is 2043 count of the neighbours= 150
+
+ the label is 2044 count of the neighbours= 20
+
+ the label is 2045 count of the neighbours= 151
+
+ the label is 2046 count of the neighbours= 100
+
+ the label is 2047 count of the neighbours= 174
+
+ the label is 2048 count of the neighbours= 16
+
+ the label is 2049 count of the neighbours= 28
+
+ the label is 2050 count of the neighbours= 13
+
+ the label is 2051 count of the neighbours= 8
+
+ the label is 2052 count of the neighbours= 85
+
+ the label is 2053 count of the neighbours= 97
+
+ the label is 2054 count of the neighbours= 133
+
+ the label is 2055 count of the neighbours= 57
+
+ the label is 2056 count of the neighbours= 98
+
+ the label is 2057 count of the neighbours= 34
+
+ the label is 2058 count of the neighbours= 61
+
+ the label is 2059 count of the neighbours= 162
+
+ the label is 2060 count of the neighbours= 87
+
+ the label is 2061 count of the neighbours= 27
+
+ the label is 2062 count of the neighbours= 60
+
+ the label is 2063 count of the neighbours= 118
+
+ the label is 2064 count of the neighbours= 152
+
+ the label is 2065 count of the neighbours= 19
+
+ the label is 2066 count of the neighbours= 5
+
+ the label is 2067 count of the neighbours= 27
+
+ the label is 2068 count of the neighbours= 111
+
+ the label is 2069 count of the neighbours= 139
+
+ the label is 2070 count of the neighbours= 11
+
+ the label is 2071 count of the neighbours= 98
+
+ the label is 2072 count of the neighbours= 99
+
+ the label is 2073 count of the neighbours= 161
+
+ the label is 2074 count of the neighbours= 130
+
+ the label is 2075 count of the neighbours= 36
+
+ the label is 2076 count of the neighbours= 15
+
+ the label is 2077 count of the neighbours= 100
+
+ the label is 2078 count of the neighbours= 162
+
+ the label is 2079 count of the neighbours= 0
+
+ the label is 2080 count of the neighbours= 7
+
+ the label is 2081 count of the neighbours= 129
+
+ the label is 2082 count of the neighbours= 14
+
+ the label is 2083 count of the neighbours= 117
+
+ the label is 2084 count of the neighbours= 109
+
+ the label is 2085 count of the neighbours= 24
+
+ the label is 2086 count of the neighbours= 108
+
+ the label is 2087 count of the neighbours= 117
+
+ the label is 2088 count of the neighbours= 154
+
+ the label is 2089 count of the neighbours= 17
+
+ the label is 2090 count of the neighbours= 148
+
+ the label is 2091 count of the neighbours= 26
+
+ the label is 2092 count of the neighbours= 32
+
+ the label is 2093 count of the neighbours= 136
+
+ the label is 2094 count of the neighbours= 6
+
+ the label is 2095 count of the neighbours= 115
+
+ the label is 2096 count of the neighbours= 15
+
+ the label is 2097 count of the neighbours= 18
+
+ the label is 2098 count of the neighbours= 86
+
+ the label is 2099 count of the neighbours= 11
+
+ the label is 2100 count of the neighbours= 5
+
+ the label is 2101 count of the neighbours= 55
+
+ the label is 2102 count of the neighbours= 100
+
+ the label is 2103 count of the neighbours= 143
+
+ the label is 2104 count of the neighbours= 133
+
+ the label is 2105 count of the neighbours= 8
+
+ the label is 2106 count of the neighbours= 3
+
+ the label is 2107 count of the neighbours= 30
+
+ the label is 2108 count of the neighbours= 121
+
+ the label is 2109 count of the neighbours= 99
+
+ the label is 2110 count of the neighbours= 29
+
+ the label is 2111 count of the neighbours= 138
+
+ the label is 2112 count of the neighbours= 117
+
+ the label is 2113 count of the neighbours= 7
+
+ the label is 2114 count of the neighbours= 10
+
+ the label is 2115 count of the neighbours= 97
+
+ the label is 2116 count of the neighbours= 36
+
+ the label is 2117 count of the neighbours= 104
+
+ the label is 2118 count of the neighbours= 138
+
+ the label is 2119 count of the neighbours= 12
+
+ the label is 2120 count of the neighbours= 15
+
+ the label is 2121 count of the neighbours= 113
+
+ the label is 2122 count of the neighbours= 105
+
+ the label is 2123 count of the neighbours= 147
+
+ the label is 2124 count of the neighbours= 122
+
+ the label is 2125 count of the neighbours= 85
+
+ the label is 2126 count of the neighbours= 34
+
+ the label is 2127 count of the neighbours= 82
+
+ the label is 2128 count of the neighbours= 65
+
+ the label is 2129 count of the neighbours= 26
+
+ the label is 2130 count of the neighbours= 9
+
+ the label is 2131 count of the neighbours= 143
+
+ the label is 2132 count of the neighbours= 67
+
+ the label is 2133 count of the neighbours= 120
+
+ the label is 2134 count of the neighbours= 55
+
+ the label is 2135 count of the neighbours= 60
+
+ the label is 2136 count of the neighbours= 47
+
+ the label is 2137 count of the neighbours= 33
+
+ the label is 2138 count of the neighbours= 94
+
+ the label is 2139 count of the neighbours= 125
+
+ the label is 2140 count of the neighbours= 118
+
+ the label is 2141 count of the neighbours= 16
+
+ the label is 2142 count of the neighbours= 153
+
+ the label is 2143 count of the neighbours= 63
+
+ the label is 2144 count of the neighbours= 53
+
+ the label is 2145 count of the neighbours= 29
+
+ the label is 2146 count of the neighbours= 15
+
+ the label is 2147 count of the neighbours= 28
+
+ the label is 2148 count of the neighbours= 58
+
+ the label is 2149 count of the neighbours= 87
+
+ the label is 2150 count of the neighbours= 132
+
+ the label is 2151 count of the neighbours= 54
+
+ the label is 2152 count of the neighbours= 7
+
+ the label is 2153 count of the neighbours= 89
+
+ the label is 2154 count of the neighbours= 108
+
+ the label is 2155 count of the neighbours= 33
+
+ the label is 2156 count of the neighbours= 16
+
+ the label is 2157 count of the neighbours= 18
+
+ the label is 2158 count of the neighbours= 7
+
+ the label is 2159 count of the neighbours= 20
+
+ the label is 2160 count of the neighbours= 13
+
+ the label is 2161 count of the neighbours= 56
+
+ the label is 2162 count of the neighbours= 8
+
+ the label is 2163 count of the neighbours= 18
+
+ the label is 2164 count of the neighbours= 64
+
+ the label is 2165 count of the neighbours= 85
+
+ the label is 2166 count of the neighbours= 5
+
+ the label is 2167 count of the neighbours= 3
+
+ the label is 2168 count of the neighbours= 1
+
+ the label is 2169 count of the neighbours= 69
+
+ the label is 2170 count of the neighbours= 14
+
+ the label is 2171 count of the neighbours= 30
+
+ the label is 2172 count of the neighbours= 129
+
+ the label is 2173 count of the neighbours= 16
+
+ the label is 2174 count of the neighbours= 76
+
+ the label is 2175 count of the neighbours= 4
+
+ the label is 2176 count of the neighbours= 72
+
+ the label is 2177 count of the neighbours= 9
+
+ the label is 2178 count of the neighbours= 2
+
+ the label is 2179 count of the neighbours= 61
+
+ the label is 2180 count of the neighbours= 73
+
+ the label is 2181 count of the neighbours= 11
+
+ the label is 2182 count of the neighbours= 5
+
+ the label is 2183 count of the neighbours= 78
+
+ the label is 2184 count of the neighbours= 122
+
+ the label is 2185 count of the neighbours= 6
+
+ the label is 2186 count of the neighbours= 11
+
+ the label is 2187 count of the neighbours= 92
+
+ the label is 2188 count of the neighbours= 126
+
+ the label is 2189 count of the neighbours= 72
+
+ the label is 2190 count of the neighbours= 106
+
+ the label is 2191 count of the neighbours= 51
+
+ the label is 2192 count of the neighbours= 20
+
+ the label is 2193 count of the neighbours= 7
+
+ the label is 2194 count of the neighbours= 63
+
+ the label is 2195 count of the neighbours= 0
+
+ the label is 2196 count of the neighbours= 60
+
+ the label is 2197 count of the neighbours= 10
+
+ the label is 2198 count of the neighbours= 31
+
+ the label is 2199 count of the neighbours= 104
+
+ the label is 2200 count of the neighbours= 109
+
+ the label is 2201 count of the neighbours= 119
+
+ the label is 2202 count of the neighbours= 23
+
+ the label is 2203 count of the neighbours= 53
+
+ the label is 2204 count of the neighbours= 2
+
+ the label is 2205 count of the neighbours= 7
+
+ the label is 2206 count of the neighbours= 132
+
+ the label is 2207 count of the neighbours= 16
+
+ the label is 2208 count of the neighbours= 14
+
+ the label is 2209 count of the neighbours= 21
+
+ the label is 2210 count of the neighbours= 60
+
+ the label is 2211 count of the neighbours= 31
+
+ the label is 2212 count of the neighbours= 89
+
+ the label is 2213 count of the neighbours= 67
+
+ the label is 2214 count of the neighbours= 17
+
+ the label is 2215 count of the neighbours= 28
+
+ the label is 2216 count of the neighbours= 79
+
+ the label is 2217 count of the neighbours= 10
+
+ the label is 2218 count of the neighbours= 123
+
+ the label is 2219 count of the neighbours= 2
+
+ the label is 2220 count of the neighbours= 118
+
+ the label is 2221 count of the neighbours= 24
+
+ the label is 2222 count of the neighbours= 26
+
+ the label is 2223 count of the neighbours= 67
+
+ the label is 2224 count of the neighbours= 69
+
+ the label is 2225 count of the neighbours= 13
+
+ the label is 2226 count of the neighbours= 31
+
+ the label is 2227 count of the neighbours= 5
+
+ the label is 2228 count of the neighbours= 20
+
+ the label is 2229 count of the neighbours= 124
+
+ the label is 2230 count of the neighbours= 3
+
+ the label is 2231 count of the neighbours= 20
+
+ the label is 2232 count of the neighbours= 41
+
+ the label is 2233 count of the neighbours= 131
+
+ the label is 2234 count of the neighbours= 19
+
+ the label is 2235 count of the neighbours= 43
+
+ the label is 2236 count of the neighbours= 18
+
+ the label is 2237 count of the neighbours= 75
+
+ the label is 2238 count of the neighbours= 9
+
+ the label is 2239 count of the neighbours= 22
+
+ the label is 2240 count of the neighbours= 121
+
+ the label is 2241 count of the neighbours= 60
+
+ the label is 2242 count of the neighbours= 21
+
+ the label is 2243 count of the neighbours= 35
+
+ the label is 2244 count of the neighbours= 115
+
+ the label is 2245 count of the neighbours= 4
+
+ the label is 2246 count of the neighbours= 47
+
+ the label is 2247 count of the neighbours= 63
+
+ the label is 2248 count of the neighbours= 9
+
+ the label is 2249 count of the neighbours= 11
+
+ the label is 2250 count of the neighbours= 56
+
+ the label is 2251 count of the neighbours= 3
+
+ the label is 2252 count of the neighbours= 6
+
+ the label is 2253 count of the neighbours= 91
+
+ the label is 2254 count of the neighbours= 42
+
+ the label is 2255 count of the neighbours= 5
+
+ the label is 2256 count of the neighbours= 2
+
+ the label is 2257 count of the neighbours= 87
+
+ the label is 2258 count of the neighbours= 29
+
+ the label is 2259 count of the neighbours= 33
+
+ the label is 2260 count of the neighbours= 5
+
+ the label is 2261 count of the neighbours= 69
+
+ the label is 2262 count of the neighbours= 8
+
+ the label is 2263 count of the neighbours= 5
+
+ the label is 2264 count of the neighbours= 32
+
+ the label is 2265 count of the neighbours= 3
+
+ the label is 2266 count of the neighbours= 133
+
+ the label is 2267 count of the neighbours= 38
+
+ the label is 2268 count of the neighbours= 63
+
+ the label is 2269 count of the neighbours= 0
+
+ the label is 2270 count of the neighbours= 8
+
+ the label is 2271 count of the neighbours= 91
+
+ the label is 2272 count of the neighbours= 14
+
+ the label is 2273 count of the neighbours= 38
+
+ the label is 2274 count of the neighbours= 17
+
+ the label is 2275 count of the neighbours= 99
+
+ the label is 2276 count of the neighbours= 81
+
+ the label is 2277 count of the neighbours= 8
+
+ the label is 2278 count of the neighbours= 91
+
+ the label is 2279 count of the neighbours= 61
+
+ the label is 2280 count of the neighbours= 30
+
+ the label is 2281 count of the neighbours= 3
+
+ the label is 2282 count of the neighbours= 75
+
+ the label is 2283 count of the neighbours= 75
+
+ the label is 2284 count of the neighbours= 21
+
+ the label is 2285 count of the neighbours= 27
+
+ the label is 2286 count of the neighbours= 11
+
+ the label is 2287 count of the neighbours= 34
+
+ the label is 2288 count of the neighbours= 9
+
+ the label is 2289 count of the neighbours= 73
+
+ the label is 2290 count of the neighbours= 92
+
+ the label is 2291 count of the neighbours= 5
+
+ the label is 2292 count of the neighbours= 61
+
+ the label is 2293 count of the neighbours= 24
+
+ the label is 2294 count of the neighbours= 52
+
+ the label is 2295 count of the neighbours= 11
+
+ the label is 2296 count of the neighbours= 16
+
+ the label is 2297 count of the neighbours= 15
+
+ the label is 2298 count of the neighbours= 9
+
+ the label is 2299 count of the neighbours= 80
+
+ the label is 2300 count of the neighbours= 59
+
+ the label is 2301 count of the neighbours= 3
+
+ the label is 2302 count of the neighbours= 47
+
+ the label is 2303 count of the neighbours= 9
+
+ the label is 2304 count of the neighbours= 34
+
+ the label is 2305 count of the neighbours= 4
+
+ the label is 2306 count of the neighbours= 56
+
+ the label is 2307 count of the neighbours= 72
+
+ the label is 2308 count of the neighbours= 74
+
+ the label is 2309 count of the neighbours= 99
+
+ the label is 2310 count of the neighbours= 9
+
+ the label is 2311 count of the neighbours= 24
+
+ the label is 2312 count of the neighbours= 10
+
+ the label is 2313 count of the neighbours= 40
+
+ the label is 2314 count of the neighbours= 8
+
+ the label is 2315 count of the neighbours= 28
+
+ the label is 2316 count of the neighbours= 4
+
+ the label is 2317 count of the neighbours= 19
+
+ the label is 2318 count of the neighbours= 13
+
+ the label is 2319 count of the neighbours= 48
+
+ the label is 2320 count of the neighbours= 9
+
+ the label is 2321 count of the neighbours= 2
+
+ the label is 2322 count of the neighbours= 20
+
+ the label is 2323 count of the neighbours= 86
+
+ the label is 2324 count of the neighbours= 92
+
+ the label is 2325 count of the neighbours= 29
+
+ the label is 2326 count of the neighbours= 86
+
+ the label is 2327 count of the neighbours= 54
+
+ the label is 2328 count of the neighbours= 65
+
+ the label is 2329 count of the neighbours= 53
+
+ the label is 2330 count of the neighbours= 17
+
+ the label is 2331 count of the neighbours= 90
+
+ the label is 2332 count of the neighbours= 38
+
+ the label is 2333 count of the neighbours= 57
+
+ the label is 2334 count of the neighbours= 67
+
+ the label is 2335 count of the neighbours= 11
+
+ the label is 2336 count of the neighbours= 55
+
+ the label is 2337 count of the neighbours= 13
+
+ the label is 2338 count of the neighbours= 36
+
+ the label is 2339 count of the neighbours= 83
+
+ the label is 2340 count of the neighbours= 93
+
+ the label is 2341 count of the neighbours= 5
+
+ the label is 2342 count of the neighbours= 14
+
+ the label is 2343 count of the neighbours= 22
+
+ the label is 2344 count of the neighbours= 43
+
+ the label is 2345 count of the neighbours= 22
+
+ the label is 2346 count of the neighbours= 17
+
+ the label is 2347 count of the neighbours= 114
+
+ the label is 2348 count of the neighbours= 65
+
+ the label is 2349 count of the neighbours= 10
+
+ the label is 2350 count of the neighbours= 9
+
+ the label is 2351 count of the neighbours= 31
+
+ the label is 2352 count of the neighbours= 69
+
+ the label is 2353 count of the neighbours= 35
+
+ the label is 2354 count of the neighbours= 74
+
+ the label is 2355 count of the neighbours= 13
+
+ the label is 2356 count of the neighbours= 70
+
+ the label is 2357 count of the neighbours= 4
+
+ the label is 2358 count of the neighbours= 1
+
+ the label is 2359 count of the neighbours= 61
+
+ the label is 2360 count of the neighbours= 1
+
+ the label is 2361 count of the neighbours= 14
+
+ the label is 2362 count of the neighbours= 8
+
+ the label is 2363 count of the neighbours= 68
+
+ the label is 2364 count of the neighbours= 21
+
+ the label is 2365 count of the neighbours= 14
+
+ the label is 2366 count of the neighbours= 8
+
+ the label is 2367 count of the neighbours= 16
+
+ the label is 2368 count of the neighbours= 21
+
+ the label is 2369 count of the neighbours= 82
+
+ the label is 2370 count of the neighbours= 59
+
+ the label is 2371 count of the neighbours= 7
+
+ the label is 2372 count of the neighbours= 29
+
+ the label is 2373 count of the neighbours= 3
+
+ the label is 2374 count of the neighbours= 69
+
+ the label is 2375 count of the neighbours= 3
+
+ the label is 2376 count of the neighbours= 70
+
+ the label is 2377 count of the neighbours= 34
+
+ the label is 2378 count of the neighbours= 13
+
+ the label is 2379 count of the neighbours= 10
+
+ the label is 2380 count of the neighbours= 1
+
+ the label is 2381 count of the neighbours= 70
+
+ the label is 2382 count of the neighbours= 1
+
+ the label is 2383 count of the neighbours= 10
+
+ the label is 2384 count of the neighbours= 62
+
+ the label is 2385 count of the neighbours= 9
+
+ the label is 2386 count of the neighbours= 54
+
+ the label is 2387 count of the neighbours= 19
+
+ the label is 2388 count of the neighbours= 0
+
+ the label is 2389 count of the neighbours= 9
+
+ the label is 2390 count of the neighbours= 15
+
+ the label is 2391 count of the neighbours= 19
+
+ the label is 2392 count of the neighbours= 41
+
+ the label is 2393 count of the neighbours= 7
+
+ the label is 2394 count of the neighbours= 32
+
+ the label is 2395 count of the neighbours= 63
+
+ the label is 2396 count of the neighbours= 22
+
+ the label is 2397 count of the neighbours= 12
+
+ the label is 2398 count of the neighbours= 40
+
+ the label is 2399 count of the neighbours= 24
+
+ the label is 2400 count of the neighbours= 6
+
+ the label is 2401 count of the neighbours= 9
+
+ the label is 2402 count of the neighbours= 3
+
+ the label is 2403 count of the neighbours= 5
+
+ the label is 2404 count of the neighbours= 55
+
+ the label is 2405 count of the neighbours= 3
+
+ the label is 2406 count of the neighbours= 6
+
+ the label is 2407 count of the neighbours= 31
+
+ the label is 2408 count of the neighbours= 54
+
+ the label is 2409 count of the neighbours= 60
+
+ the label is 2410 count of the neighbours= 74
+
+ the label is 2411 count of the neighbours= 6
+
+ the label is 2412 count of the neighbours= 7
+
+ the label is 2413 count of the neighbours= 4
+
+ the label is 2414 count of the neighbours= 63
+
+ the label is 2415 count of the neighbours= 11
+
+ the label is 2416 count of the neighbours= 10
+
+ the label is 2417 count of the neighbours= 16
+
+ the label is 2418 count of the neighbours= 37
+
+ the label is 2419 count of the neighbours= 33
+
+ the label is 2420 count of the neighbours= 20
+
+ the label is 2421 count of the neighbours= 2
+
+ the label is 2422 count of the neighbours= 2
+
+ the label is 2423 count of the neighbours= 49
+
+ the label is 2424 count of the neighbours= 4
+
+ the label is 2425 count of the neighbours= 11
+
+ the label is 2426 count of the neighbours= 9
+
+ the label is 2427 count of the neighbours= 8
+
+ the label is 2428 count of the neighbours= 60
+
+ the label is 2429 count of the neighbours= 23
+
+ the label is 2430 count of the neighbours= 45
+
+ the label is 2431 count of the neighbours= 2
+
+ the label is 2432 count of the neighbours= 7
+
+ the label is 2433 count of the neighbours= 46
+
+ the label is 2434 count of the neighbours= 16
+
+ the label is 2435 count of the neighbours= 5
+
+ the label is 2436 count of the neighbours= 26
+
+ the label is 2437 count of the neighbours= 0
+
+ the label is 2438 count of the neighbours= 16
+
+ the label is 2439 count of the neighbours= 5
+
+ the label is 2440 count of the neighbours= 7
+
+ the label is 2441 count of the neighbours= 1
+
+ the label is 2442 count of the neighbours= 1
+
+ the label is 2443 count of the neighbours= 7
+
+ the label is 2444 count of the neighbours= 6
+
+ the label is 2445 count of the neighbours= 18
+
+ the label is 2446 count of the neighbours= 49
+
+ the label is 2447 count of the neighbours= 13
+
+ the label is 2448 count of the neighbours= 7
+
+ the label is 2449 count of the neighbours= 13
+
+ the label is 2450 count of the neighbours= 4
+
+ the label is 2451 count of the neighbours= 25
+
+ the label is 2452 count of the neighbours= 2
+
+ the label is 2453 count of the neighbours= 2
+
+ the label is 2454 count of the neighbours= 5
+
+ the label is 2455 count of the neighbours= 1
+
+ the label is 2456 count of the neighbours= 1
+
+ the label is 2457 count of the neighbours= 0
+
+ the label is 2458 count of the neighbours= 21
+
+ the label is 2459 count of the neighbours= 8
+
+ the label is 2460 count of the neighbours= 54
+
+ the label is 2461 count of the neighbours= 26
+
+ the label is 2462 count of the neighbours= 21
+
+ the label is 2463 count of the neighbours= 29
+
+ the label is 2464 count of the neighbours= 62
+
+ the label is 2465 count of the neighbours= 15
+
+ the label is 2466 count of the neighbours= 1
+
+ the label is 2467 count of the neighbours= 33
+
+ the label is 2468 count of the neighbours= 48
+
+ the label is 2469 count of the neighbours= 37
+
+ the label is 2470 count of the neighbours= 0
+
+ the label is 2471 count of the neighbours= 30
+
+ the label is 2472 count of the neighbours= 14
+
+ the label is 2473 count of the neighbours= 13
+
+ the label is 2474 count of the neighbours= 7
+
+ the label is 2475 count of the neighbours= 12
+
+ the label is 2476 count of the neighbours= 6
+
+ the label is 2477 count of the neighbours= 28
+
+ the label is 2478 count of the neighbours= 22
+
+ the label is 2479 count of the neighbours= 6
+
+ the label is 2480 count of the neighbours= 5
+
+ the label is 2481 count of the neighbours= 1
+
+ the label is 2482 count of the neighbours= 42
+
+ the label is 2483 count of the neighbours= 2
+
+ the label is 2484 count of the neighbours= 35
+
+ the label is 2485 count of the neighbours= 36
+
+ the label is 2486 count of the neighbours= 5
+
+ the label is 2487 count of the neighbours= 1
+
+ the label is 2488 count of the neighbours= 4
+
+ the label is 2489 count of the neighbours= 22
+
+ the label is 2490 count of the neighbours= 4
+
+ the label is 2491 count of the neighbours= 22
+
+ the label is 2492 count of the neighbours= 43
+
+ the label is 2493 count of the neighbours= 1
+
+ the label is 2494 count of the neighbours= 9
+
+ the label is 2495 count of the neighbours= 37
+
+ the label is 2496 count of the neighbours= 3
+
+ the label is 2497 count of the neighbours= 3
+
+ the label is 2498 count of the neighbours= 11
+
+ the label is 2499 count of the neighbours= 22
+
+ the label is 2500 count of the neighbours= 44
+
+ the label is 2501 count of the neighbours= 13
+
+ the label is 2502 count of the neighbours= 12
+
+ the label is 2503 count of the neighbours= 1
+
+ the label is 2504 count of the neighbours= 35
+
+ the label is 2505 count of the neighbours= 1
+
+ the label is 2506 count of the neighbours= 30
+
+ the label is 2507 count of the neighbours= 44
+
+ the label is 2508 count of the neighbours= 15
+
+ the label is 2509 count of the neighbours= 21
+
+ the label is 2510 count of the neighbours= 26
+
+ the label is 2511 count of the neighbours= 19
+
+ the label is 2512 count of the neighbours= 14
+
+ the label is 2513 count of the neighbours= 2
+
+ the label is 2514 count of the neighbours= 2
+
+ the label is 2515 count of the neighbours= 3
+
+ the label is 2516 count of the neighbours= 14
+
+ the label is 2517 count of the neighbours= 0
+
+ the label is 2518 count of the neighbours= 6
+
+ the label is 2519 count of the neighbours= 5
+
+ the label is 2520 count of the neighbours= 34
+
+ the label is 2521 count of the neighbours= 31
+
+ the label is 2522 count of the neighbours= 2
+
+ the label is 2523 count of the neighbours= 2
+
+ the label is 2524 count of the neighbours= 2
+
+ the label is 2525 count of the neighbours= 6
+
+ the label is 2526 count of the neighbours= 37
+
+ the label is 2527 count of the neighbours= 1
+
+ the label is 2528 count of the neighbours= 2
+
+ the label is 2529 count of the neighbours= 6
+
+ the label is 2530 count of the neighbours= 3
+
+ the label is 2531 count of the neighbours= 4
+
+ the label is 2532 count of the neighbours= 25
+
+ the label is 2533 count of the neighbours= 14
+
+ the label is 2534 count of the neighbours= 1
+
+ the label is 2535 count of the neighbours= 1
+
+ the label is 2536 count of the neighbours= 10
+
+ the label is 2537 count of the neighbours= 13
+
+ the label is 2538 count of the neighbours= 10
+
+ the label is 2539 count of the neighbours= 26
+
+ the label is 2540 count of the neighbours= 4
+
+ the label is 2541 count of the neighbours= 0
+
+ the label is 2542 count of the neighbours= 37
+
+ the label is 2543 count of the neighbours= 48
+
+ the label is 2544 count of the neighbours= 1
+
+ the label is 2545 count of the neighbours= 0
+
+ the label is 2546 count of the neighbours= 29
+
+ the label is 2547 count of the neighbours= 3
+
+ the label is 2548 count of the neighbours= 1
+
+ the label is 2549 count of the neighbours= 27
+
+ the label is 2550 count of the neighbours= 30
+
+ the label is 2551 count of the neighbours= 29
+
+ the label is 2552 count of the neighbours= 20
+
+ the label is 2553 count of the neighbours= 26
+
+ the label is 2554 count of the neighbours= 16
+
+ the label is 2555 count of the neighbours= 16
+
+ the label is 2556 count of the neighbours= 21
+
+ the label is 2557 count of the neighbours= 5
+
+ the label is 2558 count of the neighbours= 4
+
+ the label is 2559 count of the neighbours= 27
+
+ the label is 2560 count of the neighbours= 29
+
+ the label is 2561 count of the neighbours= 21
+
+ the label is 2562 count of the neighbours= 2
+
+ the label is 2563 count of the neighbours= 17
+
+ the label is 2564 count of the neighbours= 26
+
+ the label is 2565 count of the neighbours= 1
+
+ the label is 2566 count of the neighbours= 2
+
+ the label is 2567 count of the neighbours= 12
+
+ the label is 2568 count of the neighbours= 1
+
+ the label is 2569 count of the neighbours= 0
+
+ the label is 2570 count of the neighbours= 2
+
+ the label is 2571 count of the neighbours= 3
+
+ the label is 2572 count of the neighbours= 0
+
+ the label is 2573 count of the neighbours= 19
+
+ the label is 2574 count of the neighbours= 13
+
+ the label is 2575 count of the neighbours= 18
+
+ the label is 2576 count of the neighbours= 5
+
+ the label is 2577 count of the neighbours= 2
+
+ the label is 2578 count of the neighbours= 21
+
+ the label is 2579 count of the neighbours= 13
+
+ the label is 2580 count of the neighbours= 0
+
+ the label is 2581 count of the neighbours= 1
+
+ the label is 2582 count of the neighbours= 6
+
+ the label is 2583 count of the neighbours= 10
+
+ the label is 2584 count of the neighbours= 1
+
+ the label is 2585 count of the neighbours= 9
+
+ the label is 2586 count of the neighbours= 20
+
+ the label is 2587 count of the neighbours= 0
+
+ the label is 2588 count of the neighbours= 6
+
+ the label is 2589 count of the neighbours= 7
+
+ the label is 2590 count of the neighbours= 20
+
+ the label is 2591 count of the neighbours= 10
+
+ the label is 2592 count of the neighbours= 9
+
+ the label is 2593 count of the neighbours= 16
+
+ the label is 2594 count of the neighbours= 3
+
+ the label is 2595 count of the neighbours= 0
+
+ the label is 2596 count of the neighbours= 0
+
+ the label is 2597 count of the neighbours= 7
+
+ the label is 2598 count of the neighbours= 10
+
+ the label is 2599 count of the neighbours= 2
+
+ the label is 2600 count of the neighbours= 15
+
+ the label is 2601 count of the neighbours= 14
+
+ the label is 2602 count of the neighbours= 16
+
+ the label is 2603 count of the neighbours= 3
+
+ the label is 2604 count of the neighbours= 14
+
+ the label is 2605 count of the neighbours= 2
+
+ the label is 2606 count of the neighbours= 8
+
+ the label is 2607 count of the neighbours= 12
+
+ the label is 2608 count of the neighbours= 3
+
+ the label is 2609 count of the neighbours= 2
+
+ the label is 2610 count of the neighbours= 4
+
+ the label is 2611 count of the neighbours= 10
+
+ the label is 2612 count of the neighbours= 0
+
+ the label is 2613 count of the neighbours= 1
+
+ the label is 2614 count of the neighbours= 3
+
+ the label is 2615 count of the neighbours= 10
+
+ the label is 2616 count of the neighbours= 4
+
+ the label is 2617 count of the neighbours= 3
+
+ the label is 2618 count of the neighbours= 1
+
+ the label is 2619 count of the neighbours= 7
+
+ the label is 2620 count of the neighbours= 10
+
+ the label is 2621 count of the neighbours= 0
+
+ the label is 2622 count of the neighbours= 1
+
+ the label is 2623 count of the neighbours= 4
+
+ the label is 2624 count of the neighbours= 7
+
+ the label is 2625 count of the neighbours= 6
+
+ the label is 2626 count of the neighbours= 6
+
+ the label is 2627 count of the neighbours= 9
+
+ the label is 2628 count of the neighbours= 1
+
+ the label is 2629 count of the neighbours= 3
+
+ the label is 2630 count of the neighbours= 4
+
+ the label is 2631 count of the neighbours= 1
+
+ the label is 2632 count of the neighbours= 0
+
+ the label is 2633 count of the neighbours= 7
+
+ the label is 2634 count of the neighbours= 0
+
+ the label is 2635 count of the neighbours= 0
+
+ the label is 2636 count of the neighbours= 4
+
+ the label is 2637 count of the neighbours= 1
+
+ the label is 2638 count of the neighbours= 3
+
+ the label is 2639 count of the neighbours= 3
+
+ the label is 2640 count of the neighbours= 5
+
+ the label is 2641 count of the neighbours= 1
+
+ the label is 2642 count of the neighbours= 3
+
+ the label is 2643 count of the neighbours= 1
+
+ the label is 2644 count of the neighbours= 0
+
+ the label is 2645 count of the neighbours= 6
+
+ the label is 2646 count of the neighbours= 1
+
+ the label is 2647 count of the neighbours= 3
+
+ the label is 2648 count of the neighbours= 3
+
+ the label is 2649 count of the neighbours= 0
+
+ the label is 2650 count of the neighbours= 0
+
+ the label is 2651 count of the neighbours= 0
+
+ the label is 2652 count of the neighbours= 0
+
+ the label is 2653 count of the neighbours= 0
+
+ the label is 2654 count of the neighbours= 1
+
+ the label is 2655 count of the neighbours= 0
+
+ the label is 2656 count of the neighbours= 0
+
+ the label is 2657 count of the neighbours= 3
+
+ the label is 2658 count of the neighbours= 2
+
+ the label is 2659 count of the neighbours= 1
+
+ the label is 2660 count of the neighbours= 0
+
+ the label is 2661 count of the neighbours= 98
+
+ the label is 2662 count of the neighbours= 36
+
+ the label is 2663 count of the neighbours= 25
+
+ the label is 2664 count of the neighbours= 82
+
+ the label is 2665 count of the neighbours= 49
+
+ the label is 2666 count of the neighbours= 60
+
+ the label is 2667 count of the neighbours= 19
+
+ the label is 2668 count of the neighbours= 33
+
+ the label is 2669 count of the neighbours= 94
+
+ the label is 2670 count of the neighbours= 18
+
+ the label is 2671 count of the neighbours= 5
+
+ the label is 2672 count of the neighbours= 36
+
+ the label is 2673 count of the neighbours= 27
+
+ the label is 2674 count of the neighbours= 68
+
+ the label is 2675 count of the neighbours= 36
+
+ the label is 2676 count of the neighbours= 79
+
+ the label is 2677 count of the neighbours= 11
+
+ the label is 2678 count of the neighbours= 5
+
+ the label is 2679 count of the neighbours= 91
+
+ the label is 2680 count of the neighbours= 51
+
+ the label is 2681 count of the neighbours= 43
+
+ the label is 2682 count of the neighbours= 15
+
+ the label is 2683 count of the neighbours= 73
+
+ the label is 2684 count of the neighbours= 26
+
+ the label is 2685 count of the neighbours= 11
+
+ the label is 2686 count of the neighbours= 22
+
+ the label is 2687 count of the neighbours= 19
+
+ the label is 2688 count of the neighbours= 9
+
+ the label is 2689 count of the neighbours= 59
+
+ the label is 2690 count of the neighbours= 29
+
+ the label is 2691 count of the neighbours= 2
+
+ the label is 2692 count of the neighbours= 3
+
+ the label is 2693 count of the neighbours= 14
+
+ the label is 2694 count of the neighbours= 86
+
+ the label is 2695 count of the neighbours= 10
+
+ the label is 2696 count of the neighbours= 18
+
+ the label is 2697 count of the neighbours= 14
+
+ the label is 2698 count of the neighbours= 64
+
+ the label is 2699 count of the neighbours= 11
+
+ the label is 2700 count of the neighbours= 14
+
+ the label is 2701 count of the neighbours= 23
+
+ the label is 2702 count of the neighbours= 20
+
+ the label is 2703 count of the neighbours= 15
+
+ the label is 2704 count of the neighbours= 0
+
+ the label is 2705 count of the neighbours= 22
+
+ the label is 2706 count of the neighbours= 61
+
+ the label is 2707 count of the neighbours= 13
+
+ the label is 2708 count of the neighbours= 29
+
+ the label is 2709 count of the neighbours= 10
+
+ the label is 2710 count of the neighbours= 11
+
+ the label is 2711 count of the neighbours= 28
+
+ the label is 2712 count of the neighbours= 43
+
+ the label is 2713 count of the neighbours= 30
+
+ the label is 2714 count of the neighbours= 1
+
+ the label is 2715 count of the neighbours= 31
+
+ the label is 2716 count of the neighbours= 89
+
+ the label is 2717 count of the neighbours= 48
+
+ the label is 2718 count of the neighbours= 36
+
+ the label is 2719 count of the neighbours= 93
+
+ the label is 2720 count of the neighbours= 46
+
+ the label is 2721 count of the neighbours= 4
+
+ the label is 2722 count of the neighbours= 2
+
+ the label is 2723 count of the neighbours= 8
+
+ the label is 2724 count of the neighbours= 64
+
+ the label is 2725 count of the neighbours= 4
+
+ the label is 2726 count of the neighbours= 15
+
+ the label is 2727 count of the neighbours= 11
+
+ the label is 2728 count of the neighbours= 34
+
+ the label is 2729 count of the neighbours= 57
+
+ the label is 2730 count of the neighbours= 82
+
+ the label is 2731 count of the neighbours= 25
+
+ the label is 2732 count of the neighbours= 7
+
+ the label is 2733 count of the neighbours= 23
+
+ the label is 2734 count of the neighbours= 24
+
+ the label is 2735 count of the neighbours= 15
+
+ the label is 2736 count of the neighbours= 4
+
+ the label is 2737 count of the neighbours= 15
+
+ the label is 2738 count of the neighbours= 72
+
+ the label is 2739 count of the neighbours= 27
+
+ the label is 2740 count of the neighbours= 0
+
+ the label is 2741 count of the neighbours= 52
+
+ the label is 2742 count of the neighbours= 109
+
+ the label is 2743 count of the neighbours= 42
+
+ the label is 2744 count of the neighbours= 11
+
+ the label is 2745 count of the neighbours= 29
+
+ the label is 2746 count of the neighbours= 13
+
+ the label is 2747 count of the neighbours= 11
+
+ the label is 2748 count of the neighbours= 68
+
+ the label is 2749 count of the neighbours= 45
+
+ the label is 2750 count of the neighbours= 74
+
+ the label is 2751 count of the neighbours= 31
+
+ the label is 2752 count of the neighbours= 4
+
+ the label is 2753 count of the neighbours= 44
+
+ the label is 2754 count of the neighbours= 102
+
+ the label is 2755 count of the neighbours= 77
+
+ the label is 2756 count of the neighbours= 38
+
+ the label is 2757 count of the neighbours= 69
+
+ the label is 2758 count of the neighbours= 41
+
+ the label is 2759 count of the neighbours= 20
+
+ the label is 2760 count of the neighbours= 6
+
+ the label is 2761 count of the neighbours= 22
+
+ the label is 2762 count of the neighbours= 17
+
+ the label is 2763 count of the neighbours= 51
+
+ the label is 2764 count of the neighbours= 16
+
+ the label is 2765 count of the neighbours= 42
+
+ the label is 2766 count of the neighbours= 10
+
+ the label is 2767 count of the neighbours= 4
+
+ the label is 2768 count of the neighbours= 26
+
+ the label is 2769 count of the neighbours= 9
+
+ the label is 2770 count of the neighbours= 36
+
+ the label is 2771 count of the neighbours= 12
+
+ the label is 2772 count of the neighbours= 27
+
+ the label is 2773 count of the neighbours= 47
+
+ the label is 2774 count of the neighbours= 5
+
+ the label is 2775 count of the neighbours= 21
+
+ the label is 2776 count of the neighbours= 5
+
+ the label is 2777 count of the neighbours= 66
+
+ the label is 2778 count of the neighbours= 86
+
+ the label is 2779 count of the neighbours= 16
+
+ the label is 2780 count of the neighbours= 48
+
+ the label is 2781 count of the neighbours= 56
+
+ the label is 2782 count of the neighbours= 80
+
+ the label is 2783 count of the neighbours= 28
+
+ the label is 2784 count of the neighbours= 22
+
+ the label is 2785 count of the neighbours= 34
+
+ the label is 2786 count of the neighbours= 78
+
+ the label is 2787 count of the neighbours= 39
+
+ the label is 2788 count of the neighbours= 1
+
+ the label is 2789 count of the neighbours= 15
+
+ the label is 2790 count of the neighbours= 5
+
+ the label is 2791 count of the neighbours= 9
+
+ the label is 2792 count of the neighbours= 1
+
+ the label is 2793 count of the neighbours= 87
+
+ the label is 2794 count of the neighbours= 14
+
+ the label is 2795 count of the neighbours= 18
+
+ the label is 2796 count of the neighbours= 49
+
+ the label is 2797 count of the neighbours= 19
+
+ the label is 2798 count of the neighbours= 1
+
+ the label is 2799 count of the neighbours= 7
+
+ the label is 2800 count of the neighbours= 63
+
+ the label is 2801 count of the neighbours= 7
+
+ the label is 2802 count of the neighbours= 8
+
+ the label is 2803 count of the neighbours= 18
+
+ the label is 2804 count of the neighbours= 7
+
+ the label is 2805 count of the neighbours= 7
+
+ the label is 2806 count of the neighbours= 37
+
+ the label is 2807 count of the neighbours= 17
+
+ the label is 2808 count of the neighbours= 1
+
+ the label is 2809 count of the neighbours= 15
+
+ the label is 2810 count of the neighbours= 41
+
+ the label is 2811 count of the neighbours= 5
+
+ the label is 2812 count of the neighbours= 16
+
+ the label is 2813 count of the neighbours= 17
+
+ the label is 2814 count of the neighbours= 0
+
+ the label is 2815 count of the neighbours= 41
+
+ the label is 2816 count of the neighbours= 8
+
+ the label is 2817 count of the neighbours= 3
+
+ the label is 2818 count of the neighbours= 7
+
+ the label is 2819 count of the neighbours= 20
+
+ the label is 2820 count of the neighbours= 11
+
+ the label is 2821 count of the neighbours= 7
+
+ the label is 2822 count of the neighbours= 8
+
+ the label is 2823 count of the neighbours= 30
+
+ the label is 2824 count of the neighbours= 3
+
+ the label is 2825 count of the neighbours= 15
+
+ the label is 2826 count of the neighbours= 5
+
+ the label is 2827 count of the neighbours= 58
+
+ the label is 2828 count of the neighbours= 66
+
+ the label is 2829 count of the neighbours= 22
+
+ the label is 2830 count of the neighbours= 16
+
+ the label is 2831 count of the neighbours= 13
+
+ the label is 2832 count of the neighbours= 23
+
+ the label is 2833 count of the neighbours= 72
+
+ the label is 2834 count of the neighbours= 6
+
+ the label is 2835 count of the neighbours= 31
+
+ the label is 2836 count of the neighbours= 21
+
+ the label is 2837 count of the neighbours= 9
+
+ the label is 2838 count of the neighbours= 1
+
+ the label is 2839 count of the neighbours= 98
+
+ the label is 2840 count of the neighbours= 28
+
+ the label is 2841 count of the neighbours= 24
+
+ the label is 2842 count of the neighbours= 0
+
+ the label is 2843 count of the neighbours= 20
+
+ the label is 2844 count of the neighbours= 20
+
+ the label is 2845 count of the neighbours= 18
+
+ the label is 2846 count of the neighbours= 20
+
+ the label is 2847 count of the neighbours= 11
+
+ the label is 2848 count of the neighbours= 14
+
+ the label is 2849 count of the neighbours= 66
+
+ the label is 2850 count of the neighbours= 29
+
+ the label is 2851 count of the neighbours= 16
+
+ the label is 2852 count of the neighbours= 7
+
+ the label is 2853 count of the neighbours= 48
+
+ the label is 2854 count of the neighbours= 27
+
+ the label is 2855 count of the neighbours= 3
+
+ the label is 2856 count of the neighbours= 12
+
+ the label is 2857 count of the neighbours= 1
+
+ the label is 2858 count of the neighbours= 13
+
+ the label is 2859 count of the neighbours= 13
+
+ the label is 2860 count of the neighbours= 2
+
+ the label is 2861 count of the neighbours= 8
+
+ the label is 2862 count of the neighbours= 53
+
+ the label is 2863 count of the neighbours= 77
+
+ the label is 2864 count of the neighbours= 48
+
+ the label is 2865 count of the neighbours= 26
+
+ the label is 2866 count of the neighbours= 59
+
+ the label is 2867 count of the neighbours= 55
+
+ the label is 2868 count of the neighbours= 12
+
+ the label is 2869 count of the neighbours= 50
+
+ the label is 2870 count of the neighbours= 18
+
+ the label is 2871 count of the neighbours= 33
+
+ the label is 2872 count of the neighbours= 55
+
+ the label is 2873 count of the neighbours= 54
+
+ the label is 2874 count of the neighbours= 31
+
+ the label is 2875 count of the neighbours= 37
+
+ the label is 2876 count of the neighbours= 10
+
+ the label is 2877 count of the neighbours= 76
+
+ the label is 2878 count of the neighbours= 8
+
+ the label is 2879 count of the neighbours= 13
+
+ the label is 2880 count of the neighbours= 46
+
+ the label is 2881 count of the neighbours= 30
+
+ the label is 2882 count of the neighbours= 6
+
+ the label is 2883 count of the neighbours= 7
+
+ the label is 2884 count of the neighbours= 4
+
+ the label is 2885 count of the neighbours= 1
+
+ the label is 2886 count of the neighbours= 9
+
+ the label is 2887 count of the neighbours= 27
+
+ the label is 2888 count of the neighbours= 8
+
+ the label is 2889 count of the neighbours= 13
+
+ the label is 2890 count of the neighbours= 61
+
+ the label is 2891 count of the neighbours= 14
+
+ the label is 2892 count of the neighbours= 22
+
+ the label is 2893 count of the neighbours= 5
+
+ the label is 2894 count of the neighbours= 41
+
+ the label is 2895 count of the neighbours= 7
+
+ the label is 2896 count of the neighbours= 29
+
+ the label is 2897 count of the neighbours= 34
+
+ the label is 2898 count of the neighbours= 4
+
+ the label is 2899 count of the neighbours= 3
+
+ the label is 2900 count of the neighbours= 9
+
+ the label is 2901 count of the neighbours= 55
+
+ the label is 2902 count of the neighbours= 5
+
+ the label is 2903 count of the neighbours= 2
+
+ the label is 2904 count of the neighbours= 49
+
+ the label is 2905 count of the neighbours= 47
+
+ the label is 2906 count of the neighbours= 60
+
+ the label is 2907 count of the neighbours= 20
+
+ the label is 2908 count of the neighbours= 14
+
+ the label is 2909 count of the neighbours= 46
+
+ the label is 2910 count of the neighbours= 47
+
+ the label is 2911 count of the neighbours= 40
+
+ the label is 2912 count of the neighbours= 31
+
+ the label is 2913 count of the neighbours= 44
+
+ the label is 2914 count of the neighbours= 31
+
+ the label is 2915 count of the neighbours= 58
+
+ the label is 2916 count of the neighbours= 49
+
+ the label is 2917 count of the neighbours= 7
+
+ the label is 2918 count of the neighbours= 14
+
+ the label is 2919 count of the neighbours= 37
+
+ the label is 2920 count of the neighbours= 34
+
+ the label is 2921 count of the neighbours= 29
+
+ the label is 2922 count of the neighbours= 1
+
+ the label is 2923 count of the neighbours= 8
+
+ the label is 2924 count of the neighbours= 21
+
+ the label is 2925 count of the neighbours= 41
+
+ the label is 2926 count of the neighbours= 9
+
+ the label is 2927 count of the neighbours= 52
+
+ the label is 2928 count of the neighbours= 51
+
+ the label is 2929 count of the neighbours= 25
+
+ the label is 2930 count of the neighbours= 5
+
+ the label is 2931 count of the neighbours= 30
+
+ the label is 2932 count of the neighbours= 25
+
+ the label is 2933 count of the neighbours= 13
+
+ the label is 2934 count of the neighbours= 13
+
+ the label is 2935 count of the neighbours= 10
+
+ the label is 2936 count of the neighbours= 45
+
+ the label is 2937 count of the neighbours= 41
+
+ the label is 2938 count of the neighbours= 14
+
+ the label is 2939 count of the neighbours= 48
+
+ the label is 2940 count of the neighbours= 28
+
+ the label is 2941 count of the neighbours= 5
+
+ the label is 2942 count of the neighbours= 5
+
+ the label is 2943 count of the neighbours= 35
+
+ the label is 2944 count of the neighbours= 52
+
+ the label is 2945 count of the neighbours= 24
+
+ the label is 2946 count of the neighbours= 31
+
+ the label is 2947 count of the neighbours= 13
+
+ the label is 2948 count of the neighbours= 12
+
+ the label is 2949 count of the neighbours= 15
+
+ the label is 2950 count of the neighbours= 38
+
+ the label is 2951 count of the neighbours= 76
+
+ the label is 2952 count of the neighbours= 1
+
+ the label is 2953 count of the neighbours= 17
+
+ the label is 2954 count of the neighbours= 7
+
+ the label is 2955 count of the neighbours= 28
+
+ the label is 2956 count of the neighbours= 47
+
+ the label is 2957 count of the neighbours= 8
+
+ the label is 2958 count of the neighbours= 31
+
+ the label is 2959 count of the neighbours= 10
+
+ the label is 2960 count of the neighbours= 44
+
+ the label is 2961 count of the neighbours= 7
+
+ the label is 2962 count of the neighbours= 8
+
+ the label is 2963 count of the neighbours= 3
+
+ the label is 2964 count of the neighbours= 11
+
+ the label is 2965 count of the neighbours= 12
+
+ the label is 2966 count of the neighbours= 52
+
+ the label is 2967 count of the neighbours= 10
+
+ the label is 2968 count of the neighbours= 7
+
+ the label is 2969 count of the neighbours= 28
+
+ the label is 2970 count of the neighbours= 35
+
+ the label is 2971 count of the neighbours= 0
+
+ the label is 2972 count of the neighbours= 9
+
+ the label is 2973 count of the neighbours= 54
+
+ the label is 2974 count of the neighbours= 23
+
+ the label is 2975 count of the neighbours= 1
+
+ the label is 2976 count of the neighbours= 26
+
+ the label is 2977 count of the neighbours= 15
+
+ the label is 2978 count of the neighbours= 14
+
+ the label is 2979 count of the neighbours= 6
+
+ the label is 2980 count of the neighbours= 2
+
+ the label is 2981 count of the neighbours= 13
+
+ the label is 2982 count of the neighbours= 8
+
+ the label is 2983 count of the neighbours= 12
+
+ the label is 2984 count of the neighbours= 14
+
+ the label is 2985 count of the neighbours= 25
+
+ the label is 2986 count of the neighbours= 37
+
+ the label is 2987 count of the neighbours= 17
+
+ the label is 2988 count of the neighbours= 25
+
+ the label is 2989 count of the neighbours= 38
+
+ the label is 2990 count of the neighbours= 6
+
+ the label is 2991 count of the neighbours= 41
+
+ the label is 2992 count of the neighbours= 47
+
+ the label is 2993 count of the neighbours= 29
+
+ the label is 2994 count of the neighbours= 28
+
+ the label is 2995 count of the neighbours= 9
+
+ the label is 2996 count of the neighbours= 27
+
+ the label is 2997 count of the neighbours= 7
+
+ the label is 2998 count of the neighbours= 1
+
+ the label is 2999 count of the neighbours= 13
+
+ the label is 3000 count of the neighbours= 37
+
+ the label is 3001 count of the neighbours= 18
+
+ the label is 3002 count of the neighbours= 49
+
+ the label is 3003 count of the neighbours= 0
+
+ the label is 3004 count of the neighbours= 15
+
+ the label is 3005 count of the neighbours= 32
+
+ the label is 3006 count of the neighbours= 0
+
+ the label is 3007 count of the neighbours= 12
+
+ the label is 3008 count of the neighbours= 7
+
+ the label is 3009 count of the neighbours= 10
+
+ the label is 3010 count of the neighbours= 16
+
+ the label is 3011 count of the neighbours= 21
+
+ the label is 3012 count of the neighbours= 4
+
+ the label is 3013 count of the neighbours= 15
+
+ the label is 3014 count of the neighbours= 16
+
+ the label is 3015 count of the neighbours= 4
+
+ the label is 3016 count of the neighbours= 16
+
+ the label is 3017 count of the neighbours= 42
+
+ the label is 3018 count of the neighbours= 20
+
+ the label is 3019 count of the neighbours= 39
+
+ the label is 3020 count of the neighbours= 14
+
+ the label is 3021 count of the neighbours= 35
+
+ the label is 3022 count of the neighbours= 32
+
+ the label is 3023 count of the neighbours= 10
+
+ the label is 3024 count of the neighbours= 10
+
+ the label is 3025 count of the neighbours= 24
+
+ the label is 3026 count of the neighbours= 40
+
+ the label is 3027 count of the neighbours= 32
+
+ the label is 3028 count of the neighbours= 4
+
+ the label is 3029 count of the neighbours= 18
+
+ the label is 3030 count of the neighbours= 4
+
+ the label is 3031 count of the neighbours= 0
+
+ the label is 3032 count of the neighbours= 13
+
+ the label is 3033 count of the neighbours= 35
+
+ the label is 3034 count of the neighbours= 29
+
+ the label is 3035 count of the neighbours= 54
+
+ the label is 3036 count of the neighbours= 16
+
+ the label is 3037 count of the neighbours= 0
+
+ the label is 3038 count of the neighbours= 56
+
+ the label is 3039 count of the neighbours= 15
+
+ the label is 3040 count of the neighbours= 21
+
+ the label is 3041 count of the neighbours= 14
+
+ the label is 3042 count of the neighbours= 10
+
+ the label is 3043 count of the neighbours= 8
+
+ the label is 3044 count of the neighbours= 2
+
+ the label is 3045 count of the neighbours= 3
+
+ the label is 3046 count of the neighbours= 20
+
+ the label is 3047 count of the neighbours= 15
+
+ the label is 3048 count of the neighbours= 8
+
+ the label is 3049 count of the neighbours= 45
+
+ the label is 3050 count of the neighbours= 6
+
+ the label is 3051 count of the neighbours= 58
+
+ the label is 3052 count of the neighbours= 20
+
+ the label is 3053 count of the neighbours= 7
+
+ the label is 3054 count of the neighbours= 28
+
+ the label is 3055 count of the neighbours= 3
+
+ the label is 3056 count of the neighbours= 25
+
+ the label is 3057 count of the neighbours= 7
+
+ the label is 3058 count of the neighbours= 7
+
+ the label is 3059 count of the neighbours= 1
+
+ the label is 3060 count of the neighbours= 42
+
+ the label is 3061 count of the neighbours= 6
+
+ the label is 3062 count of the neighbours= 16
+
+ the label is 3063 count of the neighbours= 3
+
+ the label is 3064 count of the neighbours= 18
+
+ the label is 3065 count of the neighbours= 17
+
+ the label is 3066 count of the neighbours= 7
+
+ the label is 3067 count of the neighbours= 7
+
+ the label is 3068 count of the neighbours= 8
+
+ the label is 3069 count of the neighbours= 9
+
+ the label is 3070 count of the neighbours= 35
+
+ the label is 3071 count of the neighbours= 0
+
+ the label is 3072 count of the neighbours= 23
+
+ the label is 3073 count of the neighbours= 14
+
+ the label is 3074 count of the neighbours= 2
+
+ the label is 3075 count of the neighbours= 6
+
+ the label is 3076 count of the neighbours= 50
+
+ the label is 3077 count of the neighbours= 31
+
+ the label is 3078 count of the neighbours= 26
+
+ the label is 3079 count of the neighbours= 15
+
+ the label is 3080 count of the neighbours= 12
+
+ the label is 3081 count of the neighbours= 11
+
+ the label is 3082 count of the neighbours= 65
+
+ the label is 3083 count of the neighbours= 3
+
+ the label is 3084 count of the neighbours= 27
+
+ the label is 3085 count of the neighbours= 11
+
+ the label is 3086 count of the neighbours= 21
+
+ the label is 3087 count of the neighbours= 27
+
+ the label is 3088 count of the neighbours= 6
+
+ the label is 3089 count of the neighbours= 28
+
+ the label is 3090 count of the neighbours= 33
+
+ the label is 3091 count of the neighbours= 0
+
+ the label is 3092 count of the neighbours= 7
+
+ the label is 3093 count of the neighbours= 9
+
+ the label is 3094 count of the neighbours= 3
+
+ the label is 3095 count of the neighbours= 8
+
+ the label is 3096 count of the neighbours= 20
+
+ the label is 3097 count of the neighbours= 21
+
+ the label is 3098 count of the neighbours= 16
+
+ the label is 3099 count of the neighbours= 4
+
+ the label is 3100 count of the neighbours= 15
+
+ the label is 3101 count of the neighbours= 64
+
+ the label is 3102 count of the neighbours= 25
+
+ the label is 3103 count of the neighbours= 11
+
+ the label is 3104 count of the neighbours= 19
+
+ the label is 3105 count of the neighbours= 6
+
+ the label is 3106 count of the neighbours= 33
+
+ the label is 3107 count of the neighbours= 25
+
+ the label is 3108 count of the neighbours= 11
+
+ the label is 3109 count of the neighbours= 7
+
+ the label is 3110 count of the neighbours= 9
+
+ the label is 3111 count of the neighbours= 32
+
+ the label is 3112 count of the neighbours= 6
+
+ the label is 3113 count of the neighbours= 36
+
+ the label is 3114 count of the neighbours= 14
+
+ the label is 3115 count of the neighbours= 31
+
+ the label is 3116 count of the neighbours= 53
+
+ the label is 3117 count of the neighbours= 17
+
+ the label is 3118 count of the neighbours= 19
+
+ the label is 3119 count of the neighbours= 14
+
+ the label is 3120 count of the neighbours= 39
+
+ the label is 3121 count of the neighbours= 0
+
+ the label is 3122 count of the neighbours= 4
+
+ the label is 3123 count of the neighbours= 9
+
+ the label is 3124 count of the neighbours= 13
+
+ the label is 3125 count of the neighbours= 0
+
+ the label is 3126 count of the neighbours= 3
+
+ the label is 3127 count of the neighbours= 1
+
+ the label is 3128 count of the neighbours= 2
+
+ the label is 3129 count of the neighbours= 10
+
+ the label is 3130 count of the neighbours= 1
+
+ the label is 3131 count of the neighbours= 4
+
+ the label is 3132 count of the neighbours= 44
+
+ the label is 3133 count of the neighbours= 3
+
+ the label is 3134 count of the neighbours= 0
+
+ the label is 3135 count of the neighbours= 7
+
+ the label is 3136 count of the neighbours= 28
+
+ the label is 3137 count of the neighbours= 16
+
+ the label is 3138 count of the neighbours= 7
+
+ the label is 3139 count of the neighbours= 8
+
+ the label is 3140 count of the neighbours= 34
+
+ the label is 3141 count of the neighbours= 5
+
+ the label is 3142 count of the neighbours= 13
+
+ the label is 3143 count of the neighbours= 1
+
+ the label is 3144 count of the neighbours= 8
+
+ the label is 3145 count of the neighbours= 33
+
+ the label is 3146 count of the neighbours= 27
+
+ the label is 3147 count of the neighbours= 0
+
+ the label is 3148 count of the neighbours= 16
+
+ the label is 3149 count of the neighbours= 14
+
+ the label is 3150 count of the neighbours= 38
+
+ the label is 3151 count of the neighbours= 7
+
+ the label is 3152 count of the neighbours= 38
+
+ the label is 3153 count of the neighbours= 3
+
+ the label is 3154 count of the neighbours= 35
+
+ the label is 3155 count of the neighbours= 1
+
+ the label is 3156 count of the neighbours= 7
+
+ the label is 3157 count of the neighbours= 6
+
+ the label is 3158 count of the neighbours= 11
+
+ the label is 3159 count of the neighbours= 3
+
+ the label is 3160 count of the neighbours= 9
+
+ the label is 3161 count of the neighbours= 3
+
+ the label is 3162 count of the neighbours= 22
+
+ the label is 3163 count of the neighbours= 5
+
+ the label is 3164 count of the neighbours= 1
+
+ the label is 3165 count of the neighbours= 1
+
+ the label is 3166 count of the neighbours= 5
+
+ the label is 3167 count of the neighbours= 8
+
+ the label is 3168 count of the neighbours= 15
+
+ the label is 3169 count of the neighbours= 24
+
+ the label is 3170 count of the neighbours= 14
+
+ the label is 3171 count of the neighbours= 5
+
+ the label is 3172 count of the neighbours= 32
+
+ the label is 3173 count of the neighbours= 6
+
+ the label is 3174 count of the neighbours= 13
+
+ the label is 3175 count of the neighbours= 2
+
+ the label is 3176 count of the neighbours= 11
+
+ the label is 3177 count of the neighbours= 15
+
+ the label is 3178 count of the neighbours= 8
+
+ the label is 3179 count of the neighbours= 22
+
+ the label is 3180 count of the neighbours= 3
+
+ the label is 3181 count of the neighbours= 2
+
+ the label is 3182 count of the neighbours= 25
+
+ the label is 3183 count of the neighbours= 0
+
+ the label is 3184 count of the neighbours= 14
+
+ the label is 3185 count of the neighbours= 29
+
+ the label is 3186 count of the neighbours= 7
+
+ the label is 3187 count of the neighbours= 15
+
+ the label is 3188 count of the neighbours= 20
+
+ the label is 3189 count of the neighbours= 8
+
+ the label is 3190 count of the neighbours= 6
+
+ the label is 3191 count of the neighbours= 16
+
+ the label is 3192 count of the neighbours= 5
+
+ the label is 3193 count of the neighbours= 6
+
+ the label is 3194 count of the neighbours= 6
+
+ the label is 3195 count of the neighbours= 11
+
+ the label is 3196 count of the neighbours= 15
+
+ the label is 3197 count of the neighbours= 6
+
+ the label is 3198 count of the neighbours= 27
+
+ the label is 3199 count of the neighbours= 9
+
+ the label is 3200 count of the neighbours= 3
+
+ the label is 3201 count of the neighbours= 32
+
+ the label is 3202 count of the neighbours= 2
+
+ the label is 3203 count of the neighbours= 16
+
+ the label is 3204 count of the neighbours= 16
+
+ the label is 3205 count of the neighbours= 7
+
+ the label is 3206 count of the neighbours= 16
+
+ the label is 3207 count of the neighbours= 15
+
+ the label is 3208 count of the neighbours= 3
+
+ the label is 3209 count of the neighbours= 6
+
+ the label is 3210 count of the neighbours= 7
+
+ the label is 3211 count of the neighbours= 6
+
+ the label is 3212 count of the neighbours= 9
+
+ the label is 3213 count of the neighbours= 7
+
+ the label is 3214 count of the neighbours= 17
+
+ the label is 3215 count of the neighbours= 8
+
+ the label is 3216 count of the neighbours= 0
+
+ the label is 3217 count of the neighbours= 1
+
+ the label is 3218 count of the neighbours= 1
+
+ the label is 3219 count of the neighbours= 17
+
+ the label is 3220 count of the neighbours= 7
+
+ the label is 3221 count of the neighbours= 7
+
+ the label is 3222 count of the neighbours= 4
+
+ the label is 3223 count of the neighbours= 10
+
+ the label is 3224 count of the neighbours= 23
+
+ the label is 3225 count of the neighbours= 11
+
+ the label is 3226 count of the neighbours= 11
+
+ the label is 3227 count of the neighbours= 2
+
+ the label is 3228 count of the neighbours= 5
+
+ the label is 3229 count of the neighbours= 3
+
+ the label is 3230 count of the neighbours= 0
+
+ the label is 3231 count of the neighbours= 5
+
+ the label is 3232 count of the neighbours= 13
+
+ the label is 3233 count of the neighbours= 15
+
+ the label is 3234 count of the neighbours= 8
+
+ the label is 3235 count of the neighbours= 3
+
+ the label is 3236 count of the neighbours= 6
+
+ the label is 3237 count of the neighbours= 7
+
+ the label is 3238 count of the neighbours= 6
+
+ the label is 3239 count of the neighbours= 24
+
+ the label is 3240 count of the neighbours= 24
+
+ the label is 3241 count of the neighbours= 5
+
+ the label is 3242 count of the neighbours= 3
+
+ the label is 3243 count of the neighbours= 6
+
+ the label is 3244 count of the neighbours= 1
+
+ the label is 3245 count of the neighbours= 3
+
+ the label is 3246 count of the neighbours= 3
+
+ the label is 3247 count of the neighbours= 20
+
+ the label is 3248 count of the neighbours= 9
+
+ the label is 3249 count of the neighbours= 2
+
+ the label is 3250 count of the neighbours= 2
+
+ the label is 3251 count of the neighbours= 1
+
+ the label is 3252 count of the neighbours= 27
+
+ the label is 3253 count of the neighbours= 11
+
+ the label is 3254 count of the neighbours= 5
+
+ the label is 3255 count of the neighbours= 4
+
+ the label is 3256 count of the neighbours= 18
+
+ the label is 3257 count of the neighbours= 7
+
+ the label is 3258 count of the neighbours= 12
+
+ the label is 3259 count of the neighbours= 9
+
+ the label is 3260 count of the neighbours= 9
+
+ the label is 3261 count of the neighbours= 17
+
+ the label is 3262 count of the neighbours= 5
+
+ the label is 3263 count of the neighbours= 9
+
+ the label is 3264 count of the neighbours= 7
+
+ the label is 3265 count of the neighbours= 9
+
+ the label is 3266 count of the neighbours= 3
+
+ the label is 3267 count of the neighbours= 19
+
+ the label is 3268 count of the neighbours= 1
+
+ the label is 3269 count of the neighbours= 1
+
+ the label is 3270 count of the neighbours= 0
+
+ the label is 3271 count of the neighbours= 0
+
+ the label is 3272 count of the neighbours= 13
+
+ the label is 3273 count of the neighbours= 5
+
+ the label is 3274 count of the neighbours= 15
+
+ the label is 3275 count of the neighbours= 6
+
+ the label is 3276 count of the neighbours= 4
+
+ the label is 3277 count of the neighbours= 16
+
+ the label is 3278 count of the neighbours= 2
+
+ the label is 3279 count of the neighbours= 6
+
+ the label is 3280 count of the neighbours= 24
+
+ the label is 3281 count of the neighbours= 5
+
+ the label is 3282 count of the neighbours= 0
+
+ the label is 3283 count of the neighbours= 6
+
+ the label is 3284 count of the neighbours= 6
+
+ the label is 3285 count of the neighbours= 5
+
+ the label is 3286 count of the neighbours= 3
+
+ the label is 3287 count of the neighbours= 10
+
+ the label is 3288 count of the neighbours= 14
+
+ the label is 3289 count of the neighbours= 4
+
+ the label is 3290 count of the neighbours= 0
+
+ the label is 3291 count of the neighbours= 30
+
+ the label is 3292 count of the neighbours= 3
+
+ the label is 3293 count of the neighbours= 9
+
+ the label is 3294 count of the neighbours= 5
+
+ the label is 3295 count of the neighbours= 7
+
+ the label is 3296 count of the neighbours= 11
+
+ the label is 3297 count of the neighbours= 9
+
+ the label is 3298 count of the neighbours= 8
+
+ the label is 3299 count of the neighbours= 14
+
+ the label is 3300 count of the neighbours= 3
+
+ the label is 3301 count of the neighbours= 4
+
+ the label is 3302 count of the neighbours= 10
+
+ the label is 3303 count of the neighbours= 3
+
+ the label is 3304 count of the neighbours= 2
+
+ the label is 3305 count of the neighbours= 1
+
+ the label is 3306 count of the neighbours= 4
+
+ the label is 3307 count of the neighbours= 3
+
+ the label is 3308 count of the neighbours= 2
+
+ the label is 3309 count of the neighbours= 6
+
+ the label is 3310 count of the neighbours= 0
+
+ the label is 3311 count of the neighbours= 3
+
+ the label is 3312 count of the neighbours= 2
+
+ the label is 3313 count of the neighbours= 2
+
+ the label is 3314 count of the neighbours= 4
+
+ the label is 3315 count of the neighbours= 1
+
+ the label is 3316 count of the neighbours= 5
+
+ the label is 3317 count of the neighbours= 1
+
+ the label is 3318 count of the neighbours= 3
+
+ the label is 3319 count of the neighbours= 5
+
+ the label is 3320 count of the neighbours= 20
+
+ the label is 3321 count of the neighbours= 16
+
+ the label is 3322 count of the neighbours= 1
+
+ the label is 3323 count of the neighbours= 1
+
+ the label is 3324 count of the neighbours= 8
+
+ the label is 3325 count of the neighbours= 3
+
+ the label is 3326 count of the neighbours= 4
+
+ the label is 3327 count of the neighbours= 7
+
+ the label is 3328 count of the neighbours= 2
+
+ the label is 3329 count of the neighbours= 3
+
+ the label is 3330 count of the neighbours= 19
+
+ the label is 3331 count of the neighbours= 6
+
+ the label is 3332 count of the neighbours= 9
+
+ the label is 3333 count of the neighbours= 2
+
+ the label is 3334 count of the neighbours= 1
+
+ the label is 3335 count of the neighbours= 9
+
+ the label is 3336 count of the neighbours= 0
+
+ the label is 3337 count of the neighbours= 1
+
+ the label is 3338 count of the neighbours= 5
+
+ the label is 3339 count of the neighbours= 7
+
+ the label is 3340 count of the neighbours= 1
+
+ the label is 3341 count of the neighbours= 3
+
+ the label is 3342 count of the neighbours= 10
+
+ the label is 3343 count of the neighbours= 1
+
+ the label is 3344 count of the neighbours= 10
+
+ the label is 3345 count of the neighbours= 9
+
+ the label is 3346 count of the neighbours= 5
+
+ the label is 3347 count of the neighbours= 11
+
+ the label is 3348 count of the neighbours= 5
+
+ the label is 3349 count of the neighbours= 2
+
+ the label is 3350 count of the neighbours= 6
+
+ the label is 3351 count of the neighbours= 9
+
+ the label is 3352 count of the neighbours= 1
+
+ the label is 3353 count of the neighbours= 8
+
+ the label is 3354 count of the neighbours= 0
+
+ the label is 3355 count of the neighbours= 6
+
+ the label is 3356 count of the neighbours= 2
+
+ the label is 3357 count of the neighbours= 1
+
+ the label is 3358 count of the neighbours= 2
+
+ the label is 3359 count of the neighbours= 2
+
+ the label is 3360 count of the neighbours= 6
+
+ the label is 3361 count of the neighbours= 0
+
+ the label is 3362 count of the neighbours= 9
+
+ the label is 3363 count of the neighbours= 8
+
+ the label is 3364 count of the neighbours= 4
+
+ the label is 3365 count of the neighbours= 6
+
+ the label is 3366 count of the neighbours= 5
+
+ the label is 3367 count of the neighbours= 2
+
+ the label is 3368 count of the neighbours= 0
+
+ the label is 3369 count of the neighbours= 2
+
+ the label is 3370 count of the neighbours= 0
+
+ the label is 3371 count of the neighbours= 3
+
+ the label is 3372 count of the neighbours= 0
+
+ the label is 3373 count of the neighbours= 0
+
+ the label is 3374 count of the neighbours= 0
+
+ the label is 3375 count of the neighbours= 0
+
+ the label is 3376 count of the neighbours= 4
+
+ the label is 3377 count of the neighbours= 3
+
+ the label is 3378 count of the neighbours= 4
+
+ the label is 3379 count of the neighbours= 1
+
+ the label is 3380 count of the neighbours= 0
+
+ the label is 3381 count of the neighbours= 3
+
+ the label is 3382 count of the neighbours= 1
+
+ the label is 3383 count of the neighbours= 0
+
+ the label is 3384 count of the neighbours= 3
+
+ the label is 3385 count of the neighbours= 0
+
+ the label is 3386 count of the neighbours= 5
+
+ the label is 3387 count of the neighbours= 5
+
+ the label is 3388 count of the neighbours= 1
+
+ the label is 3389 count of the neighbours= 0
+
+ the label is 3390 count of the neighbours= 1
+
+ the label is 3391 count of the neighbours= 4
+
+ the label is 3392 count of the neighbours= 3
+
+ the label is 3393 count of the neighbours= 0
+
+ the label is 3394 count of the neighbours= 1
+
+ the label is 3395 count of the neighbours= 3
+
+ the label is 3396 count of the neighbours= 4
+
+ the label is 3397 count of the neighbours= 4
+
+ the label is 3398 count of the neighbours= 1
+
+ the label is 3399 count of the neighbours= 1
+
+ the label is 3400 count of the neighbours= 0
+
+ the label is 3401 count of the neighbours= 3
+
+ the label is 3402 count of the neighbours= 2
+
+ the label is 3403 count of the neighbours= 1
+
+ the label is 3404 count of the neighbours= 0
+
+ the label is 3405 count of the neighbours= 0
+
+ the label is 3406 count of the neighbours= 4
+
+ the label is 3407 count of the neighbours= 0
+
+ the label is 3408 count of the neighbours= 0
+
+ the label is 3409 count of the neighbours= 0
+
+ the label is 3410 count of the neighbours= 2
+
+ the label is 3411 count of the neighbours= 1
+
+ the label is 3412 count of the neighbours= 1
+
+ the label is 3413 count of the neighbours= 0
+
+ the label is 3414 count of the neighbours= 0
+
+ the label is 3415 count of the neighbours= 0
+
+ the label is 3416 count of the neighbours= 2
+
+ the label is 3417 count of the neighbours= 2
+
+ the label is 3418 count of the neighbours= 0
+
+ the label is 3419 count of the neighbours= 1
+
+ the label is 3420 count of the neighbours= 0
+
+ the label is 3421 count of the neighbours= 0
+
+ the label is 3422 count of the neighbours= 1
+
+ the label is 3423 count of the neighbours= 0
+
+ the label is 3424 count of the neighbours= 0
+
+ the label is 3425 count of the neighbours= 1
+
+ the label is 3426 count of the neighbours= 1
+
+ the label is 3427 count of the neighbours= 0
+
+ the label is 3428 count of the neighbours= 0
+
+ the label is 3429 count of the neighbours= 0
+
+ the label is 3430 count of the neighbours= 0
+
+ the label is 3431 count of the neighbours= 0
+
+ the label is 3432 count of the neighbours= 0
+
+ the label is 3433 count of the neighbours= 0
+
+ the label is 3434 count of the neighbours= 0
+
+ the label is 3435 count of the neighbours= 0
+
+ the label is 3436 count of the neighbours= 0
+
+ the label is 3437 count of the neighbours= 542
+
+ the label is 3438 count of the neighbours= 23
+
+ the label is 3439 count of the neighbours= 8
+
+ the label is 3440 count of the neighbours= 24
+
+ the label is 3441 count of the neighbours= 5
+
+ the label is 3442 count of the neighbours= 44
+
+ the label is 3443 count of the neighbours= 21
+
+ the label is 3444 count of the neighbours= 4
+
+ the label is 3445 count of the neighbours= 6
+
+ the label is 3446 count of the neighbours= 10
+
+ the label is 3447 count of the neighbours= 5
+
+ the label is 3448 count of the neighbours= 45
+
+ the label is 3449 count of the neighbours= 42
+
+ the label is 3450 count of the neighbours= 17
+
+ the label is 3451 count of the neighbours= 0
+
+ the label is 3452 count of the neighbours= 15
+
+ the label is 3453 count of the neighbours= 0
+
+ the label is 3454 count of the neighbours= 12
+
+ the label is 3455 count of the neighbours= 36
+
+ the label is 3456 count of the neighbours= 44
+
+ the label is 3457 count of the neighbours= 5
+
+ the label is 3458 count of the neighbours= 19
+
+ the label is 3459 count of the neighbours= 14
+
+ the label is 3460 count of the neighbours= 26
+
+ the label is 3461 count of the neighbours= 6
+
+ the label is 3462 count of the neighbours= 18
+
+ the label is 3463 count of the neighbours= 23
+
+ the label is 3464 count of the neighbours= 28
+
+ the label is 3465 count of the neighbours= 15
+
+ the label is 3466 count of the neighbours= 22
+
+ the label is 3467 count of the neighbours= 2
+
+ the label is 3468 count of the neighbours= 27
+
+ the label is 3469 count of the neighbours= 22
+
+ the label is 3470 count of the neighbours= 13
+
+ the label is 3471 count of the neighbours= 23
+
+ the label is 3472 count of the neighbours= 13
+
+ the label is 3473 count of the neighbours= 16
+
+ the label is 3474 count of the neighbours= 14
+
+ the label is 3475 count of the neighbours= 29
+
+ the label is 3476 count of the neighbours= 13
+
+ the label is 3477 count of the neighbours= 5
+
+ the label is 3478 count of the neighbours= 16
+
+ the label is 3479 count of the neighbours= 14
+
+ the label is 3480 count of the neighbours= 22
+
+ the label is 3481 count of the neighbours= 12
+
+ the label is 3482 count of the neighbours= 11
+
+ the label is 3483 count of the neighbours= 12
+
+ the label is 3484 count of the neighbours= 12
+
+ the label is 3485 count of the neighbours= 15
+
+ the label is 3486 count of the neighbours= 28
+
+ the label is 3487 count of the neighbours= 8
+
+ the label is 3488 count of the neighbours= 42
+
+ the label is 3489 count of the neighbours= 4
+
+ the label is 3490 count of the neighbours= 13
+
+ the label is 3491 count of the neighbours= 18
+
+ the label is 3492 count of the neighbours= 8
+
+ the label is 3493 count of the neighbours= 16
+
+ the label is 3494 count of the neighbours= 3
+
+ the label is 3495 count of the neighbours= 47
+
+ the label is 3496 count of the neighbours= 16
+
+ the label is 3497 count of the neighbours= 22
+
+ the label is 3498 count of the neighbours= 16
+
+ the label is 3499 count of the neighbours= 19
+
+ the label is 3500 count of the neighbours= 18
+
+ the label is 3501 count of the neighbours= 39
+
+ the label is 3502 count of the neighbours= 7
+
+ the label is 3503 count of the neighbours= 12
+
+ the label is 3504 count of the neighbours= 6
+
+ the label is 3505 count of the neighbours= 19
+
+ the label is 3506 count of the neighbours= 43
+
+ the label is 3507 count of the neighbours= 7
+
+ the label is 3508 count of the neighbours= 18
+
+ the label is 3509 count of the neighbours= 19
+
+ the label is 3510 count of the neighbours= 16
+
+ the label is 3511 count of the neighbours= 19
+
+ the label is 3512 count of the neighbours= 11
+
+ the label is 3513 count of the neighbours= 4
+
+ the label is 3514 count of the neighbours= 37
+
+ the label is 3515 count of the neighbours= 7
+
+ the label is 3516 count of the neighbours= 11
+
+ the label is 3517 count of the neighbours= 11
+
+ the label is 3518 count of the neighbours= 28
+
+ the label is 3519 count of the neighbours= 14
+
+ the label is 3520 count of the neighbours= 7
+
+ the label is 3521 count of the neighbours= 46
+
+ the label is 3522 count of the neighbours= 7
+
+ the label is 3523 count of the neighbours= 11
+
+ the label is 3524 count of the neighbours= 13
+
+ the label is 3525 count of the neighbours= 30
+
+ the label is 3526 count of the neighbours= 21
+
+ the label is 3527 count of the neighbours= 19
+
+ the label is 3528 count of the neighbours= 28
+
+ the label is 3529 count of the neighbours= 26
+
+ the label is 3530 count of the neighbours= 4
+
+ the label is 3531 count of the neighbours= 6
+
+ the label is 3532 count of the neighbours= 12
+
+ the label is 3533 count of the neighbours= 9
+
+ the label is 3534 count of the neighbours= 18
+
+ the label is 3535 count of the neighbours= 13
+
+ the label is 3536 count of the neighbours= 9
+
+ the label is 3537 count of the neighbours= 3
+
+ the label is 3538 count of the neighbours= 16
+
+ the label is 3539 count of the neighbours= 9
+
+ the label is 3540 count of the neighbours= 25
+
+ the label is 3541 count of the neighbours= 9
+
+ the label is 3542 count of the neighbours= 26
+
+ the label is 3543 count of the neighbours= 4
+
+ the label is 3544 count of the neighbours= 4
+
+ the label is 3545 count of the neighbours= 62
+
+ the label is 3546 count of the neighbours= 11
+
+ the label is 3547 count of the neighbours= 10
+
+ the label is 3548 count of the neighbours= 5
+
+ the label is 3549 count of the neighbours= 9
+
+ the label is 3550 count of the neighbours= 12
+
+ the label is 3551 count of the neighbours= 3
+
+ the label is 3552 count of the neighbours= 5
+
+ the label is 3553 count of the neighbours= 23
+
+ the label is 3554 count of the neighbours= 12
+
+ the label is 3555 count of the neighbours= 14
+
+ the label is 3556 count of the neighbours= 8
+
+ the label is 3557 count of the neighbours= 23
+
+ the label is 3558 count of the neighbours= 34
+
+ the label is 3559 count of the neighbours= 18
+
+ the label is 3560 count of the neighbours= 2
+
+ the label is 3561 count of the neighbours= 10
+
+ the label is 3562 count of the neighbours= 10
+
+ the label is 3563 count of the neighbours= 12
+
+ the label is 3564 count of the neighbours= 12
+
+ the label is 3565 count of the neighbours= 2
+
+ the label is 3566 count of the neighbours= 4
+
+ the label is 3567 count of the neighbours= 11
+
+ the label is 3568 count of the neighbours= 25
+
+ the label is 3569 count of the neighbours= 20
+
+ the label is 3570 count of the neighbours= 0
+
+ the label is 3571 count of the neighbours= 14
+
+ the label is 3572 count of the neighbours= 6
+
+ the label is 3573 count of the neighbours= 13
+
+ the label is 3574 count of the neighbours= 13
+
+ the label is 3575 count of the neighbours= 2
+
+ the label is 3576 count of the neighbours= 29
+
+ the label is 3577 count of the neighbours= 39
+
+ the label is 3578 count of the neighbours= 20
+
+ the label is 3579 count of the neighbours= 11
+
+ the label is 3580 count of the neighbours= 4
+
+ the label is 3581 count of the neighbours= 6
+
+ the label is 3582 count of the neighbours= 1
+
+ the label is 3583 count of the neighbours= 5
+
+ the label is 3584 count of the neighbours= 39
+
+ the label is 3585 count of the neighbours= 3
+
+ the label is 3586 count of the neighbours= 28
+
+ the label is 3587 count of the neighbours= 14
+
+ the label is 3588 count of the neighbours= 2
+
+ the label is 3589 count of the neighbours= 1
+
+ the label is 3590 count of the neighbours= 22
+
+ the label is 3591 count of the neighbours= 13
+
+ the label is 3592 count of the neighbours= 7
+
+ the label is 3593 count of the neighbours= 31
+
+ the label is 3594 count of the neighbours= 6
+
+ the label is 3595 count of the neighbours= 9
+
+ the label is 3596 count of the neighbours= 60
+
+ the label is 3597 count of the neighbours= 0
+
+ the label is 3598 count of the neighbours= 4
+
+ the label is 3599 count of the neighbours= 25
+
+ the label is 3600 count of the neighbours= 3
+
+ the label is 3601 count of the neighbours= 12
+
+ the label is 3602 count of the neighbours= 9
+
+ the label is 3603 count of the neighbours= 6
+
+ the label is 3604 count of the neighbours= 46
+
+ the label is 3605 count of the neighbours= 26
+
+ the label is 3606 count of the neighbours= 3
+
+ the label is 3607 count of the neighbours= 4
+
+ the label is 3608 count of the neighbours= 13
+
+ the label is 3609 count of the neighbours= 18
+
+ the label is 3610 count of the neighbours= 13
+
+ the label is 3611 count of the neighbours= 31
+
+ the label is 3612 count of the neighbours= 14
+
+ the label is 3613 count of the neighbours= 7
+
+ the label is 3614 count of the neighbours= 5
+
+ the label is 3615 count of the neighbours= 11
+
+ the label is 3616 count of the neighbours= 9
+
+ the label is 3617 count of the neighbours= 22
+
+ the label is 3618 count of the neighbours= 12
+
+ the label is 3619 count of the neighbours= 3
+
+ the label is 3620 count of the neighbours= 12
+
+ the label is 3621 count of the neighbours= 6
+
+ the label is 3622 count of the neighbours= 7
+
+ the label is 3623 count of the neighbours= 11
+
+ the label is 3624 count of the neighbours= 7
+
+ the label is 3625 count of the neighbours= 23
+
+ the label is 3626 count of the neighbours= 4
+
+ the label is 3627 count of the neighbours= 9
+
+ the label is 3628 count of the neighbours= 14
+
+ the label is 3629 count of the neighbours= 23
+
+ the label is 3630 count of the neighbours= 4
+
+ the label is 3631 count of the neighbours= 6
+
+ the label is 3632 count of the neighbours= 4
+
+ the label is 3633 count of the neighbours= 39
+
+ the label is 3634 count of the neighbours= 9
+
+ the label is 3635 count of the neighbours= 16
+
+ the label is 3636 count of the neighbours= 17
+
+ the label is 3637 count of the neighbours= 2
+
+ the label is 3638 count of the neighbours= 8
+
+ the label is 3639 count of the neighbours= 5
+
+ the label is 3640 count of the neighbours= 23
+
+ the label is 3641 count of the neighbours= 7
+
+ the label is 3642 count of the neighbours= 11
+
+ the label is 3643 count of the neighbours= 19
+
+ the label is 3644 count of the neighbours= 5
+
+ the label is 3645 count of the neighbours= 7
+
+ the label is 3646 count of the neighbours= 9
+
+ the label is 3647 count of the neighbours= 4
+
+ the label is 3648 count of the neighbours= 10
+
+ the label is 3649 count of the neighbours= 5
+
+ the label is 3650 count of the neighbours= 0
+
+ the label is 3651 count of the neighbours= 19
+
+ the label is 3652 count of the neighbours= 3
+
+ the label is 3653 count of the neighbours= 3
+
+ the label is 3654 count of the neighbours= 8
+
+ the label is 3655 count of the neighbours= 10
+
+ the label is 3656 count of the neighbours= 15
+
+ the label is 3657 count of the neighbours= 7
+
+ the label is 3658 count of the neighbours= 7
+
+ the label is 3659 count of the neighbours= 6
+
+ the label is 3660 count of the neighbours= 4
+
+ the label is 3661 count of the neighbours= 4
+
+ the label is 3662 count of the neighbours= 6
+
+ the label is 3663 count of the neighbours= 8
+
+ the label is 3664 count of the neighbours= 6
+
+ the label is 3665 count of the neighbours= 3
+
+ the label is 3666 count of the neighbours= 3
+
+ the label is 3667 count of the neighbours= 13
+
+ the label is 3668 count of the neighbours= 5
+
+ the label is 3669 count of the neighbours= 5
+
+ the label is 3670 count of the neighbours= 12
+
+ the label is 3671 count of the neighbours= 6
+
+ the label is 3672 count of the neighbours= 22
+
+ the label is 3673 count of the neighbours= 0
+
+ the label is 3674 count of the neighbours= 18
+
+ the label is 3675 count of the neighbours= 8
+
+ the label is 3676 count of the neighbours= 1
+
+ the label is 3677 count of the neighbours= 22
+
+ the label is 3678 count of the neighbours= 1
+
+ the label is 3679 count of the neighbours= 6
+
+ the label is 3680 count of the neighbours= 25
+
+ the label is 3681 count of the neighbours= 3
+
+ the label is 3682 count of the neighbours= 3
+
+ the label is 3683 count of the neighbours= 10
+
+ the label is 3684 count of the neighbours= 32
+
+ the label is 3685 count of the neighbours= 3
+
+ the label is 3686 count of the neighbours= 0
+
+ the label is 3687 count of the neighbours= 17
+
+ the label is 3688 count of the neighbours= 0
+
+ the label is 3689 count of the neighbours= 1
+
+ the label is 3690 count of the neighbours= 14
+
+ the label is 3691 count of the neighbours= 1
+
+ the label is 3692 count of the neighbours= 16
+
+ the label is 3693 count of the neighbours= 10
+
+ the label is 3694 count of the neighbours= 2
+
+ the label is 3695 count of the neighbours= 4
+
+ the label is 3696 count of the neighbours= 8
+
+ the label is 3697 count of the neighbours= 10
+
+ the label is 3698 count of the neighbours= 4
+
+ the label is 3699 count of the neighbours= 0
+
+ the label is 3700 count of the neighbours= 4
+
+ the label is 3701 count of the neighbours= 9
+
+ the label is 3702 count of the neighbours= 17
+
+ the label is 3703 count of the neighbours= 9
+
+ the label is 3704 count of the neighbours= 1
+
+ the label is 3705 count of the neighbours= 20
+
+ the label is 3706 count of the neighbours= 11
+
+ the label is 3707 count of the neighbours= 10
+
+ the label is 3708 count of the neighbours= 8
+
+ the label is 3709 count of the neighbours= 0
+
+ the label is 3710 count of the neighbours= 13
+
+ the label is 3711 count of the neighbours= 15
+
+ the label is 3712 count of the neighbours= 3
+
+ the label is 3713 count of the neighbours= 12
+
+ the label is 3714 count of the neighbours= 13
+
+ the label is 3715 count of the neighbours= 6
+
+ the label is 3716 count of the neighbours= 2
+
+ the label is 3717 count of the neighbours= 2
+
+ the label is 3718 count of the neighbours= 16
+
+ the label is 3719 count of the neighbours= 8
+
+ the label is 3720 count of the neighbours= 7
+
+ the label is 3721 count of the neighbours= 12
+
+ the label is 3722 count of the neighbours= 14
+
+ the label is 3723 count of the neighbours= 1
+
+ the label is 3724 count of the neighbours= 0
+
+ the label is 3725 count of the neighbours= 10
+
+ the label is 3726 count of the neighbours= 8
+
+ the label is 3727 count of the neighbours= 3
+
+ the label is 3728 count of the neighbours= 10
+
+ the label is 3729 count of the neighbours= 0
+
+ the label is 3730 count of the neighbours= 9
+
+ the label is 3731 count of the neighbours= 17
+
+ the label is 3732 count of the neighbours= 0
+
+ the label is 3733 count of the neighbours= 2
+
+ the label is 3734 count of the neighbours= 18
+
+ the label is 3735 count of the neighbours= 4
+
+ the label is 3736 count of the neighbours= 8
+
+ the label is 3737 count of the neighbours= 12
+
+ the label is 3738 count of the neighbours= 12
+
+ the label is 3739 count of the neighbours= 7
+
+ the label is 3740 count of the neighbours= 8
+
+ the label is 3741 count of the neighbours= 9
+
+ the label is 3742 count of the neighbours= 3
+
+ the label is 3743 count of the neighbours= 8
+
+ the label is 3744 count of the neighbours= 1
+
+ the label is 3745 count of the neighbours= 2
+
+ the label is 3746 count of the neighbours= 1
+
+ the label is 3747 count of the neighbours= 10
+
+ the label is 3748 count of the neighbours= 0
+
+ the label is 3749 count of the neighbours= 4
+
+ the label is 3750 count of the neighbours= 14
+
+ the label is 3751 count of the neighbours= 3
+
+ the label is 3752 count of the neighbours= 7
+
+ the label is 3753 count of the neighbours= 9
+
+ the label is 3754 count of the neighbours= 1
+
+ the label is 3755 count of the neighbours= 3
+
+ the label is 3756 count of the neighbours= 20
+
+ the label is 3757 count of the neighbours= 8
+
+ the label is 3758 count of the neighbours= 20
+
+ the label is 3759 count of the neighbours= 7
+
+ the label is 3760 count of the neighbours= 3
+
+ the label is 3761 count of the neighbours= 5
+
+ the label is 3762 count of the neighbours= 7
+
+ the label is 3763 count of the neighbours= 5
+
+ the label is 3764 count of the neighbours= 13
+
+ the label is 3765 count of the neighbours= 2
+
+ the label is 3766 count of the neighbours= 5
+
+ the label is 3767 count of the neighbours= 5
+
+ the label is 3768 count of the neighbours= 11
+
+ the label is 3769 count of the neighbours= 2
+
+ the label is 3770 count of the neighbours= 0
+
+ the label is 3771 count of the neighbours= 3
+
+ the label is 3772 count of the neighbours= 4
+
+ the label is 3773 count of the neighbours= 3
+
+ the label is 3774 count of the neighbours= 7
+
+ the label is 3775 count of the neighbours= 3
+
+ the label is 3776 count of the neighbours= 8
+
+ the label is 3777 count of the neighbours= 2
+
+ the label is 3778 count of the neighbours= 2
+
+ the label is 3779 count of the neighbours= 5
+
+ the label is 3780 count of the neighbours= 6
+
+ the label is 3781 count of the neighbours= 2
+
+ the label is 3782 count of the neighbours= 12
+
+ the label is 3783 count of the neighbours= 5
+
+ the label is 3784 count of the neighbours= 6
+
+ the label is 3785 count of the neighbours= 4
+
+ the label is 3786 count of the neighbours= 7
+
+ the label is 3787 count of the neighbours= 1
+
+ the label is 3788 count of the neighbours= 1
+
+ the label is 3789 count of the neighbours= 3
+
+ the label is 3790 count of the neighbours= 16
+
+ the label is 3791 count of the neighbours= 7
+
+ the label is 3792 count of the neighbours= 5
+
+ the label is 3793 count of the neighbours= 19
+
+ the label is 3794 count of the neighbours= 15
+
+ the label is 3795 count of the neighbours= 2
+
+ the label is 3796 count of the neighbours= 3
+
+ the label is 3797 count of the neighbours= 10
+
+ the label is 3798 count of the neighbours= 0
+
+ the label is 3799 count of the neighbours= 5
+
+ the label is 3800 count of the neighbours= 11
+
+ the label is 3801 count of the neighbours= 2
+
+ the label is 3802 count of the neighbours= 3
+
+ the label is 3803 count of the neighbours= 4
+
+ the label is 3804 count of the neighbours= 12
+
+ the label is 3805 count of the neighbours= 2
+
+ the label is 3806 count of the neighbours= 3
+
+ the label is 3807 count of the neighbours= 0
+
+ the label is 3808 count of the neighbours= 0
+
+ the label is 3809 count of the neighbours= 5
+
+ the label is 3810 count of the neighbours= 8
+
+ the label is 3811 count of the neighbours= 1
+
+ the label is 3812 count of the neighbours= 0
+
+ the label is 3813 count of the neighbours= 3
+
+ the label is 3814 count of the neighbours= 1
+
+ the label is 3815 count of the neighbours= 4
+
+ the label is 3816 count of the neighbours= 0
+
+ the label is 3817 count of the neighbours= 4
+
+ the label is 3818 count of the neighbours= 2
+
+ the label is 3819 count of the neighbours= 4
+
+ the label is 3820 count of the neighbours= 0
+
+ the label is 3821 count of the neighbours= 10
+
+ the label is 3822 count of the neighbours= 13
+
+ the label is 3823 count of the neighbours= 3
+
+ the label is 3824 count of the neighbours= 13
+
+ the label is 3825 count of the neighbours= 4
+
+ the label is 3826 count of the neighbours= 14
+
+ the label is 3827 count of the neighbours= 0
+
+ the label is 3828 count of the neighbours= 4
+
+ the label is 3829 count of the neighbours= 6
+
+ the label is 3830 count of the neighbours= 28
+
+ the label is 3831 count of the neighbours= 6
+
+ the label is 3832 count of the neighbours= 0
+
+ the label is 3833 count of the neighbours= 11
+
+ the label is 3834 count of the neighbours= 1
+
+ the label is 3835 count of the neighbours= 5
+
+ the label is 3836 count of the neighbours= 8
+
+ the label is 3837 count of the neighbours= 3
+
+ the label is 3838 count of the neighbours= 17
+
+ the label is 3839 count of the neighbours= 0
+
+ the label is 3840 count of the neighbours= 1
+
+ the label is 3841 count of the neighbours= 6
+
+ the label is 3842 count of the neighbours= 11
+
+ the label is 3843 count of the neighbours= 1
+
+ the label is 3844 count of the neighbours= 1
+
+ the label is 3845 count of the neighbours= 4
+
+ the label is 3846 count of the neighbours= 0
+
+ the label is 3847 count of the neighbours= 3
+
+ the label is 3848 count of the neighbours= 1
+
+ the label is 3849 count of the neighbours= 2
+
+ the label is 3850 count of the neighbours= 0
+
+ the label is 3851 count of the neighbours= 9
+
+ the label is 3852 count of the neighbours= 7
+
+ the label is 3853 count of the neighbours= 0
+
+ the label is 3854 count of the neighbours= 1
+
+ the label is 3855 count of the neighbours= 1
+
+ the label is 3856 count of the neighbours= 0
+
+ the label is 3857 count of the neighbours= 2
+
+ the label is 3858 count of the neighbours= 6
+
+ the label is 3859 count of the neighbours= 2
+
+ the label is 3860 count of the neighbours= 6
+
+ the label is 3861 count of the neighbours= 2
+
+ the label is 3862 count of the neighbours= 2
+
+ the label is 3863 count of the neighbours= 1
+
+ the label is 3864 count of the neighbours= 1
+
+ the label is 3865 count of the neighbours= 0
+
+ the label is 3866 count of the neighbours= 3
+
+ the label is 3867 count of the neighbours= 2
+
+ the label is 3868 count of the neighbours= 4
+
+ the label is 3869 count of the neighbours= 6
+
+ the label is 3870 count of the neighbours= 7
+
+ the label is 3871 count of the neighbours= 1
+
+ the label is 3872 count of the neighbours= 3
+
+ the label is 3873 count of the neighbours= 10
+
+ the label is 3874 count of the neighbours= 3
+
+ the label is 3875 count of the neighbours= 1
+
+ the label is 3876 count of the neighbours= 0
+
+ the label is 3877 count of the neighbours= 11
+
+ the label is 3878 count of the neighbours= 1
+
+ the label is 3879 count of the neighbours= 1
+
+ the label is 3880 count of the neighbours= 2
+
+ the label is 3881 count of the neighbours= 0
+
+ the label is 3882 count of the neighbours= 0
+
+ the label is 3883 count of the neighbours= 2
+
+ the label is 3884 count of the neighbours= 7
+
+ the label is 3885 count of the neighbours= 0
+
+ the label is 3886 count of the neighbours= 4
+
+ the label is 3887 count of the neighbours= 1
+
+ the label is 3888 count of the neighbours= 2
+
+ the label is 3889 count of the neighbours= 2
+
+ the label is 3890 count of the neighbours= 1
+
+ the label is 3891 count of the neighbours= 5
+
+ the label is 3892 count of the neighbours= 2
+
+ the label is 3893 count of the neighbours= 1
+
+ the label is 3894 count of the neighbours= 1
+
+ the label is 3895 count of the neighbours= 0
+
+ the label is 3896 count of the neighbours= 5
+
+ the label is 3897 count of the neighbours= 1
+
+ the label is 3898 count of the neighbours= 1
+
+ the label is 3899 count of the neighbours= 1
+
+ the label is 3900 count of the neighbours= 7
+
+ the label is 3901 count of the neighbours= 2
+
+ the label is 3902 count of the neighbours= 6
+
+ the label is 3903 count of the neighbours= 3
+
+ the label is 3904 count of the neighbours= 0
+
+ the label is 3905 count of the neighbours= 0
+
+ the label is 3906 count of the neighbours= 7
+
+ the label is 3907 count of the neighbours= 2
+
+ the label is 3908 count of the neighbours= 0
+
+ the label is 3909 count of the neighbours= 4
+
+ the label is 3910 count of the neighbours= 0
+
+ the label is 3911 count of the neighbours= 0
+
+ the label is 3912 count of the neighbours= 1
+
+ the label is 3913 count of the neighbours= 0
+
+ the label is 3914 count of the neighbours= 3
+
+ the label is 3915 count of the neighbours= 3
+
+ the label is 3916 count of the neighbours= 1
+
+ the label is 3917 count of the neighbours= 0
+
+ the label is 3918 count of the neighbours= 3
+
+ the label is 3919 count of the neighbours= 0
+
+ the label is 3920 count of the neighbours= 4
+
+ the label is 3921 count of the neighbours= 0
+
+ the label is 3922 count of the neighbours= 0
+
+ the label is 3923 count of the neighbours= 0
+
+ the label is 3924 count of the neighbours= 4
+
+ the label is 3925 count of the neighbours= 1
+
+ the label is 3926 count of the neighbours= 7
+
+ the label is 3927 count of the neighbours= 1
+
+ the label is 3928 count of the neighbours= 0
+
+ the label is 3929 count of the neighbours= 1
+
+ the label is 3930 count of the neighbours= 3
+
+ the label is 3931 count of the neighbours= 1
+
+ the label is 3932 count of the neighbours= 0
+
+ the label is 3933 count of the neighbours= 3
+
+ the label is 3934 count of the neighbours= 0
+
+ the label is 3935 count of the neighbours= 0
+
+ the label is 3936 count of the neighbours= 0
+
+ the label is 3937 count of the neighbours= 1
+
+ the label is 3938 count of the neighbours= 6
+
+ the label is 3939 count of the neighbours= 1
+
+ the label is 3940 count of the neighbours= 1
+
+ the label is 3941 count of the neighbours= 0
+
+ the label is 3942 count of the neighbours= 0
+
+ the label is 3943 count of the neighbours= 1
+
+ the label is 3944 count of the neighbours= 2
+
+ the label is 3945 count of the neighbours= 2
+
+ the label is 3946 count of the neighbours= 0
+
+ the label is 3947 count of the neighbours= 3
+
+ the label is 3948 count of the neighbours= 3
+
+ the label is 3949 count of the neighbours= 0
+
+ the label is 3950 count of the neighbours= 1
+
+ the label is 3951 count of the neighbours= 2
+
+ the label is 3952 count of the neighbours= 0
+
+ the label is 3953 count of the neighbours= 0
+
+ the label is 3954 count of the neighbours= 0
+
+ the label is 3955 count of the neighbours= 0
+
+ the label is 3956 count of the neighbours= 2
+
+ the label is 3957 count of the neighbours= 1
+
+ the label is 3958 count of the neighbours= 0
+
+ the label is 3959 count of the neighbours= 0
+
+ the label is 3960 count of the neighbours= 1
+
+ the label is 3961 count of the neighbours= 0
+
+ the label is 3962 count of the neighbours= 1
+
+ the label is 3963 count of the neighbours= 0
+
+ the label is 3964 count of the neighbours= 1
+
+ the label is 3965 count of the neighbours= 0
+
+ the label is 3966 count of the neighbours= 1
+
+ the label is 3967 count of the neighbours= 0
+
+ the label is 3968 count of the neighbours= 1
+
+ the label is 3969 count of the neighbours= 0
+
+ the label is 3970 count of the neighbours= 0
+
+ the label is 3971 count of the neighbours= 0
+
+ the label is 3972 count of the neighbours= 0
+
+ the label is 3973 count of the neighbours= 0
+
+ the label is 3974 count of the neighbours= 0
+
+ the label is 3975 count of the neighbours= 0
+
+ the label is 3976 count of the neighbours= 0
+
+ the label is 3977 count of the neighbours= 0
+
+ the label is 3978 count of the neighbours= 0
+
+ the label is 3979 count of the neighbours= 0
+
+ the label is 3980 count of the neighbours= 58
+
+ the label is 3981 count of the neighbours= 7
+
+ the label is 3982 count of the neighbours= 13
+
+ the label is 3983 count of the neighbours= 1
+
+ the label is 3984 count of the neighbours= 0
+
+ the label is 3985 count of the neighbours= 5
+
+ the label is 3986 count of the neighbours= 7
+
+ the label is 3987 count of the neighbours= 1
+
+ the label is 3988 count of the neighbours= 4
+
+ the label is 3989 count of the neighbours= 4
+
+ the label is 3990 count of the neighbours= 3
+
+ the label is 3991 count of the neighbours= 1
+
+ the label is 3992 count of the neighbours= 2
+
+ the label is 3993 count of the neighbours= 3
+
+ the label is 3994 count of the neighbours= 8
+
+ the label is 3995 count of the neighbours= 5
+
+ the label is 3996 count of the neighbours= 2
+
+ the label is 3997 count of the neighbours= 7
+
+ the label is 3998 count of the neighbours= 9
+
+ the label is 3999 count of the neighbours= 2
+
+ the label is 4000 count of the neighbours= 5
+
+ the label is 4001 count of the neighbours= 1
+
+ the label is 4002 count of the neighbours= 4
+
+ the label is 4003 count of the neighbours= 3
+
+ the label is 4004 count of the neighbours= 6
+
+ the label is 4005 count of the neighbours= 0
+
+ the label is 4006 count of the neighbours= 1
+
+ the label is 4007 count of the neighbours= 2
+
+ the label is 4008 count of the neighbours= 0
+
+ the label is 4009 count of the neighbours= 3
+
+ the label is 4010 count of the neighbours= 0
+
+ the label is 4011 count of the neighbours= 1
+
+ the label is 4012 count of the neighbours= 0
+
+ the label is 4013 count of the neighbours= 3
+
+ the label is 4014 count of the neighbours= 6
+
+ the label is 4015 count of the neighbours= 0
+
+ the label is 4016 count of the neighbours= 1
+
+ the label is 4017 count of the neighbours= 3
+
+ the label is 4018 count of the neighbours= 2
+
+ the label is 4019 count of the neighbours= 2
+
+ the label is 4020 count of the neighbours= 5
+
+ the label is 4021 count of the neighbours= 2
+
+ the label is 4022 count of the neighbours= 0
+
+ the label is 4023 count of the neighbours= 4
+
+ the label is 4024 count of the neighbours= 0
+
+ the label is 4025 count of the neighbours= 0
+
+ the label is 4026 count of the neighbours= 1
+
+ the label is 4027 count of the neighbours= 3
+
+ the label is 4028 count of the neighbours= 0
+
+ the label is 4029 count of the neighbours= 0
+
+ the label is 4030 count of the neighbours= 0
+
+ the label is 4031 count of the neighbours= 1
+
+ the label is 4032 count of the neighbours= 0
+
+ the label is 4033 count of the neighbours= 0
+
+ the label is 4034 count of the neighbours= 0
+
+ the label is 4035 count of the neighbours= 0
+
+ the label is 4036 count of the neighbours= 0
+
+ the label is 4037 count of the neighbours= 0
+
+ the label is 4038 count of the neighbours= 0
+Size of the community:4039
+Total loops= 1 (took 28ms)
+03:22:24,687 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+03:22:24,697 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
