@@ -1,0 +1,14 @@
+
+ entered Java Program
+04:13:02,462 [main] INFO Ctrl$2 - >>> PGX engine running.
+
+ After Compiling greenmarl Java Program
+
+ graph loaded
+
+ run start
+
+ run ended without errors
+Total # nodes= 4039 (took 116ms)
+04:13:03,915 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+04:13:03,920 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down

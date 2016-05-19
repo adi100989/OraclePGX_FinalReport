@@ -1,0 +1,25 @@
+/****************************************************** 
+*   Code to test if the new version has resolved the issue
+*   of using properties as keys for maps	
+*******************************************************/
+
+procedure MapLabelKey(g:graph,ID:N_P <int>(g) ):int
+{
+	int i=1;
+	if( g.numNodes()<=1 ) return 0;
+	map<int,int> neighbours;
+	foreach(n:g.nodes)
+        {
+		foreach(s:n.nbrs)
+   		{		
+			if(neighbours.hasKey(s.ID))
+				neighbours[s.ID]+=1;
+			else
+			{		
+				neighbours[s.ID]=1;	
+			}
+		}    
+	}
+	return g.numNodes();
+}
+
