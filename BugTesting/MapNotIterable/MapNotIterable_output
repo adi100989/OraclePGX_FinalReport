@@ -1,0 +1,28 @@
+adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf MapNotIterable
+
+ entered Java Program
+05:16:27,025 [main] INFO Ctrl$2 - >>> PGX engine running.
+Exception in thread "main" java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Compilation of null failed: gm_comp returned status code 1: GM_code_rivepllbjmhot5vqqsjl5b7uki.gm:19:12: error: sample is not a collection type object.
+item is not defined.
+
+        at jsr166e.CompletableFuture.get(CompletableFuture.java:1521)
+        at oracle.pgx.api.PgxFuture.get(PgxFuture.java:85)
+        at oracle.pgx.api.PgxSession.compileProgram(PgxSession.java:781)
+        at MapNotIterable.main(MapNotIterable.java:16)
+Caused by: java.lang.IllegalArgumentException: Compilation of null failed: gm_comp returned status code 1: GM_code_rivepllbjmhot5vqqsjl5b7uki.gm:19:12: error: sample is not a collection type object.
+item is not defined.
+
+        at oracle.pgx.api.PgxSession$3.apply(PgxSession.java:376)
+        at oracle.pgx.api.PgxSession$3.apply(PgxSession.java:368)
+        at jsr166e.CompletableFuture$ThenApply.run(CompletableFuture.java:671)
+        at jsr166e.CompletableFuture.postComplete(CompletableFuture.java:192)
+        at jsr166e.CompletableFuture.complete(CompletableFuture.java:1629)
+        at oracle.pgx.engine.exec.Task.run(Task.java:270)
+        at jsr166e.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1398)
+        at jsr166e.ForkJoinTask.doExec(ForkJoinTask.java:260)
+        at jsr166e.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:858)
+        at jsr166e.ForkJoinPool.scan(ForkJoinPool.java:1687)
+        at jsr166e.ForkJoinPool.runWorker(ForkJoinPool.java:1642)
+        at jsr166e.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:109)
+05:16:27,252 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+05:16:27,256 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
