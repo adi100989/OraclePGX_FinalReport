@@ -1,0 +1,26 @@
+adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf ProcInProc
+
+ entered Java Program
+14:03:48,645 [main] INFO Ctrl$2 - >>> PGX engine running.
+Exception in thread "main" java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Compilation of null failed: gm_comp returned status code 1: GM_code_b1cof3m02du2ujvu3ptbv8lh6h.gm:16:21: error: Invalid built-in: ProcInProc2
+
+        at jsr166e.CompletableFuture.get(CompletableFuture.java:1521)
+        at oracle.pgx.api.PgxFuture.get(PgxFuture.java:85)
+        at oracle.pgx.api.PgxSession.compileProgram(PgxSession.java:781)
+        at ProcInProc.main(ProcInProc.java:16)
+Caused by: java.lang.IllegalArgumentException: Compilation of null failed: gm_comp returned status code 1: GM_code_b1cof3m02du2ujvu3ptbv8lh6h.gm:16:21: error: Invalid built-in: ProcInProc2
+
+        at oracle.pgx.api.PgxSession$3.apply(PgxSession.java:376)
+        at oracle.pgx.api.PgxSession$3.apply(PgxSession.java:368)
+        at jsr166e.CompletableFuture$ThenApply.run(CompletableFuture.java:671)
+        at jsr166e.CompletableFuture.postComplete(CompletableFuture.java:192)
+        at jsr166e.CompletableFuture.complete(CompletableFuture.java:1629)
+        at oracle.pgx.engine.exec.Task.run(Task.java:270)
+        at jsr166e.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1398)
+        at jsr166e.ForkJoinTask.doExec(ForkJoinTask.java:260)
+        at jsr166e.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:858)
+        at jsr166e.ForkJoinPool.scan(ForkJoinPool.java:1687)
+        at jsr166e.ForkJoinPool.runWorker(ForkJoinPool.java:1642)
+        at jsr166e.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:109)
+14:03:48,871 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+14:03:48,875 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down

@@ -1,0 +1,17 @@
+/****************************************************** 
+*   Call this proc inside ProcInProc()
+*******************************************************/
+
+procedure ProcInProc2(g:graph):int
+{
+	int i=1;
+	if( g.numNodes()<=1 ) return 0;
+
+	foreach(n:g.nodes)
+        {
+//		n.degree2 = n.degree();
+	}
+	
+	return g.numNodes();
+}
+

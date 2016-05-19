@@ -1,0 +1,26 @@
+/****************************************************** 
+*   Code to test if the proc is callable inside another proc in GM
+*******************************************************/
+
+procedure ProcInProc(g:graph,ID:N_P <int>(g) ; degree: N_P <int>(g)):int
+{
+	int i=1;
+	if( g.numNodes()<=1 ) return 0;
+
+//	  foreach(n:g.nodes)
+//        {
+//		n.degree = n.degree();
+//	  }
+	//calling Proc2 from another file and reading the input value
+//	N_P<int>(g) degree2;
+	int return_value = ProcInProc2(g);
+	foreach(n:g.nodes)
+	{
+	//	n.degree = n.degree2;
+		n.degree = 1; 
+	}
+
+	
+	return return_value;
+}
+
