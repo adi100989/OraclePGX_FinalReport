@@ -1,0 +1,21 @@
+/****************************************************** 
+*   Code to test for the indegree/outdegree/degree for complex graph set
+*******************************************************/
+
+procedure degreeTest(g:graph,ID:N_P <int>(g) ; indegree: N_P <int>(g), outdegree: N_P <int>(g),  degree: N_P <int>(g)):int
+{
+	int i=1;
+	if( g.numNodes()<=1 ) return 0;
+
+
+	//count the number of neighbours of each node (a check for undirected/directed graph)
+
+	foreach(n:g.nodes)
+        {
+		n.degree = n.degree();
+		n.outdegree = n.outDegree();
+		n.indegree = n.inDegree();
+	}
+	return g.numNodes();
+}
+

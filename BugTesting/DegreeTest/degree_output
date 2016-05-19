@@ -1,0 +1,465 @@
+
+ entered Java Program
+01:04:35,256 [main] INFO Ctrl$2 - >>> PGX engine running.
+
+ After Compiling greenmarl Java Program
+
+ graph loaded
+
+ run start
+
+ run ended
+Total number of nodes:75
+
+ the ID is  0  in-degree of nodes=  0
+
+ the ID is  0  out-degree of nodes=  8
+
+ the ID is  0  degree of nodes=  8
+
+ the ID is  1  in-degree of nodes=  1
+
+ the ID is  1  out-degree of nodes=  52
+
+ the ID is  1  degree of nodes=  52
+
+ the ID is  2  in-degree of nodes=  1
+
+ the ID is  2  out-degree of nodes=  41
+
+ the ID is  2  degree of nodes=  41
+
+ the ID is  3  in-degree of nodes=  1
+
+ the ID is  3  out-degree of nodes=  30
+
+ the ID is  3  degree of nodes=  30
+
+ the ID is  4  in-degree of nodes=  2
+
+ the ID is  4  out-degree of nodes=  42
+
+ the ID is  4  degree of nodes=  42
+
+ the ID is  5  in-degree of nodes=  3
+
+ the ID is  5  out-degree of nodes=  52
+
+ the ID is  5  degree of nodes=  52
+
+ the ID is  6  in-degree of nodes=  1
+
+ the ID is  6  out-degree of nodes=  15
+
+ the ID is  6  degree of nodes=  15
+
+ the ID is  7  in-degree of nodes=  2
+
+ the ID is  7  out-degree of nodes=  36
+
+ the ID is  7  degree of nodes=  36
+
+ the ID is  8  in-degree of nodes=  2
+
+ the ID is  8  out-degree of nodes=  43
+
+ the ID is  8  degree of nodes=  43
+
+ the ID is  9  in-degree of nodes=  1
+
+ the ID is  9  out-degree of nodes=  43
+
+ the ID is  9  degree of nodes=  43
+
+ the ID is  10  in-degree of nodes=  1
+
+ the ID is  10  out-degree of nodes=  38
+
+ the ID is  10  degree of nodes=  38
+
+ the ID is  11  in-degree of nodes=  3
+
+ the ID is  11  out-degree of nodes=  45
+
+ the ID is  11  degree of nodes=  45
+
+ the ID is  12  in-degree of nodes=  5
+
+ the ID is  12  out-degree of nodes=  37
+
+ the ID is  12  degree of nodes=  37
+
+ the ID is  13  in-degree of nodes=  4
+
+ the ID is  13  out-degree of nodes=  24
+
+ the ID is  13  degree of nodes=  24
+
+ the ID is  14  in-degree of nodes=  7
+
+ the ID is  14  out-degree of nodes=  30
+
+ the ID is  14  degree of nodes=  30
+
+ the ID is  15  in-degree of nodes=  7
+
+ the ID is  15  out-degree of nodes=  35
+
+ the ID is  15  degree of nodes=  35
+
+ the ID is  16  in-degree of nodes=  8
+
+ the ID is  16  out-degree of nodes=  30
+
+ the ID is  16  degree of nodes=  30
+
+ the ID is  17  in-degree of nodes=  10
+
+ the ID is  17  out-degree of nodes=  37
+
+ the ID is  17  degree of nodes=  37
+
+ the ID is  18  in-degree of nodes=  15
+
+ the ID is  18  out-degree of nodes=  44
+
+ the ID is  18  degree of nodes=  44
+
+ the ID is  19  in-degree of nodes=  10
+
+ the ID is  19  out-degree of nodes=  37
+
+ the ID is  19  degree of nodes=  37
+
+ the ID is  20  in-degree of nodes=  10
+
+ the ID is  20  out-degree of nodes=  36
+
+ the ID is  20  degree of nodes=  36
+
+ the ID is  21  in-degree of nodes=  16
+
+ the ID is  21  out-degree of nodes=  44
+
+ the ID is  21  degree of nodes=  44
+
+ the ID is  22  in-degree of nodes=  15
+
+ the ID is  22  out-degree of nodes=  40
+
+ the ID is  22  degree of nodes=  40
+
+ the ID is  23  in-degree of nodes=  11
+
+ the ID is  23  out-degree of nodes=  34
+
+ the ID is  23  degree of nodes=  34
+
+ the ID is  24  in-degree of nodes=  15
+
+ the ID is  24  out-degree of nodes=  35
+
+ the ID is  24  degree of nodes=  35
+
+ the ID is  25  in-degree of nodes=  16
+
+ the ID is  25  out-degree of nodes=  37
+
+ the ID is  25  degree of nodes=  37
+
+ the ID is  26  in-degree of nodes=  24
+
+ the ID is  26  out-degree of nodes=  36
+
+ the ID is  26  degree of nodes=  36
+
+ the ID is  27  in-degree of nodes=  24
+
+ the ID is  27  out-degree of nodes=  36
+
+ the ID is  27  degree of nodes=  36
+
+ the ID is  28  in-degree of nodes=  12
+
+ the ID is  28  out-degree of nodes=  31
+
+ the ID is  28  degree of nodes=  31
+
+ the ID is  29  in-degree of nodes=  21
+
+ the ID is  29  out-degree of nodes=  34
+
+ the ID is  29  degree of nodes=  34
+
+ the ID is  30  in-degree of nodes=  16
+
+ the ID is  30  out-degree of nodes=  30
+
+ the ID is  30  degree of nodes=  30
+
+ the ID is  31  in-degree of nodes=  23
+
+ the ID is  31  out-degree of nodes=  34
+
+ the ID is  31  degree of nodes=  34
+
+ the ID is  32  in-degree of nodes=  26
+
+ the ID is  32  out-degree of nodes=  33
+
+ the ID is  32  degree of nodes=  33
+
+ the ID is  33  in-degree of nodes=  9
+
+ the ID is  33  out-degree of nodes=  7
+
+ the ID is  33  degree of nodes=  7
+
+ the ID is  34  in-degree of nodes=  29
+
+ the ID is  34  out-degree of nodes=  32
+
+ the ID is  34  degree of nodes=  32
+
+ the ID is  35  in-degree of nodes=  27
+
+ the ID is  35  out-degree of nodes=  26
+
+ the ID is  35  degree of nodes=  26
+
+ the ID is  36  in-degree of nodes=  13
+
+ the ID is  36  out-degree of nodes=  16
+
+ the ID is  36  degree of nodes=  16
+
+ the ID is  37  in-degree of nodes=  25
+
+ the ID is  37  out-degree of nodes=  27
+
+ the ID is  37  degree of nodes=  27
+
+ the ID is  38  in-degree of nodes=  21
+
+ the ID is  38  out-degree of nodes=  8
+
+ the ID is  38  degree of nodes=  8
+
+ the ID is  39  in-degree of nodes=  27
+
+ the ID is  39  out-degree of nodes=  23
+
+ the ID is  39  degree of nodes=  23
+
+ the ID is  40  in-degree of nodes=  9
+
+ the ID is  40  out-degree of nodes=  1
+
+ the ID is  40  degree of nodes=  1
+
+ the ID is  41  in-degree of nodes=  30
+
+ the ID is  41  out-degree of nodes=  25
+
+ the ID is  41  degree of nodes=  25
+
+ the ID is  42  in-degree of nodes=  27
+
+ the ID is  42  out-degree of nodes=  22
+
+ the ID is  42  degree of nodes=  22
+
+ the ID is  43  in-degree of nodes=  26
+
+ the ID is  43  out-degree of nodes=  24
+
+ the ID is  43  degree of nodes=  24
+
+ the ID is  44  in-degree of nodes=  23
+
+ the ID is  44  out-degree of nodes=  23
+
+ the ID is  44  degree of nodes=  23
+
+ the ID is  45  in-degree of nodes=  21
+
+ the ID is  45  out-degree of nodes=  19
+
+ the ID is  45  degree of nodes=  19
+
+ the ID is  46  in-degree of nodes=  1
+
+ the ID is  46  out-degree of nodes=  0
+
+ the ID is  46  degree of nodes=  0
+
+ the ID is  47  in-degree of nodes=  26
+
+ the ID is  47  out-degree of nodes=  17
+
+ the ID is  47  degree of nodes=  17
+
+ the ID is  48  in-degree of nodes=  26
+
+ the ID is  48  out-degree of nodes=  21
+
+ the ID is  48  degree of nodes=  21
+
+ the ID is  49  in-degree of nodes=  30
+
+ the ID is  49  out-degree of nodes=  19
+
+ the ID is  49  degree of nodes=  19
+
+ the ID is  50  in-degree of nodes=  35
+
+ the ID is  50  out-degree of nodes=  19
+
+ the ID is  50  degree of nodes=  19
+
+ the ID is  51  in-degree of nodes=  39
+
+ the ID is  51  out-degree of nodes=  17
+
+ the ID is  51  degree of nodes=  17
+
+ the ID is  52  in-degree of nodes=  43
+
+ the ID is  52  out-degree of nodes=  16
+
+ the ID is  52  degree of nodes=  16
+
+ the ID is  53  in-degree of nodes=  37
+
+ the ID is  53  out-degree of nodes=  18
+
+ the ID is  53  degree of nodes=  18
+
+ the ID is  54  in-degree of nodes=  40
+
+ the ID is  54  out-degree of nodes=  15
+
+ the ID is  54  degree of nodes=  15
+
+ the ID is  55  in-degree of nodes=  50
+
+ the ID is  55  out-degree of nodes=  16
+
+ the ID is  55  degree of nodes=  16
+
+ the ID is  56  in-degree of nodes=  39
+
+ the ID is  56  out-degree of nodes=  14
+
+ the ID is  56  degree of nodes=  14
+
+ the ID is  57  in-degree of nodes=  50
+
+ the ID is  57  out-degree of nodes=  14
+
+ the ID is  57  degree of nodes=  14
+
+ the ID is  58  in-degree of nodes=  38
+
+ the ID is  58  out-degree of nodes=  12
+
+ the ID is  58  degree of nodes=  12
+
+ the ID is  59  in-degree of nodes=  41
+
+ the ID is  59  out-degree of nodes=  10
+
+ the ID is  59  degree of nodes=  10
+
+ the ID is  60  in-degree of nodes=  11
+
+ the ID is  60  out-degree of nodes=  0
+
+ the ID is  60  degree of nodes=  0
+
+ the ID is  61  in-degree of nodes=  52
+
+ the ID is  61  out-degree of nodes=  2
+
+ the ID is  61  degree of nodes=  2
+
+ the ID is  62  in-degree of nodes=  31
+
+ the ID is  62  out-degree of nodes=  2
+
+ the ID is  62  degree of nodes=  2
+
+ the ID is  63  in-degree of nodes=  50
+
+ the ID is  63  out-degree of nodes=  9
+
+ the ID is  63  degree of nodes=  9
+
+ the ID is  64  in-degree of nodes=  34
+
+ the ID is  64  out-degree of nodes=  6
+
+ the ID is  64  degree of nodes=  6
+
+ the ID is  65  in-degree of nodes=  51
+
+ the ID is  65  out-degree of nodes=  6
+
+ the ID is  65  degree of nodes=  6
+
+ the ID is  66  in-degree of nodes=  56
+
+ the ID is  66  out-degree of nodes=  6
+
+ the ID is  66  degree of nodes=  6
+
+ the ID is  67  in-degree of nodes=  48
+
+ the ID is  67  out-degree of nodes=  4
+
+ the ID is  67  degree of nodes=  4
+
+ the ID is  68  in-degree of nodes=  45
+
+ the ID is  68  out-degree of nodes=  4
+
+ the ID is  68  degree of nodes=  4
+
+ the ID is  69  in-degree of nodes=  40
+
+ the ID is  69  out-degree of nodes=  2
+
+ the ID is  69  degree of nodes=  2
+
+ the ID is  70  in-degree of nodes=  46
+
+ the ID is  70  out-degree of nodes=  0
+
+ the ID is  70  degree of nodes=  0
+
+ the ID is  71  in-degree of nodes=  40
+
+ the ID is  71  out-degree of nodes=  1
+
+ the ID is  71  degree of nodes=  1
+
+ the ID is  72  in-degree of nodes=  53
+
+ the ID is  72  out-degree of nodes=  0
+
+ the ID is  72  degree of nodes=  0
+
+ the ID is  73  in-degree of nodes=  29
+
+ the ID is  73  out-degree of nodes=  0
+
+ the ID is  73  degree of nodes=  0
+
+ the ID is  74  in-degree of nodes=  1
+
+ the ID is  74  out-degree of nodes=  0
+
+ the ID is  74  degree of nodes=  0
+Total # nodes= 75 (took 1ms)
+01:04:36,800 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+01:04:36,805 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
