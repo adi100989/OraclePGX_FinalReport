@@ -4,7 +4,7 @@ procedure label_propagation(G:graph, ID:N_P <int>(G);BC:nodeProp <int>(G)):int
 {
         bool stop = false;
         edgeProp <int>(G) weight;                 // weight of each edge (undirected will be 1)
-        edgeProp <bool>(G) removed;               //present or removed from graph
+        edgeProp <int>(G) deleted;               //present or removed from graph
         nodeProp <int>(G) original_degree;    //summation of all weights of the
         int modularity = 0;
 	int max_ = -1;
@@ -16,7 +16,7 @@ procedure label_propagation(G:graph, ID:N_P <int>(G);BC:nodeProp <int>(G)):int
         foreach(e : G.edges)
         {
                 e.weight = 1;
-                e.removed = false;
+                //e.removed = false;
         }
 
         foreach(e : G.edges)
@@ -116,19 +116,25 @@ procedure label_propagation(G:graph, ID:N_P <int>(G);BC:nodeProp <int>(G)):int
 				}
 			}
 			//find the edge with max centrality <find the nodes with max centrality and remove all edges associated with it>
-		//	map<edge, double> 	
-			max_ =  max(n1 : G.nodes){n1.BC}; 
-			
-			foreach (n1 : G.nodes)
-			{
-				if(n1.BC == max_)
-					{
-						
-					}
-			}
-			// code ends 	
-				
-			
+			int max_ = -1;
+	        	max_ =  max(n1 : G.nodes){n1.BC};
+	
+	        	foreach (n1 : G.nodes)
+	        	{
+	                	if (n1.BC == max_)
+	                	{
+	                        	foreach(n2 : n1.nbrs)
+	                        	{
+	                                	//if a node is with the highest BC and it's neighbour also has the highest BC then remove the edge between them
+	                                	//if(n2.BC == max_)
+	                                	{
+	                                        	edge(G) e = n2.toEdge(); //the edge to n2
+	                                        	e.deleted = 1;
+	                                	}
+	                        	}
+	                	}
+	        	}
+
 		}
 		return max_;
 		//return compId;
