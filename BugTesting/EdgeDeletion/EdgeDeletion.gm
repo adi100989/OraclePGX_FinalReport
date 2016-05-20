@@ -1,0 +1,74 @@
+/*greenmarl code as a workaround for deleting a node/edge*/
+
+//procedure EdgeDeletion(G:graph, ID:N_P <int>(G); deleted:E_P <int>(G)):int
+
+procedure EdgeDeletion(G:graph, ID:N_P <int>(G)):int
+{
+        bool stop = false;
+        E_P <int>(G) deleted;
+        if( G.numNodes() <= 1 ) return 0;         
+
+        foreach(e : G.edges)
+        {  
+         	e.deleted = 0; 
+        }
+
+       //start for betweeness centrality
+	N_P<int>(G) BC;	
+	G.BC = 0; // Initialize
+	foreach (s:G.nodes) 
+	{
+		// temporary values per node
+		nodeProperty<double> sigma;
+		nodeProperty<double> delta;
+		G.sigma = 0;
+		s.sigma = 1;
+		// BFS order iteration from s
+		inBFS(v: G.nodes from s) (v != s) 
+		{
+			// Summing over BFS parents
+			v.sigma = sum(w:v.upNbrs) { w.sigma };
+		}
+		inReverse(v!=s) 
+		{ 
+			// Reverse-BFS order iteration to s
+			v.delta =  // Summing over BFS children
+			sum (w:v.downNbrs) { (1+ w.delta) / w.sigma } * v.sigma;
+			v.BC += v.delta ; // accumulate BC
+		}
+	}
+	//find the nodes with max centrality and remove all edges between pair of nodes which belong to the set with max centrality
+	int max_ = -1;
+	max_ =  max(n1 : G.nodes){n1.BC}; 
+
+	foreach (n1 : G.nodes)
+	{
+		if (n1.BC == max_)
+		{
+			foreach(n2 : n1.nbrs)
+			{
+				//if a node is with the highest BC and it's neighbour also has the highest BC then remove the edge between them
+				//if(n2.BC == max_)
+				{
+					edge(G) e = n2.toEdge(); //the edge to n2
+					e.deleted = 1;
+				}
+			}	
+		}
+	}
+	int NumberDeletedEdges = 0;
+	int totalEdges = 0;
+	int NumberDeletedNodes = 0;
+	foreach(e:G.edges)
+	{       totalEdges += 1;
+		if (e.deleted == 1)
+			NumberDeletedEdges += 1;
+	}
+
+	foreach(n: G.nodes)(n.BC == max_)
+	{
+		NumberDeletedNodes += 1;
+	}	
+       return NumberDeletedEdges;
+}
+

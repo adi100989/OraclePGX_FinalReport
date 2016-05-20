@@ -1,0 +1,15 @@
+
+ entered Java Program
+20:44:54,261 [main] INFO Ctrl$2 - >>> PGX engine running.
+
+ After Compiling greenmarl Java Program
+
+ graph loaded
+
+ run start
+
+ run ended
+Total number of nodes:4039
+Total Number of edges after deletion as a return value = 1045 (took 1416ms)
+20:44:57,295 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+20:44:57,304 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
