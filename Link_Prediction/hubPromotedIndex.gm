@@ -1,0 +1,58 @@
+/******************************************************************** 
+*	hub promoted Index in  g 
+*********************************************************************/
+
+procedure hubPromotedIndex( g:graph , ID : N_P <int>(g) ;  link_node_ID: N_P <int>(g) , cmn_nbr : N_P <double>(g)):int
+{
+ //	int count = 0;
+
+ 	if( g.numNodes()<=1 ) return 0;
+ 	nodeSet (g) neighbors_x;
+	N_P <int>(g) degree;
+
+	foreach(n:g.nodes)
+	{
+		n.degree = n.degree();
+	}
+	
+	foreach(x : g.nodes)
+	{	
+		neighbors_x.clear();
+		for(s : x.nbrs  )
+   		{
+			neighbors_x.add(s);		
+  		}
+		
+		double max1 = -1;
+		node(g) max_node;
+		int c = 0;	
+		for(y : g.nodes)
+		{	
+			if((x != y) && !(neighbors_x.has(y)))
+			{	
+			c = 0;
+			//map<int,int> cmnNbr;
+			//cmnNbr.clear();
+			foreach(s : y.nbrs)
+			{
+				if(neighbors_x.has(s))
+					c += 1;
+			}
+			if(max1 <= c) 
+			{	
+				max1 = c;
+				max_node = y;	
+			}
+			}
+		}
+		
+		x.link_node_ID = max_node.ID;
+		if(x.degree > max_node.degree)
+			x.cmn_nbr = (max1)/(x.degree);
+		else
+			 x.cmn_nbr = (max1)/(max_node.degree);
+ 	}
+	return 1;
+
+}
+
