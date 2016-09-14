@@ -13,7 +13,7 @@ public class commonNeighbors {
   public static void main(String[] args) throws Exception {
 	System.out.println("\n entered Java Program");
     	PgxSession session = Pgx.createSession("my-session");
-    	CompiledProgram commonNeighbors = session.compileProgram("../code/Link_Prediction/commonNeighbors.gm");
+    	CompiledProgram commonNeighbors = session.compileProgram("../github/OraclePGX_FinalReport/Link_Prediction/commonNeighbors.gm");
 	//CompiledProgram label_propagation = session.compileProgram("/var/services/homes/yoshen/work/projects/graph-pgx/first-oracle-report/label_propagation.gm");   
   	System.out.println("\n After Compiling greenmarl Java Program");
 	PgxGraph graph = session.readGraphWithProperties("/var/services/homes/yoshen/work/projects/graph-pgx/datasets/soc-LiveJournal1.vid.adj.json");
@@ -26,25 +26,25 @@ public class commonNeighbors {
     	System.out.println("\n graph loaded");
    	// PgxGraph subgraph = graph.filter(new VertexFilter("nodeID < 100"));	
     	VertexProperty<Integer,Integer> ID = graph.getVertexProperty("nodeID");
-    //	VertexProperty<Integer,Integer> label = graph.createVertexProperty(PropertyType.INTEGER, "label");
-//	VertexProperty<Integer,Integer> countNbr = graph.createVertexProperty(PropertyType.INTEGER, "countNbr");		
+    	VertexProperty<Integer,Integer> link_node_ID = graph.createVertexProperty(PropertyType.INTEGER, "link_node_ID");
+	VertexProperty<Integer,Integer>  cmn_nbr  = graph.createVertexProperty(PropertyType.INTEGER, "cmn_nbr");		
   
   	//    PgxGraph subgraph = graph.filter(new VertexFilter("name.nodeID < 100"));
      	System.out.println("\n run start");
 
-  	AnalysisResult <Integer> result = commonNeighbors.run(graph,1,2);
+  	AnalysisResult <Integer> result = commonNeighbors.run(graph,ID, link_node_ID,cmn_nbr);
 	
 
     	System.out.println("\n run ended");
     //	System.out.println("Total number of nodes:"+label.size());
     //	HashSet<Integer> communities = new HashSet<Integer>();
-    //	int li=0;
-//	for(int i=0; i<label.size();i++)
-//	{
-//		li=label.get(i);
-//		System.out.println("\n the label for node"+i +"is "+label.get(i));
+    	int li=0;
+	for(int i=0; i< link_node_ID.size();i++)
+	{
+	//	li=label.get(i);
+		System.out.println("\n the max prob node for "+i +"is "+link_node_ID.get(i)+"  with prob = "+cmn_nbr.get(i));
 //		communities.add(li);
-//	}
+	}
 	//	System.out.println("\n the label is "+label.get(0));
 	//	 System.out.println("\n the label is "+label.get(1));	
 //    	System.out.println("Size of the community:"+communities.size());

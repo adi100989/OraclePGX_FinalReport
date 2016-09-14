@@ -1,0 +1,6 @@
+ The following methods are being implemented:
+
+1. Common Neighbors : 
+	adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ javac  -cp lib/embedded/*:lib/common/*:third-party/* -d classes ../github/OraclePGX_FinalReport/Link_Prediction/commonNeighbors.java
+	adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf commonNeighbors 
+	
