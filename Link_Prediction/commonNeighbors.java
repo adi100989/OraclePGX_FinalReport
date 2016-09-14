@@ -16,8 +16,8 @@ public class commonNeighbors {
     	CompiledProgram commonNeighbors = session.compileProgram("../github/OraclePGX_FinalReport/Link_Prediction/commonNeighbors.gm");
 	//CompiledProgram label_propagation = session.compileProgram("/var/services/homes/yoshen/work/projects/graph-pgx/first-oracle-report/label_propagation.gm");   
   	System.out.println("\n After Compiling greenmarl Java Program");
-	PgxGraph graph = session.readGraphWithProperties("/var/services/homes/yoshen/work/projects/graph-pgx/datasets/soc-LiveJournal1.vid.adj.json");
-
+//	PgxGraph graph = session.readGraphWithProperties("/var/services/homes/yoshen/work/projects/graph-pgx/datasets/soc-LiveJournal1.vid.adj.json");
+	PgxGraph graph = session.readGraphWithProperties("../github/OraclePGX_FinalReport/Link_Prediction/facebook.json");
 
 //	PgxGraph graph = session.readGraphWithProperties("/var/services/homes/adisingh/code/facebook.json");
 	//	PgxGraph graph = session.readGraphWithProperties("/var/services/homes/adisingh/code/small_graph.json");
