@@ -1,0 +1,25 @@
+/******************************************************************** 
+*	Common neighbors count in directed g for edges x and y 
+*********************************************************************/
+
+procedure commonNeighbors( g:graph , ID : N_P <int>(g), present : E_P <int>(g) ;cmn_nbrs : E_P <int>(g)):int
+{
+ 	int count = 0;
+
+ 	if( g.numNodes()<=1 ) return 0;
+ 	nodeSet (g) neighbors_x;
+
+	foreach(s : x.nbrs)
+   	{
+		neighbors_x.add(s);		
+  	}	
+	
+	foreach(s:y.nbrs)
+	{
+		if(neighbors_x.contains(s))
+			count+= 1;
+	}
+ 	return count;
+
+}
+
