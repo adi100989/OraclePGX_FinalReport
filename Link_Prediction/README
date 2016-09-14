@@ -2,5 +2,34 @@
 
 1. Common Neighbors : 
 	adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ javac  -cp lib/embedded/*:lib/common/*:third-party/* -d classes ../github/OraclePGX_FinalReport/Link_Prediction/commonNeighbors.java
-	adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf commonNeighbors 
+	adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf commonNeighbors  > ../github/OraclePGX_FinalReport/Link_Prediction/outputs/commonNeighbors_facebook.out
+
+2. Salton Index :
+	javac  -cp lib/embedded/*:lib/common/*:third-party/* -d classes ../github/OraclePGX_FinalReport/Link_Prediction/saltonIndex.java
+        java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf jaccardIndex > ../github/OraclePGX_FinalReport/Link_Prediction/outputs/saltonIndex_facebook.out
+
+
+3. Jaccard Index:
+	javac  -cp lib/embedded/*:lib/common/*:third-party/* -d classes ../github/OraclePGX_FinalReport/Link_Prediction/jaccardIndex.java
+	java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf jaccardIndex > ../github/OraclePGX_FinalReport/Link_Prediction/outputs/jaccardIndex_facebook.out
+
+4. Sorecnsen Index:
+
+
+5. HUb Promoted Index:
+
+
+6. Hub Depressed Index:
+
+
+7. Leicht-Holme-Newman Index
+
+
+
+8. Preferential Attachment:
+
+
+9. Adamic-Adar Index:
+
+
 	

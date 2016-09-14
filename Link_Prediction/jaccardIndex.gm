@@ -1,8 +1,8 @@
 /******************************************************************** 
-*	Salton Index or Cosine similarity in  g 
+*	jaccard Index in  g 
 *********************************************************************/
 
-procedure saltonIndex( g:graph , ID : N_P <int>(g) ;  link_node_ID: N_P <int>(g) , cmn_nbr : N_P <double>(g)):int
+procedure jaccardIndex( g:graph , ID : N_P <int>(g) ;  link_node_ID: N_P <int>(g) , cmn_nbr : N_P <double>(g)):int
 {
  //	int count = 0;
 
@@ -23,7 +23,7 @@ procedure saltonIndex( g:graph , ID : N_P <int>(g) ;  link_node_ID: N_P <int>(g)
 			neighbors_x.add(s);		
   		}
 		
-		int max1 = -1;
+		double max1 = -1;
 		node(g) max_node;
 		int c = 0;	
 		for(y : g.nodes)
@@ -47,7 +47,7 @@ procedure saltonIndex( g:graph , ID : N_P <int>(g) ;  link_node_ID: N_P <int>(g)
 		}
 		
 		x.link_node_ID = max_node.ID;
-		x.cmn_nbr = max1/(sqrt(x.degree*max_node.degree));
+		x.cmn_nbr = max1/((x.degree+max_node.degree)-max1);
  	}
 	return 1;
 
