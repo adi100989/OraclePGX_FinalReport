@@ -8,6 +8,8 @@ import oracle.pgx.api.internal.AnalysisResult;
 import java.util.*;
 import oracle.pgx.common.types.*;
 import oracle.pgx.common.util.vector.Vect;
+import oracle.pgx.api.PgxVect;
+import oracle.pgx.api.Scalar;
 //import oracle.pgx.filter.expressions.*;
 
 //public enum CollectionType extends java.lang.Enum<CollectionType> implements Type;
@@ -30,8 +32,8 @@ public class commonNeighbors2 {
    	// PgxGraph subgraph = graph.filter(new VertexFilter("nodeID < 100"));	
     	VertexProperty<Integer,Integer> ID = graph.getVertexProperty("nodeID");
     	//collection<nodeSeq> link_node = graph.createVertexProperty(PropertyType.INTEGER, "link_node_ID");
-	Scalar<Vector<Integer>>  link_node  = graph.createVectorScalar(PropertyType.INTEGER,40000,"link_node");		
-  
+	Scalar<PgxVect<Integer>>  link_node  = graph.createVectorScalar(PropertyType.INTEGER,40000,"link_node");		
+  	//PgxVect.PgxVect(Integer[] link_node, PropertyType.INTEGER); 
   	//    PgxGraph subgraph = graph.filter(new VertexFilter("name.nodeID < 100"));
      	System.out.println("\n run start");
 
