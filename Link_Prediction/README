@@ -32,4 +32,26 @@
 9. Adamic-Adar Index:
 
 
+
+PERFORMANCE:
+1. Common Neighbors : (changes made to "num_workers_analysis": "<no-of-CPUs>" in pgx.conf . 
+			Could also run java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf commonNeighbors -Dpgx.num_workers_analysis=1 )
+
+#cores			#ms
+1			 7069
+2			 3657
+3			 2640
+4			 1998
+5			 1886
+6			 1662
+7			 1435
+8			 1289
+9			 1286
+10			 1247
+11			 1045
+12			 1104
+13			 1016
+14			 1035
+15			 977
+16			 835
 	
