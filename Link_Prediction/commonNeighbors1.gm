@@ -1,0 +1,36 @@
+/******************************************************************** 
+*	Common neighbors count in directed g for edges x and y 
+*	link_node can return values in the form set of sets of outnode and count
+*********************************************************************/
+
+procedure commonNeighbors( g:graph , ID : N_P <int>(g) ;  link_node : collection <nodeSeq>(g)):int
+{
+ 	if( g.numNodes()<=1 ) return 0;
+	nodeSeq(g) nbr; 
+
+	foreach(x : g.nodes)
+	{			
+		int c = 0;	
+		foreach(y : g.nodes)
+		{	
+			if((x.ID != y.ID) && (y != x.nbrs))
+			{	
+				c = 0;
+				foreach(s : y.nbrs)
+				{
+					if(nbr.has(s))
+						c += 1;
+				}
+				nbr.push(x);
+				nbr.push(y);
+				nbr.push(c);
+			}
+		}
+		link_node.pushBack(nbr);	
+		nbr.clear();
+		
+ 	}
+	return 1;
+
+}
+
