@@ -32,7 +32,10 @@ public class commonNeighbors2 {
    	// PgxGraph subgraph = graph.filter(new VertexFilter("nodeID < 100"));	
     	VertexProperty<Integer,Integer> ID = graph.getVertexProperty("nodeID");
     	//collection<nodeSeq> link_node = graph.createVertexProperty(PropertyType.INTEGER, "link_node_ID");
-	Scalar<PgxVect<Integer>>  link_node  = graph.createVectorScalar(PropertyType.INTEGER,40000,"link_node");		
+	
+        VertexProperty<Integer,PgxVect<Integer>> link_node = graph.createVertexProperty(PropertyType.SPARSE, "link_node");
+
+	//Scalar<PgxVect<Integer>>  link_node  = graph.createVectorScalar(PropertyType.INTEGER,40000,"link_node");		
   	//PgxVect.PgxVect(Integer[] link_node, PropertyType.INTEGER); 
   	//    PgxGraph subgraph = graph.filter(new VertexFilter("name.nodeID < 100"));
      	System.out.println("\n run start");

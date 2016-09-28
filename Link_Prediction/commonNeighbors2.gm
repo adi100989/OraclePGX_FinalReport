@@ -13,7 +13,7 @@ procedure commonNeighbors( g:graph , ID : N_P <int>(g) ;  link_node : nodeProp<v
 		int c = 0;	
 		foreach(y : g.nodes)
 		{	
-			if((x.ID != y.ID) && (y != x.nbrs))
+			//if((x.ID != y.ID) && !( x.nbrs.contains(y)))
 			{	
 				c = 0;
 				foreach(s : y.nbrs)

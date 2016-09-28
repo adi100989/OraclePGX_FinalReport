@@ -1,0 +1,73 @@
+procedure matrix_factorization_gradient_descent(G: graph, 
+              is_left: nodeProp<bool>,
+              weight: edgeProp<double>,
+              learning_rate: double,
+              change_per_step: double,
+              lambda: double,
+              max_step: int,
+              vector_length: int;
+              dest_property: nodeProp<vect<double>[vector_length]>): double {
+
+    nodeProp<vect<double>[vector_length]> dest_property_next;
+    for(n: G.nodes) {
+        n.dest_property = uniform();
+    }
+
+    G.dest_property_next = _.dest_property;
+    double VALUE_MAX = 5.0;
+    double VALUE_MIN = 1.0;
+    double rate = learning_rate;
+    int nupdate = 0;
+    int counter = 0;
+
+    double root_mean_square_error = 0.0;
+    while (counter < max_step) {
+
+        foreach (curr_node: G.nodes) {
+            if (curr_node.is_left) {
+                vect<double>[vector_length] Z = 0.0;
+
+                for(curr_edge: curr_node.outEdges) {
+                    node opposite_node = curr_edge.toNode();
+
+                    double weight_1 = curr_edge.weight;
+                    double weight_2 = curr_node.dest_property * opposite_node.dest_property;
+
+                    if (weight_2 > VALUE_MAX) {
+                        weight_2 = VALUE_MAX;
+                    } else if (weight_2 < VALUE_MIN) {
+                        weight_2 = VALUE_MIN;
+                    }
+
+                    Z += ((weight_1 - weight_2) * opposite_node.dest_property - lambda * curr_node.dest_property);
+                    root_mean_square_error += (weight_1 - weight_2) * (weight_1 - weight_2);
+                }
+                        curr_node.dest_property_next = curr_node.dest_property + rate * Z;
+            } else {
+                vect<double>[vector_length] Z = 0.0;
+
+                for(curr_edge: curr_node.inEdges) {
+                    node opposite_node = curr_edge.fromNode();
+
+                    double weight_1 = curr_edge.weight;
+                    double weight_2 = curr_node.dest_property * opposite_node.dest_property;
+
+                    if (weight_2 > VALUE_MAX) {
+                        weight_2 = VALUE_MAX;
+                    } else if (weight_2 < VALUE_MIN) {
+                        weight_2 = VALUE_MIN;
+                    }
+
+                    Z += (weight_1 - weight_2) * opposite_node.dest_property - lambda * curr_node.dest_property;
+                    root_mean_square_error += (weight_1 - weight_2) * (weight_1 - weight_2);
+                }               
+                curr_node.dest_property_next = curr_node.dest_property + rate * Z;
+            } 
+        }
+        G.dest_property = _.dest_property_next;
+        root_mean_square_error = sqrt(root_mean_square_error / (G.numEdges() * 2));
+        rate *= change_per_step;
+        counter++;
+    }
+    return root_mean_square_error;
+}
