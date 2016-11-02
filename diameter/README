@@ -1,4 +1,5 @@
-Diameter Calculation:
+[A]	DIAMETER CALCULATION:
+	
 	We first describe why exact computation is infeasible. Assume we have a ‘set’ data structure that supports two functions: add() for adding an item, and size() for returning the count of distinct items. With the set, radii of nodes can be computed as follows: 
 (1) For each node i, make a set Si and initialize by adding i to it. 
 (2) For each node i, update Si by adding one-step neighbors of i to Si. 
@@ -10,13 +11,26 @@ Although simple and clear, the above algorithm requires too much space, O(n2), s
 
 For the purpose, we use the Flajolet-Martin algorithm [Flajolet and Martin 1985; Palmer et al. 2002] for counting the number of distinct elements in a multiset. While many other applicable algorithms exist (e.g., [Beyer et al. 2007; Charikar et al. 2000; Garofalakis and Gibbon 2001]), we choose the Flajolet-Martin algorithm because it gives an unbiased estimate, as well as a tight O(log n) bound for the space complexity [Alon et al. 1996].
 
-References:
 
 
-PowerGraph/toolkits/graph_analytics/approximate_diameter.cpp
-http://people.seas.harvard.edu/~babis/tkdd10.pdf
-https://en.wikipedia.org/wiki/Flajolet%E2%80%93Martin_algorithm
-http://reports-archive.adm.cs.cmu.edu/anon/ml2008/CMU-ML-08-117.pdf
+[B]	LIMITATIONS in GM coding:
+	
+	1. vect<bool>[vector_length] Z : cannot be defined - tested in bug_testing_1.gm how to work around that situation
+	2. since vector of boolean values can't be defined - boolean operations like shift ,  masking , bitwise OR can't be performed without explicitely wrting code to iterate through all indices of a vector of int.
+	3. vector can only be defined for primitive types like int , long, float and double - pg 25 - "greenmarl language specification"
+
+
+
+
+
+
+
+[C] 	REFERENCES:
+
+	1. PowerGraph/toolkits/graph_analytics/approximate_diameter.cpp
+	2. http://people.seas.harvard.edu/~babis/tkdd10.pdf
+	3. https://en.wikipedia.org/wiki/Flajolet%E2%80%93Martin_algorithm
+	4. http://reports-archive.adm.cs.cmu.edu/anon/ml2008/CMU-ML-08-117.pdf
 
 
 
