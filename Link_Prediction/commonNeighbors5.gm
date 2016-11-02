@@ -21,7 +21,7 @@ procedure commonNeighbors( g:graph , ID : N_P <int>(g),vector_length : int;  lin
 			if((x.ID != y.ID) && !( nbr.has(y)))
 			{	
 				c = 0;
-				for(s : y.nbrs)
+				foreach(s : y.nbrs)
 				{
 					if(nbr.has(s))
 						c += 1;

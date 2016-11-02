@@ -1,0 +1,71 @@
+/**
+	Computes shortest paths to the given set of landmark vertices, returning a graph where each vertex attribute is a map containing the shortest-path 
+	distance to each reachable landmark.
+	Computes shortest paths to the given set of landmark vertices.
+	
+	Parameters:
+		graph - the graph for which to compute the shortest paths
+		landmarks - the list of landmark vertex ids. Shortest paths will be computed to each landmark.
+	Returns:
+		a graph where each vertex attribute is a map containing the shortest-path distance to each reachable landmark vertex.
+	
+**/
+
+procedure ShortestPath(G : graph, ID : N_P<int>(G), vector_length : int , landmark : vect<int>[vector_length] ; output : nodeProp<vect<int>[vector_length]>) : bool
+{
+    
+  foreach(root : G.nodes)
+	{
+    		N_P<bool> updated;
+   		N_P<bool> updated_nxt;
+    		N_P<double>  dist_nxt;
+    		bool fin = false;
+    		N_P<double> dist;
+    		E_P<double> len ;
+		N_P<node> prev;
+		N_P<edge> prev_edge;
+		N_P<bool> landmark_flag;    		
+
+		G.len = 1.0;
+		G.dist = (_ == root) ? 0.0 : +INF;
+    		G.updated = (_ == root) ? true: false;
+		G.landmark_flag = (landmark.has( _ )) ? true: false;
+    		G.dist_nxt = _.dist;
+    		G.updated_nxt = _.updated;
+    		G.prev = NIL;
+    		G.prev_edge = NIL;
+
+    		while(!fin) 
+			{
+        		fin = true;
+
+        		foreach(n: G.nodes)(n.updated && n.landmark_flag) 
+				{
+            			foreach(s: n.nbrs) 
+					{
+                			edge(G) e = s.toEdge(); // the edge to s
+                			// updated_nxt becomes true only if dist_nxt is actually updated
+                			<s.dist_nxt; s.updated_nxt, s.prev, s.prev_edge> min= <n.dist + e.len; true, n, e>;
+            				}
+       				 }		
+
+        		G.dist = _.dist_nxt;
+        		G.updated = _.updated_nxt;
+        		G.updated_nxt = false;
+			
+			
+        		fin = ! exist(n: G.nodes){(n.updated && n.landmark_flag) || (!n.updated && !n.landmark_flag)};
+    			}
+		// after convergence add the distances to a map . i.e node property and vector
+		int c = 0;
+		vect<int>[vector_length] Z;
+
+		for(n : G.nodes)(n.landmark_flag)
+		{		
+			Z[c] = n.dist;	
+			c += 1;
+		}	
+		root.output = Z;	
+	}	
+return true;
+}

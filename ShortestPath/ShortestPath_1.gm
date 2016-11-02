@@ -1,0 +1,69 @@
+/**
+	Computes shortest paths to the given set of landmark vertices, returning a graph where each vertex attribute is a map containing the shortest-path 
+	distance to each reachable landmark.
+	Computes shortest paths to the given set of landmark vertices.
+	
+	Parameters:
+		graph - the graph for which to compute the shortest paths
+		landmarks - the list of landmark vertex ids. Shortest paths will be computed to each landmark.
+	Returns:
+		a graph where each vertex attribute is a map containing the shortest-path distance to each reachable landmark vertex.
+	
+**/
+
+procedure ShortestPath(G : graph, ID : N_P<int>(G), vector_length : int , landmark : vect<int>[vector_length] ; output : nodeProp<vect<int>[vector_length]>) : bool
+{
+    if(G.numNodes() == 0) return false;
+
+    N_P<bool> Reached;
+    G.Parent = NIL;
+    G.Reached = false;
+
+    //-------------------------------
+    // look up the node
+    //-------------------------------
+    map<node, double> Reachable;
+    Reachable[root] = 0.0;            // Add root to reachable set
+
+    //-------------------------------
+    // look up the node
+    //-------------------------------
+    bool found = false;
+    bool failed = false;
+    while (!found && !failed)
+    {
+        if (Reachable.size() == 0) 
+        {
+            failed = true;
+        }
+        else {
+
+            node(G) next = Reachable.getMinKey();
+            if (next == dest)  {
+                found = true;
+            }
+            else {
+                next.Reached = true;
+                double dist = Reachable[next];
+                Reachable.remove(next);
+
+                for(v: next.nbrs)(!v.Reached) {
+                    edge e = v.toEdge();
+                    if (!Reachable.hasKey(v)) {
+                        Reachable[v] = dist + e.Len;
+                        v.Parent = next;
+                        v.ParentEdge = e;
+                    }
+                    else if (Reachable[v] > dist + e.Len) {
+                        Reachable[v] = dist + e.Len;
+                        v.Parent = next;
+                        v.ParentEdge = e;
+                    }
+                }
+            }
+        }
+    }
+
+    // return false if not reachable
+    return !failed;
+}
