@@ -1,14 +1,25 @@
-/******************************************************************** 
-*	Common neighbors count in directed g for edges x and y 
-*	link_node can return values in the form set of sets of outnode and count
-*********************************************************************/
+/****************************************************************************************************************************************** 
+*	Although simple and clear, the exact algorithm requires too much space, O(n2), since there are n nodes and each node 
+*	requires n space in the end. An approximation algorithm for the effective radius and the diameter computation is thus chosen.
+*	For the purpose, we use the Flajolet-Martin algorithm for counting the number of distinct elements in a multiset. While many 
+*	other applicable algorithms exist, we choose the Flajolet-Martin algorithm because it gives an unbiased estimate, as well as a
+*	tight O(log n) bound for the space complexity.
+*	ALGORITHM:
+*	input : Edge file E = {(ki, kj )} - 
+*		MaxIter = 256 and K = 32 (as per the paper) - but taking K = 1
+*	output: Diameter d,
+*		Neighborhood N(h) where 1 ≤ h ≤ d
+*
+*******************************************************************************************************************************************/
 
-//procedure commonNeighbors( g:graph , ID : N_P <int>(g) ;  link_node : nodeProp<vect<int>[vector_length]>):int
-procedure commonNeighbors( g:graph , ID : N_P <int>(g),vector_length : int;  link_node : nodeProp<vect<int>[vector_length]>):int
+procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radius : nodeProp<int>(g) ,link_node : nodeProp<vect<int>[vector_length]>):int
 {
  	if( g.numNodes()<=1 ) return 0;
 	foreach(n : g.nodes)
-		n.link_node = 0;
+	{	
+		vect<int>[vector_length] bitString;
+		n. = 0;
+	}
 	foreach(x : g.nodes)
 	{			
 		int c = 0;	
