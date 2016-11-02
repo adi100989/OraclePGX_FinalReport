@@ -1,0 +1,18 @@
+/****************************************************************************************************************************** 
+*	testing for vect of bool. doesn't work. A workaround solution.
+*******************************************************************************************************************************/
+
+procedure bug_test_1( g:graph , ID : N_P <int>(g);  radius : N_P<int>(g)):bool
+{
+ 	if( g.numNodes()<=1 ) return false;
+	vect<int>[5] Z = 1 ; 
+	vect<int>[5] A = 0;
+	vect<int>[5] res;		
+	bool x = (Z[1] == 1)&&(A[1]==1);
+	
+	foreach(n:g.nodes)
+		n.radius = 0;
+	return x;
+
+}
+

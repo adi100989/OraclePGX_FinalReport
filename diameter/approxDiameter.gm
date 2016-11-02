@@ -15,10 +15,11 @@
 procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radius : nodeProp<int>(g) ,link_node : nodeProp<vect<int>[vector_length]>):int
 {
  	if( g.numNodes()<=1 ) return 0;
+	N_P <vect<bool>[vector_length]>(g) bitString;
 	foreach(n : g.nodes)
 	{	
-		vect<int>[vector_length] bitString;
-		n. = 0;
+		vect<bool>[vector_length] bs = false; //this works- tested in bug_testing_1.gm
+		n.bitString = bs;
 	}
 	foreach(x : g.nodes)
 	{			
