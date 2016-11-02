@@ -1,0 +1,55 @@
+/****************************************************************************************************************************** 
+*
+*	Assume we have a ‘set’ data structure that supports two functions: add() for adding an item, and size() for
+*	returning the count of distinct items. With the set, radii of nodes can be computed as follows:
+*		(1) For each node i, make a set Si and initialize by adding i to it.
+*		(2) For each node i, update Si by adding one-step neighbors of i to Si.
+*		(3) For each node i, continue updating Si by adding 2,3,...-step neighbors of i to
+*			Si. If the size of Si before and after the addition does not change, then the
+*			node i reached its radius. Iterate until all nodes reach their radii.
+*
+*******************************************************************************************************************************/
+
+procedure exactDiameter( g:graph , ID : N_P <int>(g);  radius : nodeProp<int>(g)):int
+{
+ 	if( g.numNodes()<=1 ) return 0;
+	//nodeProp <int>(G) radius; 
+	foreach( i : g.nodes )
+	{
+		N_S(g) S;  //For each node i, make a set Si
+//		N_S(g) S_temp;
+		S.add(i);  //initialize by adding i to it.
+//		S_temp.add(i);
+		int length_prev = 0;
+		int hop = 0;
+		bool break_flag = true;
+		while(break_flag)
+		{
+			hop += 1;
+			length_prev = S.size();
+			foreach( item : S.items )
+			{	
+				foreach( nbr : item.nbrs)
+				{
+					S.add(nbr);
+				}
+			}
+			
+			if(length_prev == S.size())
+			{
+                                break_flag = false;
+				i.radius = length_prev;
+			}
+			
+		}
+
+	}
+	int diameter = 99999;	
+	for( i : g.nodes )
+	{
+		if(diameter > i.radius)
+			diameter  = i.radius; 	
+	}
+	return diameter;
+}
+
