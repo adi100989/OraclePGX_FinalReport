@@ -15,12 +15,54 @@
 procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radius : nodeProp<int>(g) ,link_node : nodeProp<vect<int>[vector_length]>):int
 {
  	if( g.numNodes()<=1 ) return 0;
-	N_P <vect<bool>[vector_length]>(g) bitString;
+	
+	int maxIter = 256;	//MaxIter is set to 256 since real graphs have relatively small effective diameter. 
+	int K = 1; 		//The parameter K is typically set to 32[Flajolet and Martin 1985]  
+				//but since vector of vectors can't be made in GM , I am taking k = 1 	
+
+	N_P <vect<int>[vector_length]>(g) bitString_H;
+	N_P <vect<int>[vector_length]>(g) bitString_H_prev;	
+	N_P <int>(g) hop;
 	foreach(n : g.nodes)
 	{	
-		vect<bool>[vector_length] bs = false; //this works- tested in bug_testing_1.gm
-		n.bitString = bs;
+		vect<int>[vector_length] bs = 0; //vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
+		n.bitString_H = bs;
+		n.bitString_H_prev = bs;
+		n.h = 1;
 	}
+	int h_max = 0;	
+	int h = 1; 	//start with hop distance = 1
+	while(h <= maxIteration)
+	{
+		int changed  = 0;
+		foreach( i : g.nodes)
+		{
+			foreach( nbr : i.nbrs )
+			{
+				//for(index : i.bitString_H.items)
+				int index = 0;
+				while(index < vector_length)
+				{
+					bool x = (i.bitString_H_prev[index] == 1) ||(nbr.bitString_H_prev[index] == 1);
+					index += 1;
+					if(bool) i.bitString_H[index] = 1;
+					else i.bitString_H[index] = 0;	
+				}
+			}
+				
+		i.hop += 1; //increase the hop value by one
+		if(i.bitString_H != i.bitString_H_prev )
+			changed += 1;		
+		}	
+		
+		if(changed == 0)
+		{
+			h_max = h;
+			h = maxIteration+1; 	// to break while loop
+		}
+	}
+
+/*
 	foreach(x : g.nodes)
 	{			
 		int c = 0;	
@@ -45,6 +87,6 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 
  	}
 	return g.numNodes();
-
+*/
 }
 
