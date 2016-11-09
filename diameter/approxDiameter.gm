@@ -25,35 +25,48 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 	N_P <vect<int>[vector_length]>(g) bitString_H_prev;	//bitstring of previous hop(h-1)
 	N_P <int>(g) hop;					//saving the hop number
 
-	foreach(n : g.nodes)
+	for(n : g.nodes)
 	{	
 		vect<int>[vector_length] bs = 0; 	//vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
-		n.bitString_H = bs;			//newFMbitstring assigned to every node
-		n.bitString_H_prev = bs;
-		n.h = 0;				//initialize first hop as 0
+		bs[n.ID] = 1;
+		n.bitString_H_prev = bs;			//newFMbitstring assigned to every node
+		//bs[n.ID] = 1;
+		n.bitString_H = bs;
+		n.hop = 0;				//initialize first hop as 0
+	//	vect<int>[vector_length] Z=  n.bitString_H;
+	//	K += Z[n.ID];
 	}
 	int h_max = 0;	
 	int h = 0; 					//start with hop distance = 1
 	vect <double>[vector_length] N_h = 0;
 	//double N_h_1 = 0;
  
-	while(h <= maxIteration)
+	while(h <= maxIter)
 	{
 		int changed  = 0;
 		h += 1;
-		foreach( i : g.nodes)
+		for( i : g.nodes)
 		{
-			foreach( nbr : i.nbrs )
+			for( nbr : i.nbrs )
 			{
 				//for(index : i.bitString_H.items)
 				int index = 0;
+				vect<int>[vector_length] bs3 = i.bitString_H;
+				vect<int>[vector_length] bs1 = i.bitString_H_prev;
+				vect<int>[vector_length] bs2 = nbr.bitString_H_prev;  
 				while(index < vector_length)
 				{
-					bool x = (i.bitString_H_prev[index] == 1) ||(nbr.bitString_H_prev[index] == 1);
+					//bool x = (i.bitString_H_prev[index] == 1) ||(nbr.bitString_H_prev[index] == 1);
+					bool x = (bs1[index] == 1) ||(bs2[index] == 1);
 					index += 1;
-					if(x) i.bitString_H[index] = 1;
-					else i.bitString_H[index] = 0;	
+					//if(x) i.bitString_H[index] = 1;
+					//else i.bitString_H[index] = 0;
+					if(x) bs3[index] = 1;
+                                        else bs3[index] = 0;
+	
 				}
+				i.bitString_H = bs3;
+								
 			}
 				
 		i.hop += 1; //increase the hop value by one
@@ -67,10 +80,13 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 		for( i : g.nodes )
 		{	index = 0;
 			bl = 0;	
+			vect<int>[vector_length] bs4 = i.bitString_H;
+
 			while( index < vector_length )
 			{
 				//find the leftmost 0 bit
-				if( i.bitString_H[index] == 0 )
+
+				if( bs4[index] == 0 )
 				{
 					bl = index;
 					index = vector_length + 1;  // to break out of while
@@ -91,7 +107,7 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 		if(changed == 0)
 		{
 			h_max = h;
-			h = maxIteration+1; 	// to break while loop
+			h = maxIter + 1; 	// to break while loop
 		}
 	}
 	//double dia = N_h[h_max];
@@ -104,7 +120,8 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 		j += 1;
 	}
 	return 1;
-	}
+
+}
 
 /*
 	foreach(x : g.nodes)
@@ -132,5 +149,5 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
  	}
 	return g.numNodes();
 */
-}
+
 
