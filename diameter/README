@@ -15,12 +15,76 @@ For the purpose, we use the Flajolet-Martin algorithm [Flajolet and Martin 1985;
 
 [B]	LIMITATIONS in GM coding:
 	
+
 	1. vect<bool>[vector_length] Z : cannot be defined - tested in bug_testing_1.gm how to work around that situation
-	2. since vector of boolean values can't be defined - boolean operations like shift ,  masking , bitwise OR can't be performed without explicitely wrting code to iterate through all indices of a vector of int.
+
+	2. since vector of boolean values can't be defined - boolean operations like shift ,  masking , bitwise OR can't be performed 
+		explicitely writing code to iterate through all indices of a vector of int.
+		
+		SAMPLE: (BITWISE- OR)
+			---------------------------------------------------------------------------------------------------------
+				vect<int>[vector_length] bs3 = i.bitString_H;
+				vect<int>[vector_length] bs1 = i.bitString_H_prev;
+                                vect<int>[vector_length] bs2 = nbr.bitString_H_prev;
+                                while(index < vector_length)
+                                {
+                                        bool x = (bs1[index] == 1) ||(bs2[index] == 1);
+                                        index += 1;                               
+                                        if(x) bs3[index] = 1;
+                                        else bs3[index] = 0;
+
+                                }
+                                i.bitString_H = bs3;
+
+			---------------------------------------------------------------------------------------------------------
+
 	3. vector can only be defined for primitive types like int , long, float and double - pg 25 - "greenmarl language specification"
 
+	4. N_P vectors can't be accessed via indices -- see bug_testing_1.gm -- shows error
+		Workaround:
+			1. a simple vector of primitve type can be accessed via indices
+			2. so to make changes to only some vector indices or traversing & changing a value - need to create a temporary vector
+			3. Make the necessary changes and reassign it as a N_P vector
+ 
+			SAMPLE:
+				----------------------------------------------------------------------------------------------
+				int index = 0;
+                                vect<int>[vector_length] bs3 = i.bitString_H;
+                                vect<int>[vector_length] bs1 = i.bitString_H_prev;
+                                vect<int>[vector_length] bs2 = nbr.bitString_H_prev;
+                                while(index < vector_length)
+                                {
+                                        //bool x = (i.bitString_H_prev[index] == 1) ||(nbr.bitString_H_prev[index] == 1);
+                                        bool x = (bs1[index] == 1) ||(bs2[index] == 1);
+                                        index += 1;
+                                        //if(x) i.bitString_H[index] = 1;
+                                        //else i.bitString_H[index] = 0;
+                                        if(x) bs3[index] = 1;
+                                        else bs3[index] = 0;
 
-
+                                }
+                                i.bitString_H = bs3;
+				---------------------------------------------------------------------------------------------------
+ 
+	
+	5. This copying to and fro from temporary bector to a N_P vector is cause an error while parallel executiom:
+		THIS DOES NOT WORK WHEN THE LINES ARE UNCOMMENTED DUE TO INCONSITENCY:
+			------------------------------------------------------------------------------------------------------------
+			 foreach(n : g.nodes)
+			        {
+                			vect<int>[vector_length] bs = 0;        //vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
+                			bs[n.ID] = 1;
+                			n.bitString_H_prev = bs;                        //newFMbitstring assigned to every node
+                			//bs[n.ID] = 1;
+                			n.bitString_H = bs;
+               	 			n.hop = 0;                              //initialize first hop as 0
+        				//      vect<int>[vector_length] Z=  n.bitString_H;
+        				//      K += Z[n.ID];
+        			}
+			-------------------------------------------------------------------------------------------------------------
+	
+	6. Similarly in the above code if K is returned from the foreach loop , throws an error that all the loops could not complete execution and couldn't return values.
+ 
 
 
 
