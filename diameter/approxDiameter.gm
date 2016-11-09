@@ -25,7 +25,7 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 	N_P <vect<int>[vector_length]>(g) bitString_H_prev;	//bitstring of previous hop(h-1)
 	N_P <int>(g) hop;					//saving the hop number
 
-	for(n : g.nodes)
+	foreach(n : g.nodes)
 	{	
 		vect<int>[vector_length] bs = 0; 	//vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
 		bs[n.ID] = 1;
@@ -45,9 +45,9 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 	{
 		int changed  = 0;
 		h += 1;
-		for( i : g.nodes)
+		foreach( i : g.nodes)
 		{
-			for( nbr : i.nbrs )
+			foreach( nbr : i.nbrs )
 			{
 				//for(index : i.bitString_H.items)
 				int index = 0;
@@ -111,7 +111,7 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 		}
 	}
 	//double dia = N_h[h_max];
-	int j = 0;
+	int j = 1;
 	//int minD = 1;
 	while(j < vector_length)
 	{
@@ -122,32 +122,5 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 	return 1;
 
 }
-
-/*
-	foreach(x : g.nodes)
-	{			
-		int c = 0;	
-		vect<int>[vector_length] Z;
-		N_S(g) nbr;
-		foreach(s : x.nbrs)
-			nbr.add(s);
-		for(y : g.nodes)
-		{	
-			if((x.ID != y.ID) && !( nbr.has(y)))
-			{	
-				c = 0;
-				foreach(s : y.nbrs)
-				{
-					if(nbr.has(s))
-						c += 1;
-				}
-				Z[y.ID] = c;
-				x.link_node= Z;
-			}
-		}
-
- 	}
-	return g.numNodes();
-*/
 
 

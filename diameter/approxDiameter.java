@@ -44,11 +44,11 @@ public class approxDiameter {
 //	}
 //	System.out.println("the average run time over 20 runs == "+avg/20);
     	System.out.println("\n run ended");
-	for(int i=0; i< ID.size();i++)
-	{
+//	for(int i=0; i< ID.size();i++)
+//	{
 //		System.out.println("\n NODE : "+i);
-		System.out.println("\n the list node count for  "+i+" count "+radius.get(i));
-	}
+//		System.out.println("\n the list node count for  "+i+" count "+radius.get(i));
+//	}
     	System.out.println("diameter = " + result.getReturnValue() + " (took " + result.getExecutionTimeMs() + "ms)");
   }
 }
