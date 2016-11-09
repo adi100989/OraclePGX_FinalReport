@@ -44,10 +44,10 @@ procedure exactDiameter( g:graph , ID : N_P <int>(g);  radius : nodeProp<int>(g)
 		}
 
 	}
-	int diameter = 99999;	
+	int diameter = 0;	
 	for( i : g.nodes )
 	{
-		if(diameter > i.radius)
+		if(diameter < i.radius)
 			diameter  = i.radius; 	
 	}
 	return diameter;

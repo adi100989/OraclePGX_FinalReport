@@ -1,6 +1,6 @@
 
  entered Java Program
-12:25:21,464 [main] INFO Ctrl$2 - >>> PGX engine running.
+21:14:13,610 [main] INFO Ctrl$2 - >>> PGX engine running.
 
  graph loaded
 
@@ -8089,6 +8089,6 @@
  the list node count for  4037 count 1
 
  the list node count for  4038 count 1
-diameter = 1 (took 4160ms)
-12:25:27,397 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
-12:25:27,403 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
+diameter = 3829 (took 2224ms)
+21:14:17,535 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+21:14:17,543 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
