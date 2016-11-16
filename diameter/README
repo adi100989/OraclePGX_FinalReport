@@ -85,7 +85,20 @@ For the purpose, we use the Flajolet-Martin algorithm [Flajolet and Martin 1985;
         			}
 			------------------------------------------------------------------
 	
-	6. Similarly in the above code if K is returned from the foreach loop , throws an error that all the loops could not complete execution and couldn't return values.
+	6.------------------------------------------------------
+	The GreenMarl language specification (https://docs.oracle.com/cd/E56133_01/1.2.0/Green_Marl_Language_Specification.pdf    Pg 66) :
+		specifies that the uniform() and the rand() function give random values, but on testing I see that even for very large 
+		ranges, it gives the same output over and over . 
+
+ 		1. (int)(uniform()*1000000000) % size;
+ 		2. (int)(rand(1000000000))  %  size;  
+
+		Since in the program to find out the indices we need integer values , I thought of using 
+			the above approach to find out a random number and then get a modulo value for index.  This is creating a problem.
+
+	-------------------------------------------------------------------------------------
+	
+	7.
  
 
 

@@ -93,15 +93,8 @@ procedure approxDiameter( g:graph , ID : N_P <int>(g), vector_length : int; radi
 				}	
 				index +=1;	
 			}
-			int pow = 1;
-			while(bl > 0)
-			{
-				//calculate the power of 2 raised to bl
-				pow = pow * 2;
-				bl = bl - 1;  
-			}
-	
-			N_h[h] += ((1/0.77351)*pow);		
+			
+			N_h[h] += ((1/0.77351)*pow(2.0, bl));		
 		}
 		
 		if(changed == 0)
