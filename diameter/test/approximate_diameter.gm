@@ -1,0 +1,131 @@
+procedure approximate_diameter(G:graph, log_n : int, maxIter : int, K : int ; bit_mask : nodeProp<vect<int>[log_n]>, bit_string : nodeProp<vect<int>[log_n]> , radius : nodeProp<int> ): int {
+
+	
+	
+	//N_P <vect<int>[log_n]>(G) bit_string;  	
+	N_P <vect<int>[log_n]>(G) bit_string_prev;
+	N_P <vect<int>[maxIter]>(G) neighbourhood;
+	
+	vect<int>[maxIter] total_neighbourhood = 0;
+	
+	int h_max = 0;
+	int h = 0;
+	
+	
+	int approximate_diameter = 0;
+	
+	foreach(i : G.nodes) {
+	i.bit_string = i.bit_mask;
+	i.bit_string_prev = i.bit_mask;
+	}
+	
+	int cnt = 0;
+	
+	// calculating bitstring for each node for each hop
+	
+	while(h < maxIter){
+		int changed = 0;
+		cnt += 1;
+		for(i : G.nodes) {
+		
+			vect<int>[log_n] bit_string_prev_copy = i.bit_string_prev;
+			vect<int>[log_n] bit_string_copy = i.bit_string;
+			
+			for( nbr : i.nbrs )
+			{
+				vect<int>[log_n] nbr_bit_string_prev_copy = nbr.bit_string_prev;
+				int index = 0;
+				
+				while( index < log_n)
+				{
+					bool x = (bit_string_prev_copy[index] == 1) || (nbr_bit_string_prev_copy[index] == 1);
+					if(x) {
+						
+						bit_string_copy[index] = 1;
+						}
+					else {
+						bit_string_copy[index] = 0;	
+					}
+					
+					index += 1;
+				}
+			}
+			
+			if(bit_string_copy != bit_string_prev_copy )
+			{
+				changed += 1;	
+				
+			}
+			
+			i.bit_string_prev = bit_string_copy;
+			i.bit_string = bit_string_copy;
+		}
+		
+		//calculating neighbourhood function
+		
+		foreach( i : G.nodes){
+			int index = 0;
+			double leftmost_zero_bit = 0 ;
+			vect<int>[log_n] bit_string_copy = i.bit_string;
+			while( index < log_n )
+			{
+				//find the leftmost 0 bit
+				if( bit_string_copy[index] == 0 )
+				{
+					leftmost_zero_bit = index;
+					index = log_n + 1;  
+				}	
+				index +=1;	
+			}
+			
+			vect<int>[maxIter] neighbourhood_copy = i.neighbourhood;
+			neighbourhood_copy[h] =  1.29280811 * pow(2.0 , leftmost_zero_bit);
+			total_neighbourhood[h] += neighbourhood_copy[h];
+			i.neighbourhood = neighbourhood_copy;
+		}
+		
+		if (changed == 0 ){
+			h_max = h;
+			h = maxIter + 1; 
+		}
+		h += 1;
+	}
+	
+	
+	// calculating approximate radius for each node
+	
+	for( i : G.nodes){
+		h = 0;
+		vect<int>[maxIter] neighbourhood_copy = i.neighbourhood;
+		while(h < maxIter){
+		
+			if(neighbourhood_copy[h] >= neighbourhood_copy[h_max]){
+				i.radius = h;
+				h = maxIter +1;
+			
+			}
+			h += 1;
+				
+		}
+	}
+	
+	h = 0;
+	
+	//calculating approximate diameter of the graph
+	
+	while(h < maxIter){
+		
+			if(total_neighbourhood[h] >= total_neighbourhood[h_max]){
+				approximate_diameter = h;
+				h = maxIter +1;
+			
+			}
+				
+			h += 1;
+	}
+	
+	//return approximate_diameter + 1;
+	return h_max;
+	//return cnt;
+	
+}

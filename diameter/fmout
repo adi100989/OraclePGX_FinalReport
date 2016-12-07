@@ -1,0 +1,3 @@
+13:02:14,023 [main] INFO Ctrl$2 - >>> PGX engine running.
+13:02:15,250 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+13:02:15,255 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
