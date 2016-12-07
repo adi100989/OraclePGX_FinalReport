@@ -1,0 +1,30 @@
+/****************************************************************************************************************************** 
+*	Accessing index in vector of node property
+*******************************************************************************************************************************/
+
+procedure access_index( g:graph , ID : N_P <int>(g)):int
+{
+ 	if( g.numNodes()<=1 ) return 1;
+
+	N_P <vect<int>[5000]>(g) bitString_H;
+	
+	//commented lines show a workaround
+
+	for(n : g.nodes)
+	{	
+		n.bitString_H[1] = 1;  //throws an error		
+		
+		//commented lines show a workaround
+
+		//vect<int>[5000] bs = 0; 	
+		//n.bitString_H = bs;		
+		//bs[1]  = 1;
+		//n.bitString_H = bs;
+		
+	}
+	
+	
+	return 1;
+
+}
+
