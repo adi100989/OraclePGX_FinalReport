@@ -51,11 +51,11 @@ public class ApproximateDiameter {
   
   public static void main(String[] args) throws Exception {
     PgxSession session = Pgx.createSession("my-session");
-    CompiledProgram approximate_diameter = session.compileProgram("../github/OraclePGX_FinalReport/diameter/approximate_diameter.gm");
+    CompiledProgram approximate_diameter = session.compileProgram("/var/services/homes/adisingh/github/OraclePGX_FinalReport/diameter/test/approximate_diameter.gm");
    // CompiledProgram approximate_diameter = session.compileProgram("examples/gm/node_property_vector.gm");
   // PgxGraph graph = session.readGraphWithProperties("examples/graphs/amazon_graphlab.adj.json");
-  PgxGraph graph = session.readGraphWithProperties("../github/OraclePGX_FinalReport/Link_Prediction/facebook.json");
-    VertexProperty<Integer,Integer> id = graph.getVertexProperty("id");
+  PgxGraph graph = session.readGraphWithProperties("/var/services/homes/adisingh/github/OraclePGX_FinalReport/Link_Prediction/facebook.json");
+    VertexProperty<Integer,Integer> id = graph.getVertexProperty("nodeID");
     //System.out.println("Number of nodes:"+(int)id.size());
     double n = (double)id.size();
     int maxIter = 256;
@@ -65,7 +65,7 @@ public class ApproximateDiameter {
     VertexProperty<Integer,Integer> radius = graph.createVertexProperty(PropertyType.INTEGER, "radius");
     VertexProperty<Integer,PgxVect<Integer>> bit_string = graph.createVertexVectorProperty(PropertyType.INTEGER, BITMASK_LENGTH, "bit_string");
     //radius.getTopKValues(10)
-   PrintWriter writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/bitmasks.txt", false));
+   PrintWriter writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/test/bitmasks.txt", false));
     VertexProperty<Integer,PgxVect<Integer>> bit_mask = graph.createVertexVectorProperty(PropertyType.INTEGER, BITMASK_LENGTH, "bit_mask");
     Iterable<Map.Entry<PgxVertex<Integer>,Integer>> id_iterator = id.getValues();
     	  // Display elements 
@@ -88,7 +88,7 @@ public class ApproximateDiameter {
     
     AnalysisResult<Integer> result = approximate_diameter.run(graph, BITMASK_LENGTH,  maxIter, K, bit_mask, bit_string , radius  );
    //  AnalysisResult<Integer> result = approximate_diameter.run(graph, BITMASK_LENGTH, maxIter, K, bit_mask, bit_string, radius  );
-    writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/radius_results.txt", false));
+    writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/test/radius_results.txt", false));
     
     Iterable<Map.Entry<PgxVertex<Integer>,Integer>> radius_iterator = radius.getValues();
     	  // Display elements 
@@ -102,7 +102,7 @@ public class ApproximateDiameter {
       }
     writer.close();
     
-     writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/bitmask_results.txt", false));
+     writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/test/bitmask_results.txt", false));
     
    //Iterable<Map.Entry<PgxVertex<Integer>,PgxVect<Integer>>> bm_iterator = bit_mask.getValues();
   Iterable<Map.Entry<PgxVertex<Integer>,PgxVect<Integer>>> bm_iterator = bit_string.getValues();
