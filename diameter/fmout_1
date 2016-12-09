@@ -1,5 +1,0 @@
-21:56:24,411 [main] INFO Ctrl$2 - >>> PGX engine running.
-Number of nodes:4039
-Result = 4 (took 623ms)
-22:03:11,450 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
-22:03:11,457 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down

@@ -1,3 +1,0 @@
-1. exactDiameter.gm and exactDiameter.java - calculate the radii of individual nodes
-
-2. bug_testing_1.gm and bug_testing_1.java - shows a workaround to work with vectors of bool, since vect<bool> is not supported by PGX
