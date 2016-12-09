@@ -12,7 +12,7 @@ import oracle.pgx.api.PgxVect;
 import oracle.pgx.api.Scalar;
 
 
-public class commonNeighbors5 {
+public class approxDiameter {
 
   public static void main(String[] args) throws Exception {
 	System.out.println("\n entered Java Program");
@@ -24,31 +24,32 @@ public class commonNeighbors5 {
     	System.out.println("\n graph loaded");
     	VertexProperty<Integer,Integer> ID = graph.getVertexProperty("nodeID");
 	System.out.println("\n the size is = "+(int)ID.size());	
-        VertexProperty<Integer,PgxVect<Integer>> link_node = graph.createVertexVectorProperty(PropertyType.INTEGER,(int)ID.size(), "link_node");
-	CompiledProgram commonNeighbors5 = session.compileProgram("../github/OraclePGX_FinalReport/Link_Prediction/commonNeighbors5.gm");
+        //VertexProperty<Integer,PgxVect<Integer>> link_node = graph.createVertexVectorProperty(PropertyType.INTEGER,(int)ID.size(), "link_node");
+	VertexProperty<Integer,Integer> radius = graph.createVertexProperty(PropertyType.INTEGER,"radius");
+	CompiledProgram approxDiameter = session.compileProgram("../github/OraclePGX_FinalReport/diameter/approxDiameter.gm");
 
         System.out.println("\n After Compiling greenmarl Java Program");
 
      	System.out.println("\n run start");
-	double avg = 0.0;	
-	for(int i =0;i<20;i++)
-	{  	
-		long startTime = System.currentTimeMillis();
-		AnalysisResult <Integer> result = commonNeighbors5.run(graph,ID,(int)ID.size(), link_node);
-		long endTime   = System.currentTimeMillis();
-		long totalTime = endTime - startTime;
-		avg = avg + totalTime;
+//	double avg = 0.0;	
+//	for(int i =0;i<1;i++)
+//	{  	
+//		long startTime = System.currentTimeMillis();
+		AnalysisResult <Integer> result = approxDiameter.run(graph,ID,(int)ID.size()+1,radius);
+//		long endTime   = System.currentTimeMillis();
+//		long totalTime = endTime - startTime;
+//		avg = avg + totalTime;
 //		System.out.println(totalTime);
 //		AnalysisResult <Integer> result = commonNeighbors5.run(graph,ID,(int)ID.size(), link_node);
-	}
-	System.out.println("the average run time over 20 runs == "+avg/20);
+//	}
+//	System.out.println("the average run time over 20 runs == "+avg/20);
     	System.out.println("\n run ended");
-	for(int i=0; i< ID.size();i++)
-	{
-		System.out.println("\n NODE : "+i);
-		System.out.println("\n the list node count for  "+i+" count "+link_node.get(i));
-	}
-    //	System.out.println("Total common neighbors= " + result.getReturnValue() + " (took " + result.getExecutionTimeMs() + "ms)");
+//	for(int i=0; i< ID.size();i++)
+//	{
+//		System.out.println("\n NODE : "+i);
+//		System.out.println("\n the list node count for  "+i+" count "+radius.get(i));
+//	}
+    	System.out.println("diameter = " + result.getReturnValue() + " (took " + result.getExecutionTimeMs() + "ms)");
   }
 }
 

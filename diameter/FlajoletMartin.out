@@ -1,18 +1,5 @@
-adisingh@ironcity:~/pgx-1.2.1-otn-linux-x86-64bit$ java -cp lib/embedded/*:lib/common/*:third-party/*:classes:conf FlajoletMartin
-
- entered Java Program
-12:08:13,924 [main] INFO Ctrl$2 - >>> PGX engine running.
-
- graph loaded
-
- the size is = 4039
-
- After Compiling greenmarl Java Program
-
- run start
-
- run ended
-diameter = 258 (took 2388330ms)
-12:48:03,786 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
-12:48:03,793 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
-
+21:56:24,411 [main] INFO Ctrl$2 - >>> PGX engine running.
+Number of nodes:4039
+Result = 4 (took 623ms)
+22:03:11,450 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> shut down request received. Wait for active tasks to complete.
+22:03:11,457 [pgx-jvm-shutdown-hook] INFO Ctrl$4 - >>> engine shut down
