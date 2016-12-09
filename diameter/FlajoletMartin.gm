@@ -1,171 +1,181 @@
-/****************************************************************************************************************************************** 
-*	Although simple and clear, the exact algorithm requires too much space, O(n2), since there are n nodes and each node 
-*	requires n space in the end. An approximation algorithm for the effective radius and the diameter computation is thus chosen.
-*	For the purpose, we use the Flajolet-Martin algorithm for counting the number of distinct elements in a multiset. While many 
-*	other applicable algorithms exist, we choose the Flajolet-Martin algorithm because it gives an unbiased estimate, as well as a
-*	tight O(log n) bound for the space complexity.
-*	ALGORITHM:
-*	input : Edge file E = {(ki, kj )} - 
-*		MaxIter = 256 and K = 32 (as per the paper) - but taking K = 1
-*		vector_length = number of nodes (this will be the number of elements in the set)
-*	output: Diameter d,
-*		Neighborhood N(h) where 1 ≤ h ≤ d
+/******************************************************************************************************************************************
+*       Although simple and clear, the exact algorithm requires too much space, O(n2), since there are n nodes and each node
+*       requires n space in the end. An approximation algorithm for the effective radius and the diameter computation is thus chosen.
+*       For the purpose, we use the Flajolet-Martin algorithm for counting the number of distinct elements in a multiset. While many
+*       other applicable algorithms exist, we choose the Flajolet-Martin algorithm because it gives an unbiased estimate, as well as a
+*       tight O(log n) bound for the space complexity.
+*       ALGORITHM:
+*       input : Edge file E = {(ki, kj )} -
+*               MaxIter = 256 and K = 32 (as per the paper) - but taking K = 1
+*               vector_length = number of nodes (this will be the number of elements in the set)
+*       output: Diameter d,
+*               Neighborhood N(h) where 1 ≤ h ≤ d
 *
 *******************************************************************************************************************************************/
 
-procedure FMApproxDiameter( g:graph , ID : N_P <int>(g), vector_length : int,  k1 : int, maxIter : int;bit_mask : nodeProp<vect<int>[vector_length]>,  bitString : nodeProp<vect<int>[vector_length]>,  radius : nodeProp<int>(g) ):int
-{
- 	if( g.numNodes()<=1 ) return 0;
-		
-	//int maxIter = 256;					//MaxIter is set to 256 since real graphs have relatively small effective diameter. 
-	//int K = 32; 						//The parameter K(# of bitstrings) is typically set to 32[Flajolet and Martin 1985]  
-	//int vector_length1 = vector_length * K;		//but since vector of vectors can't be made in GM , I am taking vector_length * K to store
-								// k bitstrings 	
 
-	N_P <vect<int>[vector_length]>(g) bitString_H;  	//bitstring of current hop(h)
-	N_P <vect<int>[vector_length]>(g) bitString_H_prev;	//bitstring of previous hop(h-1)
-	N_P <int>(g) hop;					//saving the hop number
-	N_P <vect<double>[maxIter]>(g) nbrhood;
+procedure FlajoletMartin(g : graph, vector_length : int, maxIter : int, K : int ; bit_mask : nodeProp<vect<int>[vector_length]>, bitString_H : nodeProp<vect<int>[vector_length]> , radius : nodeProp<int> ): int {
+
+	if( g.numNodes()<=1 ) return 0;
+	
+	
+	//int maxIter = 256;                                    //MaxIter is set to 256 since real graphs have relatively small effective diameter.
+	//int K = 32;                                           //The parameter K(# of bitstrings) is typically set to 32[Flajolet and Martin 1985]
+	//int vector_length1 = vector_length * K;               //but since vector of vectors can't be made in GM , I am taking vector_length * K to store
+															// k bitstrings
+
+	//N_P <vect<int>[vector_length]>(g) bitString_H;          //bitstring of current hop(h)
+	N_P <vect<int>[vector_length]>(g) bitString_H_prev;     //bitstring of previous hop(h-1)
+	N_P <int>(g) hop;                                       //saving the hop number
+	N_P <vect<int>[maxIter]>(g) nbrhood;
 
 	/*
 	//to convert from decimal to binary
 	foreach(n : g.nodes)
-	{	
-		vect<int>[vector_length] bs = 0;
-		vect<int>[vector_length] bs1 = 0; 
-		int k = k1;
-		int offset;	
-		while(k>=0)
-		{
-			k = k- 1;
-			offset = 9 - k ;
-			int num = (n.ID + k + 2)% g.numNodes();
-			int index = size;
-			while(num > 0)
-			{
-				int rem = num % 2;
-				num = num / 2;
-				bs[index+(offset*size)] = rem;
-				index = index -1;
-			}
-			
-		}
-		n.bitString_H_prev = bs1;                        //newFMbitstring assigned to every node
-                n.bitString_H = bs;
-
-	}
-	*/
-	foreach(n : g.nodes)
-	{	
-		//vect<int>[vector_length] bs = 0; 		//vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
-		//bs[n.ID] = 1;					// since rand() gives the same value , thus making changes using ID.
-		n.bitString_H_prev = n.bit_mask;			//newFMbitstring assigned to every node
-		n.bitString_H = n.bit_mask;
-		n.hop = 0;					//initialize first hop as 0
-		vect<int>[vector_length] z = 0;
-		n.nbrhood = z; 
-	}
-
-	int h_max = 0;	
-	int h = 0; 						//start with hop distance = 1
-	vect <double>[maxIter] N_h = 0;
-	
-	int changed = 0; 
-	while(h <  maxIter)
 	{
-		changed  = 0;
-		//h += 1;
-		foreach( i : g.nodes)
-		{
-			 vect<int>[vector_length] bs = i.bitString_H;
-                         vect<int>[vector_length] bs_prev = i.bitString_H_prev;
-			 //vect<int>[vector_length] bs4 = i.bitString_H;
-
-			foreach( nbr : i.nbrs )
+			vect<int>[vector_length] bs = 0;
+			vect<int>[vector_length] bs1 = 0;
+			int k = k1;
+			int offset;
+			while(k>=0)
 			{
-				
+					k = k- 1;
+					offset = 9 - k ;
+					int num = (n.ID + k + 2)% g.numNodes();
+					int index = size;
+					while(num > 0)
+					{
+							int rem = num % 2;
+							num = num / 2;
+							bs[index+(offset*size)] = rem;
+							index = index -1;
+					}
+
+			}
+			n.bitString_H_prev = bs1;                        //newFMbitstring assigned to every node
+			n.bitString_H = bs;
+
+	}
+    */
+
+	foreach(n : g.nodes)
+        {
+                //vect<int>[vector_length] bs = 0;              //vect<bool>[vetor_length] doesn't work- tested in bug_testing_1.gm
+                //bs[n.ID] = 1;                                 // since rand() gives the same value , thus making changes using ID.
+                n.bitString_H_prev = n.bit_mask;                        //newFMbitstring assigned to every node
+                n.bitString_H = n.bit_mask;
+                n.hop = 0;                                      //initialize first hop as 0
+                vect<int>[maxIter] z = 0;
+                n.nbrhood = z;
+        }
+
+	int h_max = 0;
+	int h = 0;                                              //start with hop distance = 1
+	vect <int>[maxIter] N_h = 0;
+	int approximate_diameter = 0;
+	int cnt = 0;
+
+	while(h < maxIter){
+		int changed = 0;
+		cnt += 1;
+		for(i : g.nodes) {
+		
+			vect<int>[vector_length] bs_prev = i.bitString_H_prev;
+			vect<int>[vector_length] bs = i.bitString_H;
+			//vect<int>[vector_length] bs4 = i.bitString_H;
+
+			for( nbr : i.nbrs )
+			{
 				int index = 0;
-				//vect<int>[vector_length] bs3 = i.bitString_H;
-				//vect<int>[vector_length] bs1 = i.bitString_H_prev;
-				vect<int>[vector_length] bs_prev_2 = nbr.bitString_H_prev;  
-				while(index < vector_length)
+                		//vect<int>[vector_length] bs3 = i.bitString_H;
+                		//vect<int>[vector_length] bs1 = i.bitString_H_prev;
+                                
+				vect<int>[vector_length] bs_prev_2 = nbr.bitString_H_prev;
+				
+				while( index < vector_length)
 				{
 					bool x = (bs_prev[index] == 1) ||(bs_prev_2[index] == 1);
+                    			//index += 1;
+                    			if(x) bs[index] = 1;
+                    			else bs[index] = 0;
 					index += 1;
-		
-					if(x) bs[index] = 1;
-                                        else bs[index] = 0;
-	
 				}
 			}
-			//	i.bitString_H = bs3;
-			//	i.bitString_H_prev = bs4;				
-			//}
-				
-		i.hop += 1; //increase the hop value by one
-		if(i.bitString_H_prev != i.bitString_H_prev )
-			changed += 1;	
-		i.bitString_H_prev = bs;
-		i.bitString_H = bs;	
-		}	
-		//calculate neighborhood function
-		//N(h) = sum_over_i(N(h,i))
-		double bl = 0;
-		int index =  0;
-		for( i : g.nodes )
-		{	index = 0;
-			bl = 0;	
-			vect<int>[vector_length] bs = i.bitString_H;
+			i.hop += 1; //increase the hop value by one
 
+			if(bs != bs_prev )
+				changed += 1;	
+			
+			i.bitString_H_prev = bs;
+			i.bitString_H = bs;
+		}
+		
+		//calculating neighbourhood function
+		//N(h) = sum_over_i(N(h,i))
+        //double bl = 0;
+        //int index =  0;
+                
+		foreach( i : g.nodes){
+			int index = 0;
+			double bl = 0 ;
+			vect<int>[vector_length] bs = i.bitString_H;
+			
 			while( index < vector_length )
 			{
 				//find the leftmost 0 bit
-
+			
 				if( bs[index] == 0 )
 				{
-					bl = index ;
+					bl = index;
 					index = vector_length + 1;  // to break out of while
 				}	
 				index +=1;	
 			}
-		vect<double>[maxIter] nbrhd_v = i.nbrhood;
-		nbrhd_v[h] = ((1/0.77351)*pow(2.0, bl));
-		N_h[h] +=  nbrhd_v[h];
-		i.nbrhood = nbrhd_v;		
+			
+			vect<double>[maxIter] nbrhd_v = i.nbrhood;
+			nbrhd_v[h] =  ((1/0.77351)*pow(2.0, bl));
+			N_h[h] += nbrhd_v[h];
+			i.nbrhood = nbrhd_v;
 		}
 		
-		if(changed == 0)
+		if (changed == 0 )
 		{
 			h_max = h;
-			h = maxIter + 1; 	// to break while loop
+			h = maxIter + 1;  // to break while loop
 		}
 	h += 1;
 	}
+	
+	
 	// calculating approximate radius for each node
 	
-	for( n : g.nodes){
+	for( n : g.nodes)
+	{
 		h = 0;
 		vect<int>[maxIter] nbrhd_v = n.nbrhood;
-		while(h < maxIter){
-		
-			if(nbrhd_v[h] >= nbrhd_v[h_max]){
+		while(h < maxIter)
+		{
+			if(nbrhd_v[h] >= nbrhd_v[h_max])
+			{
 				n.radius = h;
 				h = maxIter +1;
 			
 			}
 			h += 1;
-				
 		}
 	}
 	
-	int j =0 ;
+	int j = 0;
+	
 	while(j < maxIter)
 	{
 		if(N_h[j] >= N_h[h_max])
-			return j;		
+		{
+				approximate_diameter = j;
+				j = maxIter +1;
+		}
 		j += 1;
 	}
+	
 	return h_max;
 }
-
-

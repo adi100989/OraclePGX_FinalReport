@@ -1,8 +1,3 @@
-/**
- * Copyright (C) 2013 - 2015 Oracle and/or its affiliates. All rights reserved.
- */
-
-
 import oracle.pgx.api.CompiledProgram;
 import oracle.pgx.api.Pgx;
 import oracle.pgx.api.PgxGraph;
@@ -52,11 +47,11 @@ public class ApproximateDiameter {
   public static void main(String[] args) throws Exception {
     PgxSession session = Pgx.createSession("my-session");
     CompiledProgram approximate_diameter = session.compileProgram("/var/services/homes/adisingh/github/OraclePGX_FinalReport/diameter/test/approximate_diameter.gm");
-   // CompiledProgram approximate_diameter = session.compileProgram("examples/gm/node_property_vector.gm");
-  // PgxGraph graph = session.readGraphWithProperties("examples/graphs/amazon_graphlab.adj.json");
+
+
   PgxGraph graph = session.readGraphWithProperties("/var/services/homes/adisingh/github/OraclePGX_FinalReport/Link_Prediction/facebook.json");
     VertexProperty<Integer,Integer> id = graph.getVertexProperty("nodeID");
-    //System.out.println("Number of nodes:"+(int)id.size());
+    System.out.println("Number of nodes:"+(int)id.size());
     double n = (double)id.size();
     int maxIter = 256;
     int K =1;
@@ -64,8 +59,7 @@ public class ApproximateDiameter {
     int log_n = (int) Math.log(n);
     VertexProperty<Integer,Integer> radius = graph.createVertexProperty(PropertyType.INTEGER, "radius");
     VertexProperty<Integer,PgxVect<Integer>> bit_string = graph.createVertexVectorProperty(PropertyType.INTEGER, BITMASK_LENGTH, "bit_string");
-    //radius.getTopKValues(10)
-   PrintWriter writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/test/bitmasks.txt", false));
+    PrintWriter writer = new PrintWriter(new FileOutputStream("../github/OraclePGX_FinalReport/diameter/test/bitmasks.txt", false));
     VertexProperty<Integer,PgxVect<Integer>> bit_mask = graph.createVertexVectorProperty(PropertyType.INTEGER, BITMASK_LENGTH, "bit_mask");
     Iterable<Map.Entry<PgxVertex<Integer>,Integer>> id_iterator = id.getValues();
     	  // Display elements 
